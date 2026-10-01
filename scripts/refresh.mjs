@@ -308,12 +308,28 @@ async function summary(lines) {
 }
 
 // ---------- Exécution ----------
-await spToken();
-const artists = await collectArtists();
+// Spotify n'est relu qu'une fois par semaine (quota limité) ; sinon on réutilise la liste enregistrée
+const SPOTIFY_EVERY = 7 * 86400000 - 3 * 3600000;
+let artists, spotifyAt, spotifyNote;
+if (prev?.artists?.length && prev.spotifyAt && Date.now() - prev.spotifyAt < SPOTIFY_EVERY) {
+  artists = prev.artists; spotifyAt = prev.spotifyAt;
+  spotifyNote = `${artists.length} artistes (liste Spotify de la semaine réutilisée)`;
+} else {
+  try {
+    await spToken();
+    artists = await collectArtists();
+    spotifyAt = Date.now();
+    spotifyNote = `${artists.length} artistes lus sur Spotify (${spErrors} erreurs)`;
+  } catch (e) {
+    if (!prev?.artists?.length) { await summary([`❌ ${e.message} Réessaie dans quelques heures.`]); process.exit(1); }
+    artists = prev.artists; spotifyAt = prev.spotifyAt || null;
+    spotifyNote = `${artists.length} artistes (⚠️ ${e.message} Ancienne liste utilisée.)`;
+  }
+}
 if (!artists.length) { await summary(['❌ Aucun artiste trouvé sur Spotify. Liste précédente conservée.']); process.exit(1); }
 
 // Protection : si Spotify a renvoyé beaucoup moins d'artistes que la dernière fois, on n'écrase rien
-if (prev?.artists?.length && artists.length < prev.artists.length * 0.5) {
+if (artists !== prev?.artists && prev?.artists?.length && artists.length < prev.artists.length * 0.5) {
   await summary([`⚠️ Seulement ${artists.length} artistes (contre ${prev.artists.length} la dernière fois, ${spErrors} erreurs Spotify).`,
     'Liste précédente conservée. Réessaie plus tard.']);
   process.exit(1);
@@ -349,6 +365,7 @@ events.forEach(e => { e.isNew = !!prevKeys && !prevKeys.has(e.key); });
 
 await fs.writeFile('data.json', JSON.stringify({
   at: Date.now(),
+  spotifyAt,
   artists: artists.slice(0, 400).map(a => ({ name: a.name, score: Math.round(a.score) })),
   events,
   serp: { v: SERP_VERSION, at: google.at, events: google.events }
@@ -356,7 +373,7 @@ await fs.writeFile('data.json', JSON.stringify({
 
 const fresh = events.filter(e => e.isNew && inZone(e));
 await summary([
-  `🎧 ${artists.length} artistes trouvés sur Spotify, ${pick.length} surveillés (${spErrors} erreurs Spotify)`,
+  `🎧 ${spotifyNote}, ${pick.length} surveillés`,
   `🎟️ ${events.length} concerts en Europe, ${events.filter(inZone).length} dans ta zone`,
   `✨ ${fresh.length} nouveaux concerts dans ta zone`,
   `🇫🇷 ${google.note}`
