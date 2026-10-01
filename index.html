@@ -1,0 +1,440 @@
+<!doctype html>
+<html lang="fr">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<meta name="theme-color" content="#E0218A">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-title" content="Concerts">
+<link rel="manifest" href="manifest.json">
+<link rel="icon" href="icon-192.png">
+<link rel="apple-touch-icon" href="icon-192.png">
+<title>Mes concerts</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght@12..96,400;12..96,600;12..96,800&display=swap" rel="stylesheet">
+<style>
+:root{
+  --bg:#F1EEF8; --surface:#FFFFFF; --ink:#1D1640; --muted:#6B6488; --line:#DCD6EC;
+  --accent:#E0218A; --accent-soft:#FBE3F0; --new:#1E8E5A;
+  color-scheme: light dark;
+}
+@media (prefers-color-scheme: dark){
+  :root{ --bg:#140F2B; --surface:#1F1840; --ink:#F2EEFF; --muted:#A39BC4; --line:#332A5C;
+         --accent:#FF3DA5; --accent-soft:#3A1F4F; --new:#4CD38E; }
+}
+*{box-sizing:border-box}
+html,body{margin:0;min-height:100%}
+body{
+  background:var(--bg); color:var(--ink);
+  font-family:"Bricolage Grotesque",system-ui,-apple-system,"Segoe UI",Roboto,sans-serif;
+  font-size:16px; line-height:1.45; -webkit-font-smoothing:antialiased;
+  padding-bottom:calc(72px + env(safe-area-inset-bottom,0px));
+}
+button,input,select{font:inherit;color:inherit}
+a{color:inherit}
+:focus-visible{outline:3px solid var(--accent);outline-offset:2px}
+
+.top{position:sticky;top:0;z-index:5;background:var(--bg);padding:calc(env(safe-area-inset-top,0px) + 16px) 18px 10px}
+.top-inner,main{max-width:640px;margin:0 auto}
+main{padding:4px 18px 24px}
+.top-row{display:flex;align-items:flex-end;justify-content:space-between;gap:12px}
+h1{font-size:36px;line-height:1;font-weight:800;letter-spacing:-.02em;margin:0}
+h2.view-title{font-size:30px;font-weight:800;margin:0}
+.updated{color:var(--muted);font-size:14px;margin:6px 0 0}
+.round{flex:none;width:46px;height:46px;border-radius:50%;border:0;background:var(--accent);color:#fff;display:grid;place-items:center;cursor:pointer}
+.round svg{width:22px;height:22px}
+.round.spin svg{animation:spin 1s linear infinite}
+@keyframes spin{to{transform:rotate(360deg)}}
+.search{margin-top:12px;width:100%;padding:11px 14px;border-radius:12px;border:1px solid var(--line);background:var(--surface)}
+
+.month{font-size:22px;font-weight:800;margin:22px 0 10px;text-transform:capitalize}
+.gig{display:grid;grid-template-columns:66px 1fr;background:var(--surface);border:1px solid var(--line);border-radius:14px;overflow:hidden;margin-bottom:10px}
+.stub{position:relative;background:var(--accent);color:#fff;display:flex;flex-direction:column;align-items:center;justify-content:center;padding:10px 0}
+.stub::after{content:"";position:absolute;right:-5px;top:0;bottom:0;width:10px;
+  background:radial-gradient(circle at 5px 7px,var(--surface) 3px,transparent 3.6px) 0 0/10px 14px repeat-y}
+.stub .wd{font-size:13px;opacity:.9}
+.stub .d{font-size:30px;font-weight:800;line-height:1}
+.info{padding:12px 14px 12px 16px;min-width:0}
+.info h3{margin:0;font-size:18px;font-weight:700;line-height:1.2}
+.where{margin:3px 0 0;font-size:15px}
+.meta{margin:2px 0 0;font-size:14px;color:var(--muted)}
+.links{display:flex;flex-wrap:wrap;gap:8px;margin-top:9px}
+.tix{font-size:14px;font-weight:600;text-decoration:none;padding:5px 12px;border-radius:999px;background:var(--accent-soft)}
+.new{display:inline-block;font-size:12px;font-weight:600;color:var(--new);border:1px solid var(--new);border-radius:999px;padding:0 7px;margin-left:6px;vertical-align:2px}
+
+.empty{text-align:center;padding:48px 12px;color:var(--muted)}
+.empty p{max-width:34ch;margin:0 auto 16px}
+
+.btn{border:0;border-radius:12px;padding:12px 18px;background:var(--accent);color:#fff;font-weight:600;cursor:pointer}
+.btn:disabled{opacity:.5}
+.btn.ghost{background:transparent;color:var(--ink);border:1px solid var(--line)}
+.btn.danger{color:#D23B3B;border-color:#D23B3B}
+.group{background:var(--surface);border:1px solid var(--line);border-radius:14px;padding:14px 16px;margin:14px 0}
+.group h3{margin:0 0 10px;font-size:18px}
+label{display:block;font-size:15px;margin:10px 0}
+label input:not([type=checkbox]):not([type=range]),label select{display:block;width:100%;margin-top:5px;padding:10px 12px;border-radius:10px;border:1px solid var(--line);background:var(--bg)}
+label.check{display:flex;align-items:center;gap:10px}
+input[type=checkbox]{width:20px;height:20px;accent-color:var(--accent)}
+input[type=range]{width:100%;accent-color:var(--accent);margin-top:8px}
+.hint{font-size:14px;color:var(--muted);margin:6px 0}
+.row{display:flex;align-items:center;gap:12px;flex-wrap:wrap}
+.chips{display:flex;flex-wrap:wrap;gap:8px}
+.chip{border:1px solid var(--line);background:var(--bg);border-radius:999px;padding:7px 13px;cursor:pointer}
+.chip[aria-pressed=true]{background:var(--accent);border-color:var(--accent);color:#fff}
+
+.artist{display:flex;align-items:center;justify-content:space-between;gap:10px;padding:11px 0;border-bottom:1px solid var(--line)}
+.artist .n{font-weight:600}
+.artist .c{font-size:14px;color:var(--muted)}
+.artist.off .n{opacity:.45;text-decoration:line-through}
+.mini{border:1px solid var(--line);background:transparent;border-radius:999px;padding:5px 12px;font-size:14px;cursor:pointer}
+
+nav.tabs{position:fixed;left:0;right:0;bottom:0;z-index:6;display:grid;grid-template-columns:repeat(3,1fr);
+  background:var(--surface);border-top:1px solid var(--line);padding-bottom:env(safe-area-inset-bottom,0px)}
+nav.tabs button{border:0;background:none;padding:12px 0 14px;font-size:15px;color:var(--muted);cursor:pointer}
+nav.tabs button[aria-current=page]{color:var(--accent);font-weight:700}
+
+#toast{position:fixed;left:50%;transform:translateX(-50%);bottom:calc(84px + env(safe-area-inset-bottom,0px));z-index:30;
+  background:var(--ink);color:var(--bg);padding:10px 16px;border-radius:12px;font-size:15px;max-width:calc(100% - 32px);
+  opacity:0;pointer-events:none;transition:opacity .25s}
+#toast.show{opacity:1}
+@media (prefers-reduced-motion: reduce){ *{transition:none!important;animation:none!important} }
+</style>
+</head>
+<body>
+
+<div id="v-concerts" class="view">
+  <header class="top"><div class="top-inner">
+    <div class="top-row">
+      <div><h1>Mes concerts</h1><p class="updated" id="updated"></p></div>
+      <button class="round" id="refresh" aria-label="Actualiser maintenant">
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"><path d="M21 12a9 9 0 1 1-2.64-6.36"/><path d="M21 3v6h-6"/></svg>
+      </button>
+    </div>
+    <input class="search" id="q" type="search" placeholder="Filtrer par artiste, ville, salle" aria-label="Filtrer">
+  </div></header>
+  <main id="list"></main>
+</div>
+
+<div id="v-artists" class="view" hidden>
+  <header class="top"><div class="top-inner">
+    <h2 class="view-title">Artistes</h2>
+    <p class="updated">Masque ceux dont tu ne veux pas les concerts.</p>
+  </div></header>
+  <main id="artists"></main>
+</div>
+
+<div id="v-settings" class="view" hidden>
+  <header class="top"><div class="top-inner"><h2 class="view-title">Réglages</h2></div></header>
+  <main>
+    <div class="group">
+      <h3>Mise à jour automatique</h3>
+      <label>Fréquence
+        <select id="s-interval">
+          <option value="1">Tous les jours</option>
+          <option value="2">Tous les 2 jours</option>
+          <option value="3">Tous les 3 jours</option>
+          <option value="7">Toutes les semaines</option>
+        </select>
+      </label>
+      <label class="check"><input type="checkbox" id="s-notify">Me notifier des nouveaux concerts</label>
+      <p class="hint" id="s-run"></p>
+      <button class="btn" id="s-now">Actualiser maintenant</button>
+    </div>
+
+    <div class="group">
+      <h3>Où</h3>
+      <div class="chips" id="s-countries"></div>
+      <label>Point de départ<select id="s-home"></select></label>
+      <label>Distance max : <b id="s-radius-v"></b><input type="range" id="s-radius" min="0" max="600" step="25"></label>
+    </div>
+
+    <div class="group">
+      <h3>Quels artistes</h3>
+      <label class="check"><input type="checkbox" data-src="top">Mes artistes les plus écoutés</label>
+      <label class="check"><input type="checkbox" data-src="followed">Artistes que je suis</label>
+      <label class="check"><input type="checkbox" data-src="playlists">Mes playlists</label>
+      <label class="check"><input type="checkbox" data-src="liked">Titres likés</label>
+      <label>Nombre max d'artistes à surveiller<input type="number" id="s-max" min="20" max="400" step="10"></label>
+      <p class="hint">Ces choix s'appliquent à la prochaine mise à jour.</p>
+    </div>
+
+    <div class="group">
+      <h3>Accès GitHub</h3>
+      <label>Compte<input id="g-owner" autocomplete="off" autocapitalize="off" spellcheck="false"></label>
+      <label>Dépôt<input id="g-repo" autocomplete="off" autocapitalize="off" spellcheck="false"></label>
+      <label>Jeton d'accès<input id="g-token" type="password" autocomplete="off" autocapitalize="off" spellcheck="false"></label>
+      <p class="hint">Nécessaire pour enregistrer les réglages et lancer une mise à jour. Il reste sur ce téléphone.</p>
+    </div>
+  </main>
+</div>
+
+<nav class="tabs">
+  <button data-view="concerts" aria-current="page">Concerts</button>
+  <button data-view="artists">Artistes</button>
+  <button data-view="settings">Réglages</button>
+</nav>
+<div id="toast" role="status" aria-live="polite"></div>
+
+<script>
+/* ---------- Outils ---------- */
+const $ = s => document.querySelector(s);
+const $$ = s => [...document.querySelectorAll(s)];
+const sleep = ms => new Promise(r => setTimeout(r, ms));
+const LS = {
+  get(k, d){ try{ const v = localStorage.getItem(k); return v ? JSON.parse(v) : d; }catch(e){ return d; } },
+  set(k, v){ try{ localStorage.setItem(k, JSON.stringify(v)); }catch(e){} }
+};
+const esc = s => String(s ?? '').replace(/[&<>"']/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
+const norm = s => String(s || '').normalize('NFD').replace(/[\u0300-\u036f]/g, '').toLowerCase().replace(/&/g,'and').replace(/[^a-z0-9]+/g, ' ').trim();
+const b64enc = s => btoa(unescape(encodeURIComponent(s)));
+const b64dec = s => decodeURIComponent(escape(atob(s.replace(/\n/g, ''))));
+
+let toastTimer;
+function toast(msg){ const t = $('#toast'); t.textContent = msg; t.classList.add('show'); clearTimeout(toastTimer); toastTimer = setTimeout(() => t.classList.remove('show'), 3500); }
+
+/* ---------- Données ---------- */
+const CITIES = [
+  ['lens','Lens',50.4329,2.8317], ['lille','Lille',50.6292,3.0573], ['arras','Arras',50.2910,2.7775],
+  ['amiens','Amiens',49.8941,2.2958], ['paris','Paris',48.8566,2.3522], ['bruxelles','Bruxelles',50.8503,4.3517],
+  ['anvers','Anvers',51.2194,4.4025], ['liege','Liège',50.6326,5.5797], ['gps','Ma position actuelle',null,null]
+];
+const COUNTRIES = [['FR','France'],['BE','Belgique'],['NL','Pays-Bas'],['LU','Luxembourg'],['DE','Allemagne'],['GB','Royaume-Uni'],['CH','Suisse'],['ES','Espagne']];
+const DEFAULT_CFG = { intervalDays:1, notify:true, countries:['FR','BE'], home:'lens', gps:null, radius:0, maxArtists:150,
+  src:{ top:true, followed:true, playlists:true, liked:false }, hidden:[] };
+
+let cfg = Object.assign({}, DEFAULT_CFG, LS.get('cr.cfg', {}));
+let data = LS.get('cr.data', null);
+let cfgSha = null;
+
+/* ---------- GitHub ---------- */
+function gh(){
+  const s = LS.get('cr.gh', {});
+  let owner = s.owner || '', repo = s.repo || '';
+  if(location.hostname.endsWith('.github.io')){
+    owner = owner || location.hostname.split('.')[0];
+    repo = repo || location.pathname.split('/').filter(Boolean)[0] || '';
+  }
+  return { owner, repo, token:s.token || '' };
+}
+async function api(path, opts = {}, accept = 'application/vnd.github+json'){
+  const g = gh();
+  return fetch(`https://api.github.com/repos/${g.owner}/${g.repo}${path}`, Object.assign({}, opts, {
+    cache:'no-store',
+    headers:Object.assign({ Accept:accept }, g.token ? { Authorization:'Bearer ' + g.token } : {}, opts.headers || {})
+  }));
+}
+
+async function loadRemote(){
+  const g = gh();
+  try{
+    if(g.token && g.owner){
+      const rc = await api('/contents/config.json');
+      if(rc.ok){ const j = await rc.json(); cfgSha = j.sha; cfg = Object.assign({}, DEFAULT_CFG, JSON.parse(b64dec(j.content))); }
+      const rd = await api('/contents/data.json', {}, 'application/vnd.github.raw+json');
+      if(rd.ok) data = await rd.json();
+    }else{
+      const base = g.owner ? `https://raw.githubusercontent.com/${g.owner}/${g.repo}/main/` : './';
+      const [rc, rd] = await Promise.all([fetch(base + 'config.json?t=' + Date.now(), {cache:'no-store'}), fetch(base + 'data.json?t=' + Date.now(), {cache:'no-store'})]);
+      if(rc.ok) cfg = Object.assign({}, DEFAULT_CFG, await rc.json());
+      if(rd.ok) data = await rd.json();
+    }
+    cfg.src = Object.assign({}, DEFAULT_CFG.src, cfg.src || {});
+    LS.set('cr.cfg', cfg); LS.set('cr.data', data);
+  }catch(e){ toast('Hors ligne : affichage des derniers concerts connus.'); }
+}
+
+let saveTimer;
+function changed(){ LS.set('cr.cfg', cfg); renderAll(); clearTimeout(saveTimer); saveTimer = setTimeout(pushConfig, 1200); }
+async function pushConfig(retry = true){
+  if(!gh().token){ toast('Ajoute ton jeton GitHub pour enregistrer les réglages.'); return; }
+  const body = { message:'Réglages depuis l\'app', content:b64enc(JSON.stringify(cfg, null, 2) + '\n') };
+  if(cfgSha) body.sha = cfgSha;
+  const r = await api('/contents/config.json', { method:'PUT', body:JSON.stringify(body) });
+  if(r.ok){ cfgSha = (await r.json()).content.sha; toast('Réglages enregistrés.'); return; }
+  if((r.status === 409 || r.status === 422) && retry){
+    const rc = await api('/contents/config.json');
+    if(rc.ok) cfgSha = (await rc.json()).sha;
+    return pushConfig(false);
+  }
+  toast(`Enregistrement impossible (erreur ${r.status}). Vérifie le jeton GitHub.`);
+}
+
+/* ---------- Lancer une mise à jour ---------- */
+let polling = false;
+async function runNow(){
+  if(polling) return;
+  if(!gh().token){ toast('Ajoute ton jeton GitHub dans les réglages.'); show('settings'); return; }
+  const r = await api('/actions/workflows/refresh.yml/dispatches', { method:'POST', body:JSON.stringify({ ref:'main' }) });
+  if(r.status !== 204){ toast(`Lancement impossible (erreur ${r.status}).`); return; }
+  toast('Mise à jour lancée, ça prend quelques minutes.');
+  polling = true; setBusy(true);
+  const started = Date.now();
+  await sleep(8000);
+  while(Date.now() - started < 30 * 60000){
+    const rr = await api('/actions/workflows/refresh.yml/runs?per_page=1');
+    const run = rr.ok ? (await rr.json()).workflow_runs?.[0] : null;
+    if(run && new Date(run.created_at).getTime() > started - 60000){
+      $('#s-run').textContent = run.status === 'completed' ? '' : 'Mise à jour en cours…';
+      if(run.status === 'completed'){
+        if(run.conclusion === 'success'){ await sleep(3000); await loadRemote(); renderAll(); toast('Concerts à jour.'); }
+        else toast('La mise à jour a échoué : regarde l\'onglet Actions sur GitHub.');
+        break;
+      }
+    }
+    await sleep(15000);
+  }
+  polling = false; setBusy(false); renderSettings();
+}
+function setBusy(on){ $('#refresh').classList.toggle('spin', on); $('#s-now').disabled = on; }
+
+/* ---------- Zone ---------- */
+function home(){
+  if(cfg.home === 'gps') return cfg.gps;
+  const c = CITIES.find(c => c[0] === cfg.home);
+  return c && c[2] != null ? { lat:c[2], lng:c[3] } : null;
+}
+function km(a, b){
+  const R = 6371, r = x => x * Math.PI / 180;
+  const h = Math.sin(r(b.lat - a.lat)/2)**2 + Math.cos(r(a.lat)) * Math.cos(r(b.lat)) * Math.sin(r(b.lng - a.lng)/2)**2;
+  return 2 * R * Math.asin(Math.sqrt(h));
+}
+function inZone(e){
+  if(!cfg.countries.includes(e.cc)) return false;
+  const h = home();
+  e.km = (h && e.lat && e.lng) ? Math.round(km(h, e)) : null;
+  return !(cfg.radius > 0 && e.km != null && e.km > cfg.radius);
+}
+
+/* ---------- Rendu ---------- */
+const fmtMonth = new Intl.DateTimeFormat('fr-FR', { month:'long', year:'numeric' });
+const fmtWd = new Intl.DateTimeFormat('fr-FR', { weekday:'short' });
+const fmtUpd = new Intl.DateTimeFormat('fr-FR', { weekday:'long', day:'numeric', month:'long', hour:'2-digit', minute:'2-digit' });
+const ccName = cc => (COUNTRIES.find(c => c[0] === cc) || [cc, cc])[1];
+const intervalLabel = { 1:'tous les jours', 2:'tous les 2 jours', 3:'tous les 3 jours', 7:'toutes les semaines' };
+
+function renderConcerts(){
+  const list = $('#list');
+  $('#updated').textContent = data ? 'Mis à jour ' + fmtUpd.format(new Date(data.at)) : '';
+  if(!data){
+    list.innerHTML = `<div class="empty"><p>Aucun concert pour l'instant. La première mise à jour n'a pas encore eu lieu.</p>
+      <button class="btn" onclick="runNow()">Lancer la première recherche</button></div>`;
+    return;
+  }
+  const hidden = new Set(cfg.hidden || []);
+  const today = new Date(); today.setHours(0,0,0,0);
+  const q = norm($('#q').value);
+  const evs = data.events
+    .filter(e => new Date(e.date) >= today && !hidden.has(norm(e.artist)) && inZone(e))
+    .filter(e => !q || norm(`${e.artist} ${e.city} ${e.venue}`).includes(q));
+
+  if(!evs.length){
+    list.innerHTML = `<div class="empty"><p>${q ? 'Aucun concert ne correspond à ce filtre.' :
+      'Aucun concert prévu dans ta zone. Ajoute des pays ou augmente la distance dans les réglages.'}</p></div>`;
+    return;
+  }
+  let html = '', month = '';
+  for(const e of evs){
+    const d = new Date(e.date), m = fmtMonth.format(d);
+    if(m !== month){ html += `<h2 class="month">${esc(m)}</h2>`; month = m; }
+    const time = e.noTime || e.date.slice(11, 16) === '00:00' ? '' : e.date.slice(11, 16).replace(':', 'h');
+    const meta = [ccName(e.cc), e.km != null ? `à ${e.km} km` : '', time].filter(Boolean).join(', ');
+    const links = e.links.filter(l => l.url).map(l => `<a class="tix" href="${esc(l.url)}" target="_blank" rel="noopener">Billets ${esc(l.src)}</a>`).join('');
+    html += `<article class="gig">
+      <div class="stub"><span class="wd">${esc(fmtWd.format(d))}</span><span class="d">${d.getDate()}</span></div>
+      <div class="info">
+        <h3>${esc(e.artist)}${e.isNew ? '<span class="new">Nouveau</span>' : ''}</h3>
+        <p class="where">${esc([e.venue, e.city].filter(Boolean).join(', '))}</p>
+        <p class="meta">${esc(meta)}</p>
+        ${links ? `<div class="links">${links}</div>` : ''}
+      </div></article>`;
+  }
+  list.innerHTML = html;
+}
+
+function renderArtists(){
+  const box = $('#artists');
+  if(!data){ box.innerHTML = `<div class="empty"><p>La liste apparaîtra après la première mise à jour.</p></div>`; return; }
+  const hidden = new Set(cfg.hidden || []), counts = {};
+  data.events.forEach(e => { if(inZone(e)){ const k = norm(e.artist); counts[k] = (counts[k] || 0) + 1; } });
+  box.innerHTML = data.artists.slice(0, cfg.maxArtists + hidden.size).map(a => {
+    const k = norm(a.name), off = hidden.has(k), c = counts[k] || 0;
+    return `<div class="artist ${off ? 'off' : ''}">
+      <div><div class="n">${esc(a.name)}</div><div class="c">${c ? c + (c > 1 ? ' concerts' : ' concert') + ' dans ta zone' : 'Aucun concert dans ta zone'}</div></div>
+      <button class="mini" data-k="${esc(k)}">${off ? 'Réafficher' : 'Masquer'}</button></div>`;
+  }).join('');
+}
+
+function renderSettings(){
+  const g = gh();
+  $('#s-interval').value = String(cfg.intervalDays);
+  $('#s-notify').checked = !!cfg.notify;
+  if(!polling) $('#s-run').textContent = (data ? 'Dernière mise à jour : ' + fmtUpd.format(new Date(data.at)) + '. ' : '') +
+    'Vérification ' + (intervalLabel[cfg.intervalDays] || 'régulière') + ' vers 8h.';
+  $('#s-countries').innerHTML = COUNTRIES.map(([cc, n]) => `<button class="chip" data-cc="${cc}" aria-pressed="${cfg.countries.includes(cc)}">${n}</button>`).join('');
+  $('#s-home').innerHTML = CITIES.map(c => `<option value="${c[0]}" ${c[0] === cfg.home ? 'selected' : ''}>${c[1]}</option>`).join('');
+  $('#s-radius').value = cfg.radius;
+  $('#s-radius-v').textContent = cfg.radius > 0 ? cfg.radius + ' km' : 'illimitée';
+  $('#s-max').value = cfg.maxArtists;
+  $$('[data-src]').forEach(cb => cb.checked = !!cfg.src[cb.dataset.src]);
+  $('#g-owner').value = g.owner; $('#g-repo').value = g.repo; $('#g-token').value = g.token;
+}
+
+function renderAll(){ renderConcerts(); renderArtists(); renderSettings(); }
+
+function show(view){
+  $$('.view').forEach(v => v.hidden = v.id !== 'v-' + view);
+  $$('nav.tabs button').forEach(b => b.dataset.view === view ? b.setAttribute('aria-current', 'page') : b.removeAttribute('aria-current'));
+  window.scrollTo(0, 0);
+}
+
+/* ---------- Événements ---------- */
+$$('nav.tabs button').forEach(b => b.onclick = () => show(b.dataset.view));
+$('#refresh').onclick = runNow;
+$('#s-now').onclick = runNow;
+$('#q').oninput = renderConcerts;
+$('#s-interval').onchange = e => { cfg.intervalDays = +e.target.value; changed(); };
+$('#s-notify').onchange = e => { cfg.notify = e.target.checked; changed(); };
+$('#s-countries').onclick = e => {
+  const cc = e.target.dataset?.cc; if(!cc) return;
+  cfg.countries = cfg.countries.includes(cc) ? cfg.countries.filter(c => c !== cc) : [...cfg.countries, cc];
+  changed();
+};
+$('#s-home').onchange = e => {
+  const v = e.target.value;
+  if(v !== 'gps'){ cfg.home = v; changed(); return; }
+  if(!navigator.geolocation){ toast('Géolocalisation indisponible.'); renderSettings(); return; }
+  navigator.geolocation.getCurrentPosition(
+    p => { cfg.home = 'gps'; cfg.gps = { lat:+p.coords.latitude.toFixed(3), lng:+p.coords.longitude.toFixed(3) }; changed(); },
+    () => { toast('Position refusée.'); renderSettings(); }, { timeout:10000 });
+};
+$('#s-radius').oninput = e => { cfg.radius = +e.target.value; $('#s-radius-v').textContent = cfg.radius > 0 ? cfg.radius + ' km' : 'illimitée'; };
+$('#s-radius').onchange = changed;
+$('#s-max').onchange = e => { cfg.maxArtists = Math.min(400, Math.max(20, +e.target.value || 150)); changed(); };
+$$('[data-src]').forEach(cb => cb.onchange = () => { cfg.src[cb.dataset.src] = cb.checked; changed(); });
+$('#artists').onclick = e => {
+  const k = e.target.dataset?.k; if(!k) return;
+  const h = new Set(cfg.hidden || []);
+  h.has(k) ? h.delete(k) : h.add(k);
+  cfg.hidden = [...h]; changed();
+};
+['g-owner','g-repo','g-token'].forEach(id => $('#' + id).onchange = async () => {
+  LS.set('cr.gh', { owner:$('#g-owner').value.trim(), repo:$('#g-repo').value.trim(), token:$('#g-token').value.trim() });
+  if(id === 'g-token' && gh().token){
+    const r = await api('');
+    toast(r.ok ? 'Jeton GitHub valide.' : `Jeton refusé (erreur ${r.status}).`);
+    if(r.ok){ await loadRemote(); renderAll(); }
+  }
+});
+
+/* ---------- Démarrage ---------- */
+(async () => {
+  if('serviceWorker' in navigator) navigator.serviceWorker.register('sw.js').catch(() => {});
+  cfg.src = Object.assign({}, DEFAULT_CFG.src, cfg.src || {});
+  renderAll();
+  await loadRemote();
+  renderAll();
+})();
+</script>
+</body>
+</html>

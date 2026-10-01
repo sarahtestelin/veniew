@@ -1,0 +1,11 @@
+{
+  "intervalDays": 1,
+  "notify": true,
+  "countries": ["FR", "BE"],
+  "home": "lens",
+  "gps": null,
+  "radius": 0,
+  "maxArtists": 150,
+  "src": { "top": true, "followed": true, "playlists": true, "liked": false },
+  "hidden": []
+}
