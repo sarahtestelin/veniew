@@ -36,6 +36,7 @@ jobs:
           TICKETMASTER_KEY: ${{ secrets.TICKETMASTER_KEY }}
           BANDSINTOWN_APP_ID: ${{ secrets.BANDSINTOWN_APP_ID }}
           NTFY_TOPIC: ${{ secrets.NTFY_TOPIC }}
+          SERPAPI_KEY: ${{ secrets.SERPAPI_KEY }}
 
       - name: Enregistrer data.json
         run: |
