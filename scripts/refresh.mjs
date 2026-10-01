@@ -201,12 +201,12 @@ function parseGoogleDate(ev) {
 }
 
 let serpUsed = 0;
-const SERP_VERSION = 2; // à incrémenter si le format change : force une nouvelle recherche
+const SERP_VERSION = 3; // à incrémenter si le format change : force une nouvelle recherche
 // Recherche Google classique : Google affiche la tournée de l'artiste dans "events_results"
 // Format constaté : { title: "Ville, Pays", date: { start_date: "Feb 7", when: "Sun 19:00 2027" },
 //                     time: "19:00", venue: "Salle", source: "Bandsintown", link: "https://..." }
 async function fromGoogle(name) {
-  const p = new URLSearchParams({ engine: 'google', q: `${name} concert`, gl: 'fr', hl: 'en', api_key: env.SERPAPI_KEY });
+  const p = new URLSearchParams({ engine: 'google', q: `${name} concert France`, gl: 'fr', hl: 'en', api_key: env.SERPAPI_KEY });
   serpUsed++;
   const r = await fetch('https://serpapi.com/search.json?' + p);
   const j = await r.json().catch(() => ({}));
@@ -215,7 +215,7 @@ async function fromGoogle(name) {
     if (/hasn't returned|no results/i.test(j.error)) return [];
     throw new Error('SerpApi : ' + j.error);
   }
-  return (j.events_results || [])
+  return [...(j.events_results || [])
     .map(e => {
       const d = parseGoogleDate(e); if (!d) return null;
       // Lieu : "Ville, Pays" dans le titre, ou ancien format avec "address"
@@ -233,7 +233,37 @@ async function fromGoogle(name) {
         links: [{ src: tix?.source || e.source || 'Google', url: tix?.link || e.link }]
       };
     })
-    .filter(e => e && e.cc);
+    .filter(e => e && e.cc), ...fromTicketPages(name, j.organic_results || [])];
+}
+
+// Pages de billetteries dans les résultats Google, ex. :
+// titre "Nessa Barrett | Concert le 12 mars 2027 | L'olympia", extrait "Concert à Paris le 12 mars 2027"
+const FR_MONTHS = { janvier: 1, fevrier: 2, mars: 3, avril: 4, mai: 5, juin: 6, juillet: 7, aout: 8, septembre: 9, octobre: 10, novembre: 11, decembre: 12 };
+const TICKET_SITES = [
+  [/ticketmaster\.fr/, 'Ticketmaster.fr', 'FR'], [/fnacspectacles\.com/, 'Fnac Spectacles', 'FR'],
+  [/livenation\.fr/, 'Live Nation', 'FR'], [/seetickets\.com\/fr|digitick/, 'See Tickets', 'FR'],
+  [/ticketmaster\.be/, 'Ticketmaster.be', 'BE'], [/livenation\.be/, 'Live Nation', 'BE']
+];
+function fromTicketPages(name, results) {
+  const target = norm(name), out = [];
+  for (const r of results) {
+    const site = TICKET_SITES.find(([re]) => re.test(r.link || ''));
+    if (!site || !norm(r.title).includes(target)) continue;
+    const text = `${r.title || ''} ${r.snippet || ''}`;
+    const plain = text.normalize('NFD').replace(/[\u0300-\u036f]/g, '').toLowerCase();
+    const m = /\b(\d{1,2})(?:er)?\s+(janvier|fevrier|mars|avril|mai|juin|juillet|aout|septembre|octobre|novembre|decembre)\s+(20\d\d)\b/.exec(plain);
+    if (!m) continue;
+    const date = `${m[3]}-${String(FR_MONTHS[m[2]]).padStart(2, '0')}-${m[1].padStart(2, '0')}T00:00:00`;
+    const cityM = /(?:^|\s)(?:a|à)\s+([A-ZÀ-Ü][\wÀ-ÿ'’-]+(?:[\s-][A-ZÀ-Ü][\wÀ-ÿ'’-]+)*)\s+le\b/.exec(text);
+    const city = cityM ? cityM[1] : '';
+    const parts = (r.title || '').split('|').map(x => x.trim());
+    const venue = parts.length > 2 ? parts[parts.length - 1] : '';
+    const coords = CITY_COORDS[norm(city)];
+    out.push({ artist: name, date, noTime: true, venue, city, cc: site[2],
+      lat: coords ? coords[0] : null, lng: coords ? coords[1] : null,
+      links: [{ src: site[1], url: r.link }] });
+  }
+  return out;
 }
 
 async function googleEvents(pickList) {
