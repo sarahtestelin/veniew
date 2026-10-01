@@ -1,5 +1,5 @@
 // Mise à jour des concerts, lancée par GitHub Actions (cron ou bouton dans l'app).
-// Lit config.json, interroge Spotify + Ticketmaster + Bandsintown, écrit data.json
+// Lit config.json, interroge Spotify + Ticketmaster + Bandsintown + Google Events (SerpApi), écrit data.json
 // et envoie une notification ntfy pour les nouveaux concerts de ta zone.
 import fs from 'node:fs/promises';
 
@@ -170,6 +170,84 @@ async function fromTicketmaster(name) {
     });
 }
 
+// ---------- France : Google Events via SerpApi (une fois par semaine) ----------
+const MONTHS = { jan: 0, feb: 1, mar: 2, apr: 3, may: 4, jun: 5, jul: 6, aug: 7, sep: 8, oct: 9, nov: 10, dec: 11 };
+const CITY_COORDS = { paris: [48.8566, 2.3522], lille: [50.6292, 3.0573], lens: [50.4329, 2.8317], arras: [50.2910, 2.7775],
+  amiens: [49.8941, 2.2958], roubaix: [50.6942, 3.1746], tourcoing: [50.7239, 3.1612], 'villeneuve d ascq': [50.6233, 3.1450],
+  lyon: [45.7640, 4.8357], marseille: [43.2965, 5.3698], nantes: [47.2184, -1.5536], bordeaux: [44.8378, -0.5792],
+  toulouse: [43.6047, 1.4442], strasbourg: [48.5734, 7.7521], rouen: [49.4431, 1.0993], reims: [49.2583, 4.0317],
+  nanterre: [48.8924, 2.2071], 'boulogne billancourt': [48.8397, 2.2399], 'saint denis': [48.9362, 2.3574],
+  bruxelles: [50.8503, 4.3517], brussels: [50.8503, 4.3517], anvers: [51.2194, 4.4025], antwerpen: [51.2194, 4.4025],
+  liege: [50.6326, 5.5797], gand: [51.0543, 3.7174], gent: [51.0543, 3.7174] };
+
+function parseGoogleDate(ev) {
+  // start_date ressemble à "Mar 12" (hl=en) ; l'année n'est pas donnée, on la déduit
+  const m = /^([A-Za-z]{3})\w*\s+(\d{1,2})/.exec(ev.date?.start_date || '');
+  if (!m || MONTHS[m[1].toLowerCase()] == null) return null;
+  const now = new Date(), month = MONTHS[m[1].toLowerCase()], day = +m[2];
+  let year = now.getFullYear();
+  const yearInText = /\b(20\d\d)\b/.exec(ev.date?.when || '');
+  if (yearInText) year = +yearInText[1];
+  else if (new Date(year, month, day) < new Date(now.getFullYear(), now.getMonth(), now.getDate())) year++;
+  // heure : "8 PM", "8:30 PM" ou "20:00"
+  let time = null;
+  const t12 = /(\d{1,2})(?::(\d{2}))?\s*(AM|PM)/i.exec(ev.date?.when || '');
+  const t24 = /\b(\d{1,2}):(\d{2})\b/.exec(ev.date?.when || '');
+  if (t12) { let h = +t12[1] % 12; if (/pm/i.test(t12[3])) h += 12; time = `${String(h).padStart(2, '0')}:${t12[2] || '00'}`; }
+  else if (t24) time = `${t24[1].padStart(2, '0')}:${t24[2]}`;
+  const date = `${year}-${String(month + 1).padStart(2, '0')}-${String(day).padStart(2, '0')}T${time || '00:00'}:00`;
+  return { date, noTime: !time };
+}
+
+let serpUsed = 0;
+async function fromGoogle(name) {
+  const p = new URLSearchParams({ engine: 'google_events', q: `${name} concert`, gl: 'fr', hl: 'en', api_key: env.SERPAPI_KEY });
+  serpUsed++;
+  const r = await fetch('https://serpapi.com/search.json?' + p);
+  const j = await r.json().catch(() => ({}));
+  if (j.error) {
+    if (/run out|limit|plan/i.test(j.error)) throw new Error('Quota SerpApi épuisé pour ce mois.');
+    if (/no results/i.test(j.error)) return [];
+    throw new Error('SerpApi : ' + j.error);
+  }
+  const target = norm(name);
+  return (j.events_results || [])
+    .filter(e => norm(e.title).includes(target))
+    .map(e => {
+      const d = parseGoogleDate(e); if (!d) return null;
+      const addr = e.address || [];
+      const last = (addr[addr.length - 1] || '').split(',').map(x => x.trim());
+      const country = last[last.length - 1] || '';
+      const city = last.length > 1 ? last[0] : '';
+      const coords = CITY_COORDS[norm(city)];
+      const tix = (e.ticket_info || []).find(t => t.link && t.link_type === 'tickets') || (e.ticket_info || []).find(t => t.link);
+      return {
+        artist: name, date: d.date, noTime: d.noTime,
+        venue: e.venue?.name || (addr[0] || '').split(',')[0], city, cc: toCC(country) || (/france/i.test(country) ? 'FR' : ''),
+        lat: coords ? coords[0] : null, lng: coords ? coords[1] : null,
+        links: [{ src: tix?.source || 'Google', url: tix?.link || e.link }]
+      };
+    })
+    .filter(Boolean);
+}
+
+async function googleEvents(pickList) {
+  const every = 7 * 86400000 - 3 * 3600000;
+  if (!env.SERPAPI_KEY) return { events: [], at: null, note: 'Pas de clé SerpApi : France via Google désactivée.' };
+  if (prev?.serp?.at && Date.now() - prev.serp.at < every) {
+    return { events: prev.serp.events || [], at: prev.serp.at, note: `Google : résultats de la semaine réutilisés (${(prev.serp.events || []).length} concerts).` };
+  }
+  const list = pickList.slice(0, cfg.serpArtists ?? 40);
+  const out = [];
+  try {
+    for (const a of list) out.push(...await fromGoogle(a.name));
+  } catch (e) {
+    console.warn(e.message);
+    return { events: prev?.serp?.events || [], at: prev?.serp?.at || null, note: `⚠️ ${e.message} Résultats précédents conservés.` };
+  }
+  return { events: out, at: Date.now(), note: `Google : ${serpUsed} recherches SerpApi, ${out.length} concerts trouvés.` };
+}
+
 function mergeEvents(list) {
   const by = new Map();
   for (const e of list) {
@@ -248,28 +326,11 @@ await Promise.all(Array.from({ length: 4 }, async () => {
   }
 }));
 
+const google = await googleEvents(pick);
+raw.push(...google.events);
+
 const events = mergeEvents(raw);
 
 // Protection : zéro concert alors qu'il y en avait avant = problème de source, on n'écrase rien
 if (!events.length && prev?.events?.length) {
-  await summary([`⚠️ Aucun concert trouvé (${prev.events.length} la dernière fois). Vérifie la clé Ticketmaster.`,
-    'Liste précédente conservée.']);
-  process.exit(1);
-}
-
-const prevKeys = prev ? new Set(prev.events.map(e => e.key)) : null;
-events.forEach(e => { e.isNew = !!prevKeys && !prevKeys.has(e.key); });
-
-await fs.writeFile('data.json', JSON.stringify({
-  at: Date.now(),
-  artists: artists.slice(0, 400).map(a => ({ name: a.name, score: Math.round(a.score) })),
-  events
-}, null, 1));
-
-const fresh = events.filter(e => e.isNew && inZone(e));
-await summary([
-  `🎧 ${artists.length} artistes trouvés sur Spotify, ${pick.length} surveillés (${spErrors} erreurs Spotify)`,
-  `🎟️ ${events.length} concerts en Europe, ${events.filter(inZone).length} dans ta zone`,
-  `✨ ${fresh.length} nouveaux concerts dans ta zone`
-]);
-await notify(fresh);
+  await summary([`⚠️ Aucun concert trouvé (${prev.events.length} la dern
