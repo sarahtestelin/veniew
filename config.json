@@ -3,7 +3,8 @@
   "notify": true,
   "countries": [
     "FR",
-    "BE"
+    "BE",
+    "DE"
   ],
   "home": "lens",
   "gps": null,
