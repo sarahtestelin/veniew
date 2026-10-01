@@ -12,7 +12,7 @@
     "top": true,
     "followed": true,
     "playlists": true,
-    "liked": true
+    "liked": false
   },
   "hidden": []
 }
