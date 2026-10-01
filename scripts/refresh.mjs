@@ -333,4 +333,26 @@ const events = mergeEvents(raw);
 
 // Protection : zéro concert alors qu'il y en avait avant = problème de source, on n'écrase rien
 if (!events.length && prev?.events?.length) {
-  await summary([`⚠️ Aucun concert trouvé (${prev.events.length} la dern
+  await summary([`⚠️ Aucun concert trouvé (${prev.events.length} la dernière fois). Vérifie la clé Ticketmaster.`,
+    'Liste précédente conservée.']);
+  process.exit(1);
+}
+
+const prevKeys = prev ? new Set(prev.events.map(e => e.key)) : null;
+events.forEach(e => { e.isNew = !!prevKeys && !prevKeys.has(e.key); });
+
+await fs.writeFile('data.json', JSON.stringify({
+  at: Date.now(),
+  artists: artists.slice(0, 400).map(a => ({ name: a.name, score: Math.round(a.score) })),
+  events,
+  serp: { at: google.at, events: google.events }
+}, null, 1));
+
+const fresh = events.filter(e => e.isNew && inZone(e));
+await summary([
+  `🎧 ${artists.length} artistes trouvés sur Spotify, ${pick.length} surveillés (${spErrors} erreurs Spotify)`,
+  `🎟️ ${events.length} concerts en Europe, ${events.filter(inZone).length} dans ta zone`,
+  `✨ ${fresh.length} nouveaux concerts dans ta zone`,
+  `🇫🇷 ${google.note}`
+]);
+await notify(fresh);
