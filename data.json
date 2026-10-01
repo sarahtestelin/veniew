@@ -1,5 +1,5 @@
 {
- "at": 1790863010895,
+ "at": 1790863484888,
  "spotifyAt": null,
  "artists": [
   {
@@ -4989,6 +4989,42 @@
    "isNew": false
   },
   {
+   "artist": "Nessa Barrett",
+   "date": "2027-03-12T00:00:00",
+   "noTime": true,
+   "venue": "L'olympia",
+   "city": "Paris",
+   "cc": "FR",
+   "lat": 48.8566,
+   "lng": 2.3522,
+   "links": [
+    {
+     "src": "Ticketmaster.fr",
+     "url": "https://www.ticketmaster.fr/fr/manifestation/nessa-barrett-billet/idmanif/673692"
+    }
+   ],
+   "key": "nessa barrett|2027-03-12|paris",
+   "isNew": true
+  },
+  {
+   "artist": "Nessa Barrett",
+   "date": "2027-03-12T00:00:00",
+   "noTime": true,
+   "venue": "",
+   "city": "",
+   "cc": "FR",
+   "lat": null,
+   "lng": null,
+   "links": [
+    {
+     "src": "Live Nation",
+     "url": "https://www.livenation.fr/event/nessa-barrett-the-tough-love-tour-paris-tickets-edp1697920"
+    }
+   ],
+   "key": "nessa barrett|2027-03-12|",
+   "isNew": true
+  },
+  {
    "artist": "South Arcade",
    "date": "2027-03-14T19:30:00",
    "noTime": false,
@@ -6430,166 +6466,54 @@
   }
  ],
  "serp": {
-  "v": 2,
-  "at": 1790863010880,
+  "v": 3,
+  "at": 1790863484717,
   "events": [
    {
-    "artist": "Catch Your Breath",
-    "date": "2026-10-21T18:00:00",
-    "noTime": false,
-    "venue": "The Granada",
-    "city": "Lawrence",
-    "cc": "KS",
-    "lat": null,
-    "lng": null,
+    "artist": "Nessa Barrett",
+    "date": "2027-03-12T00:00:00",
+    "noTime": true,
+    "venue": "L'olympia",
+    "city": "Paris",
+    "cc": "FR",
+    "lat": 48.8566,
+    "lng": 2.3522,
     "links": [
      {
-      "src": "Bandsintown",
-      "url": "https://www.bandsintown.com/e/108454998?app_id=ggl_feed&came_from=289&utm_medium=web&utm_source=ggl_feed&utm_campaign=event&source=ea"
+      "src": "Ticketmaster.fr",
+      "url": "https://www.ticketmaster.fr/fr/manifestation/nessa-barrett-billet/idmanif/673692"
      }
     ]
    },
    {
-    "artist": "Catch Your Breath",
-    "date": "2026-10-25T18:00:00",
-    "noTime": false,
-    "venue": "Knitting Factory Boise",
-    "city": "Boise",
-    "cc": "ID",
+    "artist": "Nessa Barrett",
+    "date": "2027-03-12T00:00:00",
+    "noTime": true,
+    "venue": "",
+    "city": "",
+    "cc": "FR",
     "lat": null,
     "lng": null,
     "links": [
      {
-      "src": "Bandsintown",
-      "url": "https://www.bandsintown.com/e/108438693?app_id=ggl_feed&came_from=289&utm_medium=web&utm_source=ggl_feed&utm_campaign=event&source=ea"
+      "src": "Live Nation",
+      "url": "https://www.livenation.fr/event/nessa-barrett-the-tough-love-tour-paris-tickets-edp1697920"
      }
     ]
    },
    {
-    "artist": "Catch Your Breath",
-    "date": "2026-11-03T18:00:00",
-    "noTime": false,
-    "venue": "Vibes Event Center",
-    "city": "San Antonio",
-    "cc": "TX",
+    "artist": "Isabel LaRosa",
+    "date": "2025-11-28T00:00:00",
+    "noTime": true,
+    "venue": "",
+    "city": "",
+    "cc": "FR",
     "lat": null,
     "lng": null,
     "links": [
      {
-      "src": "Bandsintown",
-      "url": "https://www.bandsintown.com/e/1039147011?app_id=ggl_feed&came_from=289&utm_medium=web&utm_source=ggl_feed&utm_campaign=event&source=ea"
-     }
-    ]
-   },
-   {
-    "artist": "Catch Your Breath",
-    "date": "2026-11-07T18:00:00",
-    "noTime": false,
-    "venue": "The Beacham",
-    "city": "Orlando",
-    "cc": "FL",
-    "lat": null,
-    "lng": null,
-    "links": [
-     {
-      "src": "Bandsintown",
-      "url": "https://www.bandsintown.com/e/108454997?app_id=ggl_feed&came_from=289&utm_medium=web&utm_source=ggl_feed&utm_campaign=event&source=ea"
-     }
-    ]
-   },
-   {
-    "artist": "Ella Boh",
-    "date": "2026-10-05T19:00:00",
-    "noTime": false,
-    "venue": "Baby's All Right",
-    "city": "New York",
-    "cc": "NY",
-    "lat": null,
-    "lng": null,
-    "links": [
-     {
-      "src": "Bandsintown",
-      "url": "https://www.bandsintown.com/e/108702911?app_id=ggl_feed&came_from=289&utm_medium=web&utm_source=ggl_feed&utm_campaign=event&source=ea"
-     }
-    ]
-   },
-   {
-    "artist": "Ella Boh",
-    "date": "2026-10-01T19:00:00",
-    "noTime": false,
-    "venue": "The Crofoot",
-    "city": "Pontiac",
-    "cc": "MI",
-    "lat": null,
-    "lng": null,
-    "links": [
-     {
-      "src": "Bandsintown",
-      "url": "https://www.bandsintown.com/e/108702896?app_id=ggl_feed&came_from=289&utm_medium=web&utm_source=ggl_feed&utm_campaign=event&source=ea"
-     }
-    ]
-   },
-   {
-    "artist": "Ella Boh",
-    "date": "2026-10-08T19:00:00",
-    "noTime": false,
-    "venue": "Cannery Hall",
-    "city": "Nashville",
-    "cc": "TN",
-    "lat": null,
-    "lng": null,
-    "links": [
-     {
-      "src": "Bandsintown",
-      "url": "https://www.bandsintown.com/e/108702927?app_id=ggl_feed&came_from=289&utm_medium=web&utm_source=ggl_feed&utm_campaign=event&source=ea"
-     }
-    ]
-   },
-   {
-    "artist": "Ella Boh",
-    "date": "2026-10-11T19:00:00",
-    "noTime": false,
-    "venue": "TX Tea Room",
-    "city": "Dallas",
-    "cc": "TX",
-    "lat": null,
-    "lng": null,
-    "links": [
-     {
-      "src": "Bandsintown",
-      "url": "https://www.bandsintown.com/e/108702942?app_id=ggl_feed&came_from=289&utm_medium=web&utm_source=ggl_feed&utm_campaign=event&source=ea"
-     }
-    ]
-   },
-   {
-    "artist": "Ella Boh",
-    "date": "2026-10-12T19:00:00",
-    "noTime": false,
-    "venue": "Paper Tiger",
-    "city": "San Antonio",
-    "cc": "TX",
-    "lat": null,
-    "lng": null,
-    "links": [
-     {
-      "src": "Bandsintown",
-      "url": "https://www.bandsintown.com/e/1039663363?app_id=ggl_feed&came_from=289&utm_medium=web&utm_source=ggl_feed&utm_campaign=event&source=ea"
-     }
-    ]
-   },
-   {
-    "artist": "Ella Boh",
-    "date": "2026-10-20T19:00:00",
-    "noTime": false,
-    "venue": "The Roxy Theatre",
-    "city": "West Hollywood",
-    "cc": "CA",
-    "lat": null,
-    "lng": null,
-    "links": [
-     {
-      "src": "Bandsintown",
-      "url": "https://www.bandsintown.com/e/108702969?app_id=ggl_feed&came_from=289&utm_medium=web&utm_source=ggl_feed&utm_campaign=event&source=ea"
+      "src": "Ticketmaster.fr",
+      "url": "https://www.ticketmaster.fr/fr/artiste/isabel-larosa/idartiste/48133"
      }
     ]
    }
