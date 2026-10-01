@@ -1,5 +1,5 @@
 {
- "at": 1790861086522,
+ "at": 1790861695919,
  "artists": [
   {
    "name": "The Neighbourhood",
@@ -1781,7 +1781,7 @@
     }
    ],
    "key": "young the giant|2026-10-08|london",
-   "isNew": true
+   "isNew": false
   },
   {
    "artist": "Young the Giant",
@@ -1799,7 +1799,7 @@
     }
    ],
    "key": "young the giant|2026-10-09|manchester",
-   "isNew": true
+   "isNew": false
   },
   {
    "artist": "Shakira",
@@ -1835,7 +1835,7 @@
     }
    ],
    "key": "young the giant|2026-10-10|glasgow",
-   "isNew": true
+   "isNew": false
   },
   {
    "artist": "Shakira",
@@ -2015,7 +2015,7 @@
     }
    ],
    "key": "young the giant|2026-10-19|berlin",
-   "isNew": true
+   "isNew": false
   },
   {
    "artist": "Curbi",
@@ -2177,7 +2177,7 @@
     }
    ],
    "key": "max fry|2026-10-29|manchester",
-   "isNew": true
+   "isNew": false
   },
   {
    "artist": "Placebo",
@@ -2429,7 +2429,7 @@
     }
    ],
    "key": "montell fish|2026-11-09|berlin",
-   "isNew": true
+   "isNew": false
   },
   {
    "artist": "Placebo",
@@ -2483,7 +2483,7 @@
     }
    ],
    "key": "montell fish|2026-11-10|hamburg",
-   "isNew": true
+   "isNew": false
   },
   {
    "artist": "Caskets",
@@ -2591,7 +2591,7 @@
     }
    ],
    "key": "montell fish|2026-11-13|amsterdam",
-   "isNew": true
+   "isNew": false
   },
   {
    "artist": "Caskets",
@@ -2627,7 +2627,7 @@
     }
    ],
    "key": "wisp|2026-11-14|glasgow",
-   "isNew": true
+   "isNew": false
   },
   {
    "artist": "Tove Lo",
@@ -2789,7 +2789,7 @@
     }
    ],
    "key": "wisp|2026-11-16|cardiff",
-   "isNew": true
+   "isNew": false
   },
   {
    "artist": "Muse",
@@ -2897,7 +2897,7 @@
     }
    ],
    "key": "wisp|2026-11-17|manchester",
-   "isNew": true
+   "isNew": false
   },
   {
    "artist": "Wisp",
@@ -2915,7 +2915,7 @@
     }
    ],
    "key": "wisp|2026-11-18|london",
-   "isNew": true
+   "isNew": false
   },
   {
    "artist": "The Fray",
@@ -2951,7 +2951,7 @@
     }
    ],
    "key": "wisp|2026-11-18|greenwich",
-   "isNew": true
+   "isNew": false
   },
   {
    "artist": "Muse",
@@ -3221,7 +3221,7 @@
     }
    ],
    "key": "voila|2026-11-23|glasgow",
-   "isNew": true
+   "isNew": false
   },
   {
    "artist": "The Pretty Reckless",
@@ -3329,7 +3329,7 @@
     }
    ],
    "key": "voila|2026-11-24|manchester",
-   "isNew": true
+   "isNew": false
   },
   {
    "artist": "GIMS",
@@ -3473,7 +3473,7 @@
     }
    ],
    "key": "voila|2026-11-26|london",
-   "isNew": true
+   "isNew": false
   },
   {
    "artist": "Artemas",
@@ -3779,7 +3779,7 @@
     }
    ],
    "key": "voila|2026-12-02|cologne",
-   "isNew": true
+   "isNew": false
   },
   {
    "artist": "The Pretty Reckless",
@@ -4031,7 +4031,7 @@
     }
    ],
    "key": "voila|2026-12-07|berlin",
-   "isNew": true
+   "isNew": false
   },
   {
    "artist": "sace6",
@@ -4157,7 +4157,7 @@
     }
    ],
    "key": "voila|2026-12-10|hamburg",
-   "isNew": true
+   "isNew": false
   },
   {
    "artist": "Dayseeker",
@@ -6173,7 +6173,7 @@
     }
    ],
    "key": "raye|2027-06-26|werchter",
-   "isNew": true
+   "isNew": false
   },
   {
    "artist": "sombr",
@@ -6429,7 +6429,7 @@
   }
  ],
  "serp": {
-  "at": null,
+  "at": 1790861695903,
   "events": []
  }
 }
