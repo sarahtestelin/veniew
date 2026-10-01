@@ -200,30 +200,34 @@ function parseGoogleDate(ev) {
 }
 
 let serpUsed = 0;
+// Recherche Google classique : les concerts apparaissent dans "events_results"
+// (le moteur "google_events" de SerpApi a été arrêté)
 async function fromGoogle(name) {
-  const p = new URLSearchParams({ engine: 'google_events', q: `${name} concert`, gl: 'fr', hl: 'en', api_key: env.SERPAPI_KEY });
+  const p = new URLSearchParams({ engine: 'google', q: `${name} concert`, gl: 'fr', hl: 'en', api_key: env.SERPAPI_KEY });
   serpUsed++;
   const r = await fetch('https://serpapi.com/search.json?' + p);
   const j = await r.json().catch(() => ({}));
   if (j.error) {
     if (/run out|limit|plan/i.test(j.error)) throw new Error('Quota SerpApi épuisé pour ce mois.');
-    if (/no results/i.test(j.error)) return [];
+    if (/hasn't returned|no results/i.test(j.error)) return [];
     throw new Error('SerpApi : ' + j.error);
   }
   const target = norm(name);
   return (j.events_results || [])
-    .filter(e => norm(e.title).includes(target))
+    .filter(e => norm(e.title).includes(target) || norm(e.description).includes(target))
     .map(e => {
       const d = parseGoogleDate(e); if (!d) return null;
-      const addr = e.address || [];
+      const addr = Array.isArray(e.address) ? e.address : (e.address ? [e.address] : []);
+      const full = addr.join(', ');
       const last = (addr[addr.length - 1] || '').split(',').map(x => x.trim());
-      const country = last[last.length - 1] || '';
-      const city = last.length > 1 ? last[0] : '';
+      const country = last.length > 1 ? last[last.length - 1] : '';
+      const city = last.length > 1 ? last[0] : (last[0] || '');
       const coords = CITY_COORDS[norm(city)];
+      const cc = toCC(country) || (/belgi/i.test(full) ? 'BE' : 'FR'); // recherche faite depuis la France
       const tix = (e.ticket_info || []).find(t => t.link && t.link_type === 'tickets') || (e.ticket_info || []).find(t => t.link);
       return {
         artist: name, date: d.date, noTime: d.noTime,
-        venue: e.venue?.name || (addr[0] || '').split(',')[0], city, cc: toCC(country) || (/france/i.test(country) ? 'FR' : ''),
+        venue: e.venue?.name || (addr[0] || '').split(',')[0], city, cc,
         lat: coords ? coords[0] : null, lng: coords ? coords[1] : null,
         links: [{ src: tix?.source || 'Google', url: tix?.link || e.link }]
       };
