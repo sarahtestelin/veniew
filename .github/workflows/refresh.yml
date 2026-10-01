@@ -17,11 +17,13 @@ jobs:
     runs-on: ubuntu-latest
     timeout-minutes: 30
     steps:
-      - uses: actions/checkout@v4
-
-      - uses: actions/setup-node@v4
+      - uses: actions/checkout@v5
         with:
-          node-version: 20
+          ref: main
+
+      - uses: actions/setup-node@v5
+        with:
+          node-version: 22
 
       - name: Chercher les concerts
         run: node scripts/refresh.mjs
@@ -39,11 +41,14 @@ jobs:
         run: |
           git config user.name "concerts-bot"
           git config user.email "concerts-bot@users.noreply.github.com"
+          cp data.json /tmp/data.json
+          git fetch origin main
+          git reset --hard origin/main
+          cp /tmp/data.json data.json
           git add data.json
           if git diff --cached --quiet; then
             echo "Pas de changement."
           else
             git commit -m "Mise à jour des concerts"
-            git pull --rebase
-            git push
+            git push origin HEAD:main
           fi
