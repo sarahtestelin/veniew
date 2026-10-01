@@ -7,7 +7,7 @@
   "home": "lens",
   "gps": null,
   "radius": 0,
-  "maxArtists": 150,
+  "maxArtists": 400,
   "src": {
     "top": true,
     "followed": true,
