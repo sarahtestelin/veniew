@@ -2,7 +2,8 @@
   "intervalDays": 1,
   "notify": true,
   "countries": [
-    "FR"
+    "FR",
+    "BE"
   ],
   "home": "lens",
   "gps": null,
