@@ -53,6 +53,7 @@ async function spToken() {
   token = j.access_token;
 }
 
+let spErrors = 0;
 async function sp(path) {
   const url = path.startsWith('http') ? path : 'https://api.spotify.com/v1' + path;
   for (let i = 0; i < 4; i++) {
@@ -63,9 +64,10 @@ async function sp(path) {
       await sleep(s * 1000); continue;
     }
     if (r.status === 401) { await spToken(); continue; }
-    if (!r.ok) { console.warn(`Spotify ${r.status} sur ${path}`); return null; }
+    if (!r.ok) { spErrors++; console.warn(`Spotify ${r.status} sur ${path}`); return null; }
     return r.json();
   }
+  spErrors++;
   return null;
 }
 
@@ -215,13 +217,26 @@ async function notify(events) {
   }).catch(e => console.warn('ntfy :', e.message));
 }
 
+// ---------- Résumé visible sur la page de l'exécution ----------
+async function summary(lines) {
+  console.log(lines.join('\n'));
+  if (env.GITHUB_STEP_SUMMARY) await fs.appendFile(env.GITHUB_STEP_SUMMARY, lines.map(l => `- ${l}`).join('\n') + '\n');
+}
+
 // ---------- Exécution ----------
 await spToken();
 const artists = await collectArtists();
-if (!artists.length) { console.error('Aucun artiste trouvé sur Spotify.'); process.exit(1); }
+if (!artists.length) { await summary(['❌ Aucun artiste trouvé sur Spotify. Liste précédente conservée.']); process.exit(1); }
+
+// Protection : si Spotify a renvoyé beaucoup moins d'artistes que la dernière fois, on n'écrase rien
+if (prev?.artists?.length && artists.length < prev.artists.length * 0.5) {
+  await summary([`⚠️ Seulement ${artists.length} artistes (contre ${prev.artists.length} la dernière fois, ${spErrors} erreurs Spotify).`,
+    'Liste précédente conservée. Réessaie plus tard.']);
+  process.exit(1);
+}
+
 const hidden = new Set(cfg.hidden || []);
 const pick = artists.filter(a => !hidden.has(norm(a.name))).slice(0, cfg.maxArtists || 150);
-console.log(`${artists.length} artistes trouvés, ${pick.length} surveillés.`);
 
 const raw = [];
 let i = 0;
@@ -234,6 +249,14 @@ await Promise.all(Array.from({ length: 4 }, async () => {
 }));
 
 const events = mergeEvents(raw);
+
+// Protection : zéro concert alors qu'il y en avait avant = problème de source, on n'écrase rien
+if (!events.length && prev?.events?.length) {
+  await summary([`⚠️ Aucun concert trouvé (${prev.events.length} la dernière fois). Vérifie la clé Ticketmaster.`,
+    'Liste précédente conservée.']);
+  process.exit(1);
+}
+
 const prevKeys = prev ? new Set(prev.events.map(e => e.key)) : null;
 events.forEach(e => { e.isNew = !!prevKeys && !prevKeys.has(e.key); });
 
@@ -241,8 +264,12 @@ await fs.writeFile('data.json', JSON.stringify({
   at: Date.now(),
   artists: artists.slice(0, 400).map(a => ({ name: a.name, score: Math.round(a.score) })),
   events
-}));
+}, null, 1));
 
 const fresh = events.filter(e => e.isNew && inZone(e));
-console.log(`${events.length} concerts enregistrés, ${events.filter(inZone).length} dans la zone, ${fresh.length} nouveaux.`);
+await summary([
+  `🎧 ${artists.length} artistes trouvés sur Spotify, ${pick.length} surveillés (${spErrors} erreurs Spotify)`,
+  `🎟️ ${events.length} concerts en Europe, ${events.filter(inZone).length} dans ta zone`,
+  `✨ ${fresh.length} nouveaux concerts dans ta zone`
+]);
 await notify(fresh);
