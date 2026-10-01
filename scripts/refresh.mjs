@@ -195,13 +195,16 @@ function parseGoogleDate(ev) {
   const t24 = /\b(\d{1,2}):(\d{2})\b/.exec(ev.date?.when || '');
   if (t12) { let h = +t12[1] % 12; if (/pm/i.test(t12[3])) h += 12; time = `${String(h).padStart(2, '0')}:${t12[2] || '00'}`; }
   else if (t24) time = `${t24[1].padStart(2, '0')}:${t24[2]}`;
+  else if (/^\d{1,2}:\d{2}$/.test(ev.time || '')) time = ev.time.padStart(5, '0');
   const date = `${year}-${String(month + 1).padStart(2, '0')}-${String(day).padStart(2, '0')}T${time || '00:00'}:00`;
   return { date, noTime: !time };
 }
 
 let serpUsed = 0;
-// Recherche Google classique : les concerts apparaissent dans "events_results"
-// (le moteur "google_events" de SerpApi a été arrêté)
+const SERP_VERSION = 2; // à incrémenter si le format change : force une nouvelle recherche
+// Recherche Google classique : Google affiche la tournée de l'artiste dans "events_results"
+// Format constaté : { title: "Ville, Pays", date: { start_date: "Feb 7", when: "Sun 19:00 2027" },
+//                     time: "19:00", venue: "Salle", source: "Bandsintown", link: "https://..." }
 async function fromGoogle(name) {
   const p = new URLSearchParams({ engine: 'google', q: `${name} concert`, gl: 'fr', hl: 'en', api_key: env.SERPAPI_KEY });
   serpUsed++;
@@ -212,33 +215,31 @@ async function fromGoogle(name) {
     if (/hasn't returned|no results/i.test(j.error)) return [];
     throw new Error('SerpApi : ' + j.error);
   }
-  const target = norm(name);
   return (j.events_results || [])
-    .filter(e => norm(e.title).includes(target) || norm(e.description).includes(target))
     .map(e => {
       const d = parseGoogleDate(e); if (!d) return null;
+      // Lieu : "Ville, Pays" dans le titre, ou ancien format avec "address"
       const addr = Array.isArray(e.address) ? e.address : (e.address ? [e.address] : []);
-      const full = addr.join(', ');
-      const last = (addr[addr.length - 1] || '').split(',').map(x => x.trim());
-      const country = last.length > 1 ? last[last.length - 1] : '';
-      const city = last.length > 1 ? last[0] : (last[0] || '');
+      const place = (addr.length ? addr[addr.length - 1] : e.title || '').split(',').map(x => x.trim()).filter(Boolean);
+      const country = place.length > 1 ? place[place.length - 1] : '';
+      const city = place[0] || '';
       const coords = CITY_COORDS[norm(city)];
-      const cc = toCC(country) || (/belgi/i.test(full) ? 'BE' : 'FR'); // recherche faite depuis la France
+      const venue = typeof e.venue === 'string' ? e.venue : (e.venue?.name || (addr[0] || '').split(',')[0]);
       const tix = (e.ticket_info || []).find(t => t.link && t.link_type === 'tickets') || (e.ticket_info || []).find(t => t.link);
       return {
         artist: name, date: d.date, noTime: d.noTime,
-        venue: e.venue?.name || (addr[0] || '').split(',')[0], city, cc,
+        venue, city, cc: toCC(country),
         lat: coords ? coords[0] : null, lng: coords ? coords[1] : null,
-        links: [{ src: tix?.source || 'Google', url: tix?.link || e.link }]
+        links: [{ src: tix?.source || e.source || 'Google', url: tix?.link || e.link }]
       };
     })
-    .filter(Boolean);
+    .filter(e => e && e.cc);
 }
 
 async function googleEvents(pickList) {
   const every = 7 * 86400000 - 3 * 3600000;
   if (!env.SERPAPI_KEY) return { events: [], at: null, note: 'Pas de clé SerpApi : France via Google désactivée.' };
-  if (prev?.serp?.at && Date.now() - prev.serp.at < every) {
+  if (prev?.serp?.at && prev.serp.v === SERP_VERSION && Date.now() - prev.serp.at < every) {
     return { events: prev.serp.events || [], at: prev.serp.at, note: `Google : résultats de la semaine réutilisés (${(prev.serp.events || []).length} concerts).` };
   }
   const list = pickList.slice(0, cfg.serpArtists ?? 40);
@@ -249,7 +250,8 @@ async function googleEvents(pickList) {
     console.warn(e.message);
     return { events: prev?.serp?.events || [], at: prev?.serp?.at || null, note: `⚠️ ${e.message} Résultats précédents conservés.` };
   }
-  return { events: out, at: Date.now(), note: `Google : ${serpUsed} recherches SerpApi, ${out.length} concerts trouvés.` };
+  const inEurope = out.filter(e => KEEP_CC.has(e.cc)).length;
+  return { events: out, at: Date.now(), note: `Google : ${serpUsed} recherches SerpApi, ${inEurope} concerts trouvés en Europe.` };
 }
 
 function mergeEvents(list) {
@@ -349,7 +351,7 @@ await fs.writeFile('data.json', JSON.stringify({
   at: Date.now(),
   artists: artists.slice(0, 400).map(a => ({ name: a.name, score: Math.round(a.score) })),
   events,
-  serp: { at: google.at, events: google.events }
+  serp: { v: SERP_VERSION, at: google.at, events: google.events }
 }, null, 1));
 
 const fresh = events.filter(e => e.isNew && inZone(e));
