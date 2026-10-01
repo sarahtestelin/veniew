@@ -1,5 +1,6 @@
 {
- "at": 1790861695919,
+ "at": 1790863010895,
+ "spotifyAt": null,
  "artists": [
   {
    "name": "The Neighbourhood",
@@ -6429,7 +6430,169 @@
   }
  ],
  "serp": {
-  "at": 1790861695903,
-  "events": []
+  "v": 2,
+  "at": 1790863010880,
+  "events": [
+   {
+    "artist": "Catch Your Breath",
+    "date": "2026-10-21T18:00:00",
+    "noTime": false,
+    "venue": "The Granada",
+    "city": "Lawrence",
+    "cc": "KS",
+    "lat": null,
+    "lng": null,
+    "links": [
+     {
+      "src": "Bandsintown",
+      "url": "https://www.bandsintown.com/e/108454998?app_id=ggl_feed&came_from=289&utm_medium=web&utm_source=ggl_feed&utm_campaign=event&source=ea"
+     }
+    ]
+   },
+   {
+    "artist": "Catch Your Breath",
+    "date": "2026-10-25T18:00:00",
+    "noTime": false,
+    "venue": "Knitting Factory Boise",
+    "city": "Boise",
+    "cc": "ID",
+    "lat": null,
+    "lng": null,
+    "links": [
+     {
+      "src": "Bandsintown",
+      "url": "https://www.bandsintown.com/e/108438693?app_id=ggl_feed&came_from=289&utm_medium=web&utm_source=ggl_feed&utm_campaign=event&source=ea"
+     }
+    ]
+   },
+   {
+    "artist": "Catch Your Breath",
+    "date": "2026-11-03T18:00:00",
+    "noTime": false,
+    "venue": "Vibes Event Center",
+    "city": "San Antonio",
+    "cc": "TX",
+    "lat": null,
+    "lng": null,
+    "links": [
+     {
+      "src": "Bandsintown",
+      "url": "https://www.bandsintown.com/e/1039147011?app_id=ggl_feed&came_from=289&utm_medium=web&utm_source=ggl_feed&utm_campaign=event&source=ea"
+     }
+    ]
+   },
+   {
+    "artist": "Catch Your Breath",
+    "date": "2026-11-07T18:00:00",
+    "noTime": false,
+    "venue": "The Beacham",
+    "city": "Orlando",
+    "cc": "FL",
+    "lat": null,
+    "lng": null,
+    "links": [
+     {
+      "src": "Bandsintown",
+      "url": "https://www.bandsintown.com/e/108454997?app_id=ggl_feed&came_from=289&utm_medium=web&utm_source=ggl_feed&utm_campaign=event&source=ea"
+     }
+    ]
+   },
+   {
+    "artist": "Ella Boh",
+    "date": "2026-10-05T19:00:00",
+    "noTime": false,
+    "venue": "Baby's All Right",
+    "city": "New York",
+    "cc": "NY",
+    "lat": null,
+    "lng": null,
+    "links": [
+     {
+      "src": "Bandsintown",
+      "url": "https://www.bandsintown.com/e/108702911?app_id=ggl_feed&came_from=289&utm_medium=web&utm_source=ggl_feed&utm_campaign=event&source=ea"
+     }
+    ]
+   },
+   {
+    "artist": "Ella Boh",
+    "date": "2026-10-01T19:00:00",
+    "noTime": false,
+    "venue": "The Crofoot",
+    "city": "Pontiac",
+    "cc": "MI",
+    "lat": null,
+    "lng": null,
+    "links": [
+     {
+      "src": "Bandsintown",
+      "url": "https://www.bandsintown.com/e/108702896?app_id=ggl_feed&came_from=289&utm_medium=web&utm_source=ggl_feed&utm_campaign=event&source=ea"
+     }
+    ]
+   },
+   {
+    "artist": "Ella Boh",
+    "date": "2026-10-08T19:00:00",
+    "noTime": false,
+    "venue": "Cannery Hall",
+    "city": "Nashville",
+    "cc": "TN",
+    "lat": null,
+    "lng": null,
+    "links": [
+     {
+      "src": "Bandsintown",
+      "url": "https://www.bandsintown.com/e/108702927?app_id=ggl_feed&came_from=289&utm_medium=web&utm_source=ggl_feed&utm_campaign=event&source=ea"
+     }
+    ]
+   },
+   {
+    "artist": "Ella Boh",
+    "date": "2026-10-11T19:00:00",
+    "noTime": false,
+    "venue": "TX Tea Room",
+    "city": "Dallas",
+    "cc": "TX",
+    "lat": null,
+    "lng": null,
+    "links": [
+     {
+      "src": "Bandsintown",
+      "url": "https://www.bandsintown.com/e/108702942?app_id=ggl_feed&came_from=289&utm_medium=web&utm_source=ggl_feed&utm_campaign=event&source=ea"
+     }
+    ]
+   },
+   {
+    "artist": "Ella Boh",
+    "date": "2026-10-12T19:00:00",
+    "noTime": false,
+    "venue": "Paper Tiger",
+    "city": "San Antonio",
+    "cc": "TX",
+    "lat": null,
+    "lng": null,
+    "links": [
+     {
+      "src": "Bandsintown",
+      "url": "https://www.bandsintown.com/e/1039663363?app_id=ggl_feed&came_from=289&utm_medium=web&utm_source=ggl_feed&utm_campaign=event&source=ea"
+     }
+    ]
+   },
+   {
+    "artist": "Ella Boh",
+    "date": "2026-10-20T19:00:00",
+    "noTime": false,
+    "venue": "The Roxy Theatre",
+    "city": "West Hollywood",
+    "cc": "CA",
+    "lat": null,
+    "lng": null,
+    "links": [
+     {
+      "src": "Bandsintown",
+      "url": "https://www.bandsintown.com/e/108702969?app_id=ggl_feed&came_from=289&utm_medium=web&utm_source=ggl_feed&utm_campaign=event&source=ea"
+     }
+    ]
+   }
+  ]
  }
 }
