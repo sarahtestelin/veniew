@@ -1,6 +1,6 @@
 {
- "at": 1790863484888,
- "spotifyAt": null,
+ "at": 1790941797890,
+ "spotifyAt": 1790941701961,
  "artists": [
   {
    "name": "The Neighbourhood",
@@ -16,19 +16,19 @@
   },
   {
    "name": "Bring Me The Horizon",
-   "score": 85
+   "score": 88
   },
   {
    "name": "Lady Gaga",
-   "score": 77
+   "score": 76
   },
   {
    "name": "Lana Del Rey",
-   "score": 74
+   "score": 73
   },
   {
    "name": "The Weeknd",
-   "score": 71
+   "score": 70
   },
   {
    "name": "Isabel LaRosa",
@@ -44,7 +44,7 @@
   },
   {
    "name": "Henry Morris",
-   "score": 63
+   "score": 62
   },
   {
    "name": "Tame Impala",
@@ -55,47 +55,47 @@
    "score": 55
   },
   {
-   "name": "Dutch Melrose",
-   "score": 51
-  },
-  {
    "name": "Catch Your Breath",
-   "score": 48
+   "score": 50
   },
   {
-   "name": "d4vd",
-   "score": 48
+   "name": "Dutch Melrose",
+   "score": 50
   },
   {
    "name": "Presley Regier",
    "score": 48
   },
   {
-   "name": "Kanye West",
-   "score": 46
+   "name": "Pierce The Veil",
+   "score": 47
+  },
+  {
+   "name": "d4vd",
+   "score": 47
   },
   {
    "name": "Ari Abdul",
    "score": 45
   },
   {
-   "name": "Pierce The Veil",
-   "score": 45
-  },
-  {
-   "name": "Katy Perry",
+   "name": "Kanye West",
    "score": 45
   },
   {
    "name": "Arctic Monkeys",
-   "score": 44
+   "score": 43
   },
   {
-   "name": "Chris Grey",
-   "score": 42
+   "name": "Katy Perry",
+   "score": 43
   },
   {
    "name": "Linkin Park",
+   "score": 42
+  },
+  {
+   "name": "Chris Grey",
    "score": 42
   },
   {
@@ -119,11 +119,7 @@
    "score": 35
   },
   {
-   "name": "Tate McRae",
-   "score": 34
-  },
-  {
-   "name": "Damso",
+   "name": "Hamza",
    "score": 34
   },
   {
@@ -131,8 +127,12 @@
    "score": 34
   },
   {
-   "name": "Hamza",
+   "name": "Damso",
    "score": 34
+  },
+  {
+   "name": "Tate McRae",
+   "score": 33
   },
   {
    "name": "Britney Spears",
@@ -148,7 +148,7 @@
   },
   {
    "name": "sombr",
-   "score": 32
+   "score": 31
   },
   {
    "name": "Jutes",
@@ -159,12 +159,16 @@
    "score": 29
   },
   {
-   "name": "Maroon 5",
-   "score": 29
-  },
-  {
    "name": "ThxSoMch",
    "score": 28
+  },
+  {
+   "name": "Maroon 5",
+   "score": 28
+  },
+  {
+   "name": "Motionless In White",
+   "score": 27
   },
   {
    "name": "Allegra Jordyn",
@@ -179,10 +183,6 @@
    "score": 26
   },
   {
-   "name": "akiaura",
-   "score": 25
-  },
-  {
    "name": "Beach Weather",
    "score": 25
   },
@@ -191,20 +191,32 @@
    "score": 25
   },
   {
-   "name": "Asal",
-   "score": 24
+   "name": "akiaura",
+   "score": 25
   },
   {
-   "name": "Fall Out Boy",
-   "score": 23
+   "name": "Asal",
+   "score": 24
   },
   {
    "name": "GIMS",
    "score": 23
   },
   {
+   "name": "Fall Out Boy",
+   "score": 23
+  },
+  {
+   "name": "Lisp",
+   "score": 23
+  },
+  {
    "name": "Justin Timberlake",
    "score": 23
+  },
+  {
+   "name": "Three Days Grace",
+   "score": 22
   },
   {
    "name": "Pitbull",
@@ -239,20 +251,12 @@
    "score": 19
   },
   {
-   "name": "Awaken I Am",
-   "score": 19
-  },
-  {
    "name": "Billie Eilish",
    "score": 19
   },
   {
-   "name": "Three Days Grace",
-   "score": 18
-  },
-  {
-   "name": "Morning Silk",
-   "score": 18
+   "name": "Awaken I Am",
+   "score": 19
   },
   {
    "name": "Tayc",
@@ -287,16 +291,8 @@
    "score": 16
   },
   {
-   "name": "Pastel Ghost",
-   "score": 14
-  },
-  {
-   "name": "Caskets",
-   "score": 14
-  },
-  {
-   "name": "The Killers",
-   "score": 14
+   "name": "Bad Omens",
+   "score": 15
   },
   {
    "name": "Charli xcx",
@@ -307,19 +303,27 @@
    "score": 14
   },
   {
-   "name": "Lisp",
+   "name": "The Killers",
+   "score": 14
+  },
+  {
+   "name": "Caskets",
+   "score": 14
+  },
+  {
+   "name": "Morning Silk",
    "score": 14
   },
   {
    "name": "Kae",
-   "score": 14
+   "score": 13
   },
   {
    "name": "Ex Habit",
    "score": 13
   },
   {
-   "name": "The Pretty Reckless",
+   "name": "Julia Wolf",
    "score": 13
   },
   {
@@ -343,11 +347,11 @@
    "score": 13
   },
   {
-   "name": "K/DA",
+   "name": "The Pretty Reckless",
    "score": 13
   },
   {
-   "name": "Michael Jackson",
+   "name": "K/DA",
    "score": 13
   },
   {
@@ -363,8 +367,12 @@
    "score": 12
   },
   {
+   "name": "Seether",
+   "score": 11
+  },
+  {
    "name": "Jade LeMac",
-   "score": 12
+   "score": 11
   },
   {
    "name": "Myla",
@@ -427,19 +435,11 @@
    "score": 10
   },
   {
-   "name": "Wiz Khalifa",
-   "score": 10
-  },
-  {
    "name": "Timbaland",
    "score": 10
   },
   {
    "name": "MXZI",
-   "score": 10
-  },
-  {
-   "name": "Labrinth",
    "score": 10
   },
   {
@@ -479,6 +479,10 @@
    "score": 9
   },
   {
+   "name": "Wiz Khalifa",
+   "score": 9
+  },
+  {
    "name": "One Direction",
    "score": 9
   },
@@ -491,11 +495,11 @@
    "score": 9
   },
   {
-   "name": "Aidan",
+   "name": "Jesse®",
    "score": 8
   },
   {
-   "name": "Jesse®",
+   "name": "Paramore",
    "score": 8
   },
   {
@@ -508,14 +512,6 @@
   },
   {
    "name": "Punctual",
-   "score": 8
-  },
-  {
-   "name": "Bad Omens",
-   "score": 8
-  },
-  {
-   "name": "Motionless In White",
    "score": 8
   },
   {
@@ -655,6 +651,10 @@
    "score": 6
   },
   {
+   "name": "Golden Cats",
+   "score": 6
+  },
+  {
    "name": "Gorillaz",
    "score": 6
   },
@@ -683,10 +683,6 @@
    "score": 6
   },
   {
-   "name": "Julia Wolf",
-   "score": 6
-  },
-  {
    "name": "Dominic Donner",
    "score": 6
   },
@@ -712,10 +708,6 @@
   },
   {
    "name": "Jok'air",
-   "score": 6
-  },
-  {
-   "name": "Paramore",
    "score": 6
   },
   {
@@ -755,6 +747,10 @@
    "score": 6
   },
   {
+   "name": "Pastel Ghost",
+   "score": 6
+  },
+  {
    "name": "Curbi",
    "score": 6
   },
@@ -771,7 +767,7 @@
    "score": 5
   },
   {
-   "name": "Golden Cats",
+   "name": "Michael Jackson",
    "score": 5
   },
   {
@@ -780,6 +776,10 @@
   },
   {
    "name": "Mylène Farmer",
+   "score": 5
+  },
+  {
+   "name": "Spiritbox",
    "score": 5
   },
   {
@@ -995,10 +995,6 @@
    "score": 4
   },
   {
-   "name": "Spiritbox",
-   "score": 4
-  },
-  {
    "name": "MY FIRST STORY",
    "score": 4
   },
@@ -1016,10 +1012,6 @@
   },
   {
    "name": "Kali Uchis",
-   "score": 4
-  },
-  {
-   "name": "Seether",
    "score": 4
   },
   {
@@ -1601,27 +1593,17 @@
   {
    "name": "BB Brunes",
    "score": 3
+  },
+  {
+   "name": "Mozart Opera Rock",
+   "score": 3
+  },
+  {
+   "name": "Gwen Stefani",
+   "score": 3
   }
  ],
  "events": [
-  {
-   "artist": "Placebo",
-   "date": "2026-10-01T20:45:00",
-   "noTime": false,
-   "venue": "Movistar Arena",
-   "city": "Madrid",
-   "cc": "ES",
-   "lat": 40.42394,
-   "lng": -3.6758,
-   "links": [
-    {
-     "src": "Ticketmaster",
-     "url": "https://www.ticketmaster.es/event/placebo-30th-anniversary-tour%7C-vip-packages-tickets/2075929867?language=en-us"
-    }
-   ],
-   "key": "placebo|2026-10-01|madrid",
-   "isNew": false
-  },
   {
    "artist": "Shakira",
    "date": "2026-10-02T20:30:00",
@@ -2232,24 +2214,6 @@
     }
    ],
    "key": "placebo|2026-11-01|merksem antwerpen",
-   "isNew": false
-  },
-  {
-   "artist": "Eve",
-   "date": "2026-11-02T19:00:00",
-   "noTime": false,
-   "venue": "O2 Forum Kentish Town",
-   "city": "London",
-   "cc": "GB",
-   "lat": 51.552039,
-   "lng": -0.14193,
-   "links": [
-    {
-     "src": "Ticketmaster",
-     "url": "https://www.ticketmaster.co.uk/eve-scorpion-tour-london-02-11-2026/event/3E00649522169AA6"
-    }
-   ],
-   "key": "eve|2026-11-02|london",
    "isNew": false
   },
   {
@@ -4377,6 +4341,60 @@
    "isNew": false
   },
   {
+   "artist": "Muse",
+   "date": "2027-01-19T20:30:00",
+   "noTime": false,
+   "venue": "Movistar Arena",
+   "city": "Madrid",
+   "cc": "ES",
+   "lat": 40.42394,
+   "lng": -3.6758,
+   "links": [
+    {
+     "src": "Ticketmaster",
+     "url": "https://www.ticketmaster.es/event/muse-the-wow-signal-europa-tour-tickets/1731131423?language=en-us"
+    }
+   ],
+   "key": "muse|2027-01-19|madrid",
+   "isNew": true
+  },
+  {
+   "artist": "Muse",
+   "date": "2027-01-20T20:30:00",
+   "noTime": false,
+   "venue": "Movistar Arena",
+   "city": "Madrid",
+   "cc": "ES",
+   "lat": 40.42394,
+   "lng": -3.6758,
+   "links": [
+    {
+     "src": "Ticketmaster",
+     "url": "https://www.ticketmaster.es/event/muse-the-wow-signal-europa-tour-tickets/398294606?language=en-us"
+    }
+   ],
+   "key": "muse|2027-01-20|madrid",
+   "isNew": true
+  },
+  {
+   "artist": "Muse",
+   "date": "2027-01-23T20:30:00",
+   "noTime": false,
+   "venue": "Roig Arena",
+   "city": "Valencia",
+   "cc": "ES",
+   "lat": 39.44949,
+   "lng": -0.3661,
+   "links": [
+    {
+     "src": "Ticketmaster",
+     "url": "https://www.ticketmaster.es/event/muse-the-wow-signal-europa-tour-tickets/1441158375?language=en-us"
+    }
+   ],
+   "key": "muse|2027-01-23|valencia",
+   "isNew": true
+  },
+  {
    "artist": "Two Door Cinema Club",
    "date": "2027-01-24T18:30:00",
    "noTime": false,
@@ -4990,6 +5008,24 @@
   },
   {
    "artist": "Nessa Barrett",
+   "date": "2027-03-11T00:00:00",
+   "noTime": true,
+   "venue": "De Roma",
+   "city": "Borgerhout",
+   "cc": "BE",
+   "lat": 51.21331,
+   "lng": 4.43998,
+   "links": [
+    {
+     "src": "Ticketmaster",
+     "url": "https://www.ticketmaster.be/event/nessa-barrett-vip-upgrades-tickets/158415861"
+    }
+   ],
+   "key": "nessa barrett|2027-03-11|borgerhout",
+   "isNew": true
+  },
+  {
+   "artist": "Nessa Barrett",
    "date": "2027-03-12T00:00:00",
    "noTime": true,
    "venue": "L'olympia",
@@ -5004,7 +5040,7 @@
     }
    ],
    "key": "nessa barrett|2027-03-12|paris",
-   "isNew": true
+   "isNew": false
   },
   {
    "artist": "Nessa Barrett",
@@ -5022,7 +5058,7 @@
     }
    ],
    "key": "nessa barrett|2027-03-12|",
-   "isNew": true
+   "isNew": false
   },
   {
    "artist": "South Arcade",
@@ -5079,24 +5115,6 @@
    "isNew": false
   },
   {
-   "artist": "Nessa Barrett",
-   "date": "2027-03-17T00:00:00",
-   "noTime": true,
-   "venue": "De Roma",
-   "city": "Borgerhout",
-   "cc": "BE",
-   "lat": 51.21331,
-   "lng": 4.43998,
-   "links": [
-    {
-     "src": "Ticketmaster",
-     "url": "https://www.ticketmaster.be/event/nessa-barrett-vip-upgrades-tickets/158415861"
-    }
-   ],
-   "key": "nessa barrett|2027-03-17|borgerhout",
-   "isNew": false
-  },
-  {
    "artist": "Haiden Henderson",
    "date": "2027-03-18T19:30:00",
    "noTime": false,
@@ -5113,6 +5131,24 @@
    ],
    "key": "haiden henderson|2027-03-18|zurich",
    "isNew": false
+  },
+  {
+   "artist": "Eve",
+   "date": "2027-03-21T19:00:00",
+   "noTime": false,
+   "venue": "KOKO",
+   "city": "London",
+   "cc": "GB",
+   "lat": 51.535029,
+   "lng": -0.139335,
+   "links": [
+    {
+     "src": "Ticketmaster",
+     "url": "https://www.ticketmaster.co.uk/eve-london-21-03-2027/event/1F00654195802196"
+    }
+   ],
+   "key": "eve|2027-03-21|london",
+   "isNew": true
   },
   {
    "artist": "Nessa Barrett",
@@ -6301,6 +6337,24 @@
    ],
    "key": "harry styles|2027-07-09|berlin",
    "isNew": false
+  },
+  {
+   "artist": "Harry Styles",
+   "date": "2027-07-10T19:00:00",
+   "noTime": false,
+   "venue": "",
+   "city": "Berlin",
+   "cc": "DE",
+   "lat": 52.48256,
+   "lng": 13.38896,
+   "links": [
+    {
+     "src": "Ticketmaster",
+     "url": "https://www.ticketmaster.de/event/harry-styles-together-together-tickets/1607500198?language=en-us"
+    }
+   ],
+   "key": "harry styles|2027-07-10|berlin",
+   "isNew": true
   },
   {
    "artist": "Harry Styles",
