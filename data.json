@@ -1,5 +1,5 @@
 {
- "at": 1790941797890,
+ "at": 1791025374885,
  "spotifyAt": 1790941701961,
  "artists": [
   {
@@ -1605,24 +1605,6 @@
  ],
  "events": [
   {
-   "artist": "Shakira",
-   "date": "2026-10-02T20:30:00",
-   "noTime": false,
-   "venue": "ESTADIO SHAKIRA(Iberdrola Music)",
-   "city": "Madrid",
-   "cc": "ES",
-   "lat": 40.32866,
-   "lng": -3.71094,
-   "links": [
-    {
-     "src": "Ticketmaster",
-     "url": "https://www.ticketmaster.es/event/shakira-las-mujeres-ya-no-lloran-residencia-europea-tickets/628576241?language=en-us"
-    }
-   ],
-   "key": "shakira|2026-10-02|madrid",
-   "isNew": false
-  },
-  {
    "artist": "Amber Run",
    "date": "2026-10-03T19:00:00",
    "noTime": false,
@@ -1716,7 +1698,7 @@
    "artist": "GIMS",
    "date": "2026-10-05T20:00:00",
    "noTime": false,
-   "venue": "",
+   "venue": "AFAS Live Loge",
    "city": "Amsterdam",
    "cc": "NL",
    "lat": 52.31236,
@@ -1724,7 +1706,7 @@
    "links": [
     {
      "src": "Ticketmaster",
-     "url": "https://www.universe.com/events/gims-europe-tour-2026-amsterdam-tickets-VNLF15?ref=ticketmaster"
+     "url": "https://www.ticketmaster.nl/event/gims-%7C-premium-seats-tickets/94558743?language=en-us"
     }
    ],
    "key": "gims|2026-10-05|amsterdam",
@@ -4356,7 +4338,7 @@
     }
    ],
    "key": "muse|2027-01-19|madrid",
-   "isNew": true
+   "isNew": false
   },
   {
    "artist": "Muse",
@@ -4374,7 +4356,7 @@
     }
    ],
    "key": "muse|2027-01-20|madrid",
-   "isNew": true
+   "isNew": false
   },
   {
    "artist": "Muse",
@@ -4392,7 +4374,7 @@
     }
    ],
    "key": "muse|2027-01-23|valencia",
-   "isNew": true
+   "isNew": false
   },
   {
    "artist": "Two Door Cinema Club",
@@ -5022,7 +5004,7 @@
     }
    ],
    "key": "nessa barrett|2027-03-11|borgerhout",
-   "isNew": true
+   "isNew": false
   },
   {
    "artist": "Nessa Barrett",
@@ -5148,7 +5130,7 @@
     }
    ],
    "key": "eve|2027-03-21|london",
-   "isNew": true
+   "isNew": false
   },
   {
    "artist": "Nessa Barrett",
@@ -6354,7 +6336,7 @@
     }
    ],
    "key": "harry styles|2027-07-10|berlin",
-   "isNew": true
+   "isNew": false
   },
   {
    "artist": "Harry Styles",
