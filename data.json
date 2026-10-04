@@ -1,5 +1,5 @@
 {
- "at": 1791025374885,
+ "at": 1791114265542,
  "spotifyAt": 1790941701961,
  "artists": [
   {
@@ -1604,78 +1604,6 @@
   }
  ],
  "events": [
-  {
-   "artist": "Amber Run",
-   "date": "2026-10-03T19:00:00",
-   "noTime": false,
-   "venue": "New Theatre Oxford",
-   "city": "Oxford",
-   "cc": "GB",
-   "lat": 51.754,
-   "lng": -1.26035,
-   "links": [
-    {
-     "src": "Ticketmaster",
-     "url": "https://www.ticketmaster.co.uk/freya-ridings-oxford-03-10-2026/event/3600647E3DE7EED8"
-    }
-   ],
-   "key": "amber run|2026-10-03|oxford",
-   "isNew": false
-  },
-  {
-   "artist": "Spiritbox",
-   "date": "2026-10-03T20:00:00",
-   "noTime": false,
-   "venue": "",
-   "city": "Amsterdam",
-   "cc": "NL",
-   "lat": 52.31236,
-   "lng": 4.94415,
-   "links": [
-    {
-     "src": "Ticketmaster",
-     "url": "https://www.ticketmaster.nl/event/spiritbox-tsunami-sea-uk--eu-tour-2026-tickets/841934246?language=en-us"
-    }
-   ],
-   "key": "spiritbox|2026-10-03|amsterdam",
-   "isNew": false
-  },
-  {
-   "artist": "Shakira",
-   "date": "2026-10-03T20:30:00",
-   "noTime": false,
-   "venue": "ESTADIO SHAKIRA(Iberdrola Music)",
-   "city": "Madrid",
-   "cc": "ES",
-   "lat": 40.32866,
-   "lng": -3.71094,
-   "links": [
-    {
-     "src": "Ticketmaster",
-     "url": "https://www.ticketmaster.es/event/shakira-las-mujeres-ya-no-lloran-residencia-europea-tickets/1577026271?language=en-us"
-    }
-   ],
-   "key": "shakira|2026-10-03|madrid",
-   "isNew": false
-  },
-  {
-   "artist": "Placebo",
-   "date": "2026-10-03T20:45:00",
-   "noTime": false,
-   "venue": "Sant Jordi Club",
-   "city": "Barcelona",
-   "cc": "ES",
-   "lat": 41.36323,
-   "lng": 2.15257,
-   "links": [
-    {
-     "src": "Ticketmaster",
-     "url": "https://www.ticketmaster.es/event/placebo-30th-anniversary-tour-tickets/1478263449?language=en-us"
-    }
-   ],
-   "key": "placebo|2026-10-03|barcelona",
-   "isNew": false
-  },
   {
    "artist": "Shakira",
    "date": "2026-10-04T20:30:00",
