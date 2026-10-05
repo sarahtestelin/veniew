@@ -1,5 +1,5 @@
 {
- "at": 1791114265542,
+ "at": 1791206940282,
  "spotifyAt": 1790941701961,
  "artists": [
   {
@@ -1605,24 +1605,6 @@
  ],
  "events": [
   {
-   "artist": "Shakira",
-   "date": "2026-10-04T20:30:00",
-   "noTime": false,
-   "venue": "ESTADIO SHAKIRA(Iberdrola Music)",
-   "city": "Madrid",
-   "cc": "ES",
-   "lat": 40.32866,
-   "lng": -3.71094,
-   "links": [
-    {
-     "src": "Ticketmaster",
-     "url": "https://www.ticketmaster.es/event/shakira-las-mujeres-ya-no-lloran-residencia-europea-tickets/1112262957?language=en-us"
-    }
-   ],
-   "key": "shakira|2026-10-04|madrid",
-   "isNew": false
-  },
-  {
    "artist": "GIMS",
    "date": "2026-10-05T20:00:00",
    "noTime": false,
@@ -1801,6 +1783,24 @@
    ],
    "key": "placebo|2026-10-12|leipzig",
    "isNew": false
+  },
+  {
+   "artist": "Shakira",
+   "date": "2026-10-12T20:30:00",
+   "noTime": false,
+   "venue": "ESTADIO SHAKIRA(Iberdrola Music)",
+   "city": "Madrid",
+   "cc": "ES",
+   "lat": 40.32866,
+   "lng": -3.71094,
+   "links": [
+    {
+     "src": "Ticketmaster",
+     "url": "https://www.ticketmaster.es/event/shakira-las-mujeres-ya-no-lloran-gran-despedida-con-amigos-tickets/2065667696?language=en-us"
+    }
+   ],
+   "key": "shakira|2026-10-12|madrid",
+   "isNew": true
   },
   {
    "artist": "Eve",
