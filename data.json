@@ -1,5 +1,5 @@
 {
- "at": 1791206940282,
+ "at": 1791290505867,
  "spotifyAt": 1790941701961,
  "artists": [
   {
@@ -1605,24 +1605,6 @@
  ],
  "events": [
   {
-   "artist": "GIMS",
-   "date": "2026-10-05T20:00:00",
-   "noTime": false,
-   "venue": "AFAS Live Loge",
-   "city": "Amsterdam",
-   "cc": "NL",
-   "lat": 52.31236,
-   "lng": 4.94415,
-   "links": [
-    {
-     "src": "Ticketmaster",
-     "url": "https://www.ticketmaster.nl/event/gims-%7C-premium-seats-tickets/94558743?language=en-us"
-    }
-   ],
-   "key": "gims|2026-10-05|amsterdam",
-   "isNew": false
-  },
-  {
    "artist": "Spiritbox",
    "date": "2026-10-08T18:00:00",
    "noTime": false,
@@ -1800,7 +1782,7 @@
     }
    ],
    "key": "shakira|2026-10-12|madrid",
-   "isNew": true
+   "isNew": false
   },
   {
    "artist": "Eve",
