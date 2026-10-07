@@ -1,5 +1,5 @@
 {
- "at": 1791290505867,
+ "at": 1791376493992,
  "spotifyAt": 1790941701961,
  "artists": [
   {
@@ -2145,24 +2145,6 @@
    "isNew": false
   },
   {
-   "artist": "Eve",
-   "date": "2026-11-04T19:00:00",
-   "noTime": false,
-   "venue": "Melkweg",
-   "city": "Amsterdam",
-   "cc": "NL",
-   "lat": 52.36483,
-   "lng": 4.88127,
-   "links": [
-    {
-     "src": "Ticketmaster",
-     "url": "https://www.ticketmaster.nl/event/eve-tickets/314885613?language=en-us"
-    }
-   ],
-   "key": "eve|2026-11-04|amsterdam",
-   "isNew": false
-  },
-  {
    "artist": "Pitbull",
    "date": "2026-11-04T20:30:00",
    "noTime": false,
@@ -2755,6 +2737,24 @@
    ],
    "key": "wisp|2026-11-17|manchester",
    "isNew": false
+  },
+  {
+   "artist": "ridgeclub",
+   "date": "2026-11-17T19:00:00",
+   "noTime": false,
+   "venue": "London The Old Church (Stoke Newington)",
+   "city": "London",
+   "cc": "GB",
+   "lat": 51.56219,
+   "lng": -0.07871,
+   "links": [
+    {
+     "src": "Ticketmaster",
+     "url": "https://www.ticketmaster.co.uk/ridgeclub-london-17-11-2026/event/350065429D167DC4"
+    }
+   ],
+   "key": "ridgeclub|2026-11-17|london",
+   "isNew": true
   },
   {
    "artist": "Wisp",
@@ -4305,6 +4305,24 @@
    "isNew": false
   },
   {
+   "artist": "Muse",
+   "date": "2027-01-24T20:30:00",
+   "noTime": false,
+   "venue": "Roig Arena",
+   "city": "Valencia",
+   "cc": "ES",
+   "lat": 39.44949,
+   "lng": -0.3661,
+   "links": [
+    {
+     "src": "Ticketmaster",
+     "url": "https://www.ticketmaster.es/event/muse-the-wow-signal-europa-tour-tickets/653787524?language=en-us"
+    }
+   ],
+   "key": "muse|2027-01-24|valencia",
+   "isNew": true
+  },
+  {
    "artist": "Two Door Cinema Club",
    "date": "2027-01-26T18:30:00",
    "noTime": false,
@@ -5005,6 +5023,24 @@
    ],
    "key": "nessa barrett|2027-03-16|amsterdam",
    "isNew": false
+  },
+  {
+   "artist": "Eve",
+   "date": "2027-03-17T19:00:00",
+   "noTime": false,
+   "venue": "Melkweg",
+   "city": "Amsterdam",
+   "cc": "NL",
+   "lat": 52.36483,
+   "lng": 4.88127,
+   "links": [
+    {
+     "src": "Ticketmaster",
+     "url": "https://www.ticketmaster.nl/event/eve-tickets/314885613?language=en-us"
+    }
+   ],
+   "key": "eve|2027-03-17|amsterdam",
+   "isNew": true
   },
   {
    "artist": "Haiden Henderson",
@@ -6247,6 +6283,78 @@
    ],
    "key": "harry styles|2027-07-10|berlin",
    "isNew": false
+  },
+  {
+   "artist": "The Neighbourhood",
+   "date": "2027-07-17T11:00:00",
+   "noTime": false,
+   "venue": "Olympiastadion Berlin",
+   "city": "Berlin",
+   "cc": "DE",
+   "lat": 52.51452,
+   "lng": 13.24326,
+   "links": [
+    {
+     "src": "Ticketmaster",
+     "url": "https://www.universe.com/events/lollapalooza-berlin-2027-presented-by-essence-tickets-R2HCJF?ref=ticketmaster"
+    }
+   ],
+   "key": "the neighbourhood|2027-07-17|berlin",
+   "isNew": true
+  },
+  {
+   "artist": "sombr",
+   "date": "2027-07-17T11:00:00",
+   "noTime": false,
+   "venue": "Olympiastadion Berlin",
+   "city": "Berlin",
+   "cc": "DE",
+   "lat": 52.51452,
+   "lng": 13.24326,
+   "links": [
+    {
+     "src": "Ticketmaster",
+     "url": "https://www.universe.com/events/lollapalooza-berlin-2027-presented-by-essence-tickets-R2HCJF?ref=ticketmaster"
+    }
+   ],
+   "key": "sombr|2027-07-17|berlin",
+   "isNew": true
+  },
+  {
+   "artist": "The Neighbourhood",
+   "date": "2027-07-18T00:00:00",
+   "noTime": true,
+   "venue": "",
+   "city": "Berlin",
+   "cc": "DE",
+   "lat": 52.51419,
+   "lng": 13.23431,
+   "links": [
+    {
+     "src": "Ticketmaster",
+     "url": "https://www.ticketmaster.de/event/lollapalooza-berlin-2027-presented-by-essence-%7C-17-and-18-july-2027-tickets/1956126517?language=en-us"
+    }
+   ],
+   "key": "the neighbourhood|2027-07-18|berlin",
+   "isNew": true
+  },
+  {
+   "artist": "sombr",
+   "date": "2027-07-18T00:00:00",
+   "noTime": true,
+   "venue": "",
+   "city": "Berlin",
+   "cc": "DE",
+   "lat": 52.51419,
+   "lng": 13.23431,
+   "links": [
+    {
+     "src": "Ticketmaster",
+     "url": "https://www.ticketmaster.de/event/lollapalooza-berlin-2027-presented-by-essence-%7C-17-and-18-july-2027-tickets/1956126517?language=en-us"
+    }
+   ],
+   "key": "sombr|2027-07-18|berlin",
+   "isNew": true
   },
   {
    "artist": "Harry Styles",
