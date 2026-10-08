@@ -1,5 +1,5 @@
 {
- "at": 1791376493992,
+ "at": 1791463962593,
  "spotifyAt": 1790941701961,
  "artists": [
   {
@@ -2754,7 +2754,7 @@
     }
    ],
    "key": "ridgeclub|2026-11-17|london",
-   "isNew": true
+   "isNew": false
   },
   {
    "artist": "Wisp",
@@ -4320,7 +4320,7 @@
     }
    ],
    "key": "muse|2027-01-24|valencia",
-   "isNew": true
+   "isNew": false
   },
   {
    "artist": "Two Door Cinema Club",
@@ -5040,7 +5040,7 @@
     }
    ],
    "key": "eve|2027-03-17|amsterdam",
-   "isNew": true
+   "isNew": false
   },
   {
    "artist": "Haiden Henderson",
@@ -6300,7 +6300,7 @@
     }
    ],
    "key": "the neighbourhood|2027-07-17|berlin",
-   "isNew": true
+   "isNew": false
   },
   {
    "artist": "sombr",
@@ -6318,7 +6318,7 @@
     }
    ],
    "key": "sombr|2027-07-17|berlin",
-   "isNew": true
+   "isNew": false
   },
   {
    "artist": "The Neighbourhood",
@@ -6336,7 +6336,7 @@
     }
    ],
    "key": "the neighbourhood|2027-07-18|berlin",
-   "isNew": true
+   "isNew": false
   },
   {
    "artist": "sombr",
@@ -6354,7 +6354,7 @@
     }
    ],
    "key": "sombr|2027-07-18|berlin",
-   "isNew": true
+   "isNew": false
   },
   {
    "artist": "Harry Styles",
