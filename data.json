@@ -1,34 +1,30 @@
 {
- "at": 1791463962593,
- "spotifyAt": 1790941701961,
+ "at": 1791549266418,
+ "spotifyAt": 1791549014701,
  "artists": [
   {
    "name": "The Neighbourhood",
-   "score": 235
+   "score": 234
   },
   {
    "name": "Nessa Barrett",
-   "score": 150
+   "score": 151
   },
   {
    "name": "Artemas",
-   "score": 132
+   "score": 133
   },
   {
    "name": "Bring Me The Horizon",
    "score": 88
   },
   {
-   "name": "Lady Gaga",
-   "score": 76
-  },
-  {
    "name": "Lana Del Rey",
-   "score": 73
+   "score": 79
   },
   {
-   "name": "The Weeknd",
-   "score": 70
+   "name": "Lady Gaga",
+   "score": 78
   },
   {
    "name": "Isabel LaRosa",
@@ -36,7 +32,7 @@
   },
   {
    "name": "Chase Atlantic",
-   "score": 68
+   "score": 67
   },
   {
    "name": "PLVTINUM",
@@ -44,7 +40,7 @@
   },
   {
    "name": "Henry Morris",
-   "score": 62
+   "score": 63
   },
   {
    "name": "Tame Impala",
@@ -55,48 +51,56 @@
    "score": 55
   },
   {
+   "name": "The Weeknd",
+   "score": 55
+  },
+  {
+   "name": "Ari Abdul",
+   "score": 54
+  },
+  {
    "name": "Catch Your Breath",
-   "score": 50
+   "score": 51
   },
   {
    "name": "Dutch Melrose",
-   "score": 50
+   "score": 49
+  },
+  {
+   "name": "d4vd",
+   "score": 49
+  },
+  {
+   "name": "Ariana Grande",
+   "score": 48
   },
   {
    "name": "Presley Regier",
-   "score": 48
+   "score": 47
   },
   {
    "name": "Pierce The Veil",
    "score": 47
   },
   {
-   "name": "d4vd",
-   "score": 47
-  },
-  {
-   "name": "Ari Abdul",
-   "score": 45
-  },
-  {
-   "name": "Kanye West",
-   "score": 45
-  },
-  {
    "name": "Arctic Monkeys",
    "score": 43
   },
   {
-   "name": "Katy Perry",
+   "name": "Linkin Park",
    "score": 43
   },
   {
-   "name": "Linkin Park",
+   "name": "Katy Perry",
    "score": 42
   },
   {
    "name": "Chris Grey",
-   "score": 42
+   "score": 40
+  },
+  {
+   "name": "Kanye West",
+   "score": 40
   },
   {
    "name": "Justin Bieber",
@@ -104,7 +108,7 @@
   },
   {
    "name": "Ella Boh",
-   "score": 38
+   "score": 39
   },
   {
    "name": "Haiden Henderson",
@@ -115,48 +119,52 @@
    "score": 35
   },
   {
-   "name": "Ariana Grande",
-   "score": 35
+   "name": "Damso",
+   "score": 34
   },
   {
    "name": "Hamza",
    "score": 34
   },
   {
+   "name": "Fall Out Boy",
+   "score": 33
+  },
+  {
    "name": "Eve",
-   "score": 34
-  },
-  {
-   "name": "Damso",
-   "score": 34
-  },
-  {
-   "name": "Tate McRae",
    "score": 33
   },
   {
    "name": "Britney Spears",
-   "score": 33
+   "score": 32
   },
   {
    "name": "London Grammar",
-   "score": 33
+   "score": 32
   },
   {
    "name": "Hozier",
    "score": 32
   },
   {
-   "name": "sombr",
-   "score": 31
-  },
-  {
    "name": "Jutes",
    "score": 31
   },
   {
-   "name": "Mr.Kitty",
+   "name": "Bruno Mars",
+   "score": 30
+  },
+  {
+   "name": "Tate McRae",
    "score": 29
+  },
+  {
+   "name": "Motionless In White",
+   "score": 29
+  },
+  {
+   "name": "Mr.Kitty",
+   "score": 28
   },
   {
    "name": "ThxSoMch",
@@ -167,7 +175,7 @@
    "score": 28
   },
   {
-   "name": "Motionless In White",
+   "name": "Bad Omens",
    "score": 27
   },
   {
@@ -179,15 +187,11 @@
    "score": 26
   },
   {
-   "name": "Jfarrari",
-   "score": 26
-  },
-  {
-   "name": "Beach Weather",
+   "name": "Ellie Goulding",
    "score": 25
   },
   {
-   "name": "Ellie Goulding",
+   "name": "Beach Weather",
    "score": 25
   },
   {
@@ -203,23 +207,23 @@
    "score": 23
   },
   {
-   "name": "Fall Out Boy",
-   "score": 23
-  },
-  {
-   "name": "Lisp",
-   "score": 23
-  },
-  {
    "name": "Justin Timberlake",
    "score": 23
   },
   {
-   "name": "Three Days Grace",
+   "name": "Lisp",
+   "score": 22
+  },
+  {
+   "name": "Jfarrari",
    "score": 22
   },
   {
    "name": "Pitbull",
+   "score": 22
+  },
+  {
+   "name": "Three Days Grace",
    "score": 22
   },
   {
@@ -232,15 +236,19 @@
   },
   {
    "name": "Nekfeu",
-   "score": 21
+   "score": 20
   },
   {
    "name": "Kesha",
    "score": 20
   },
   {
-   "name": "Tatsuya Kitani",
+   "name": "sombr",
    "score": 20
+  },
+  {
+   "name": "Tatsuya Kitani",
+   "score": 19
   },
   {
    "name": "Calvin Harris",
@@ -251,24 +259,16 @@
    "score": 19
   },
   {
-   "name": "Billie Eilish",
+   "name": "Awaken I Am",
    "score": 19
   },
   {
-   "name": "Awaken I Am",
+   "name": "Billie Eilish",
    "score": 19
   },
   {
    "name": "Tayc",
    "score": 17
-  },
-  {
-   "name": "Twenty One Pilots",
-   "score": 17
-  },
-  {
-   "name": "Psylosia",
-   "score": 16
   },
   {
    "name": "Olly Alexander (Years & Years)",
@@ -291,8 +291,12 @@
    "score": 16
   },
   {
-   "name": "Bad Omens",
-   "score": 15
+   "name": "Psylosia",
+   "score": 16
+  },
+  {
+   "name": "Paramore",
+   "score": 14
   },
   {
    "name": "Charli xcx",
@@ -307,15 +311,11 @@
    "score": 14
   },
   {
-   "name": "Caskets",
-   "score": 14
-  },
-  {
    "name": "Morning Silk",
    "score": 14
   },
   {
-   "name": "Kae",
+   "name": "Julia Wolf",
    "score": 13
   },
   {
@@ -323,7 +323,7 @@
    "score": 13
   },
   {
-   "name": "Julia Wolf",
+   "name": "The Pretty Reckless",
    "score": 13
   },
   {
@@ -347,15 +347,15 @@
    "score": 13
   },
   {
-   "name": "The Pretty Reckless",
+   "name": "Kae",
    "score": 13
+  },
+  {
+   "name": "Spiritbox",
+   "score": 12
   },
   {
    "name": "K/DA",
-   "score": 13
-  },
-  {
-   "name": "Amira Elfeky",
    "score": 12
   },
   {
@@ -363,15 +363,19 @@
    "score": 12
   },
   {
+   "name": "Twenty One Pilots",
+   "score": 12
+  },
+  {
    "name": "Sia",
    "score": 12
   },
   {
-   "name": "Seether",
-   "score": 11
+   "name": "Amira Elfeky",
+   "score": 12
   },
   {
-   "name": "Jade LeMac",
+   "name": "Seether",
    "score": 11
   },
   {
@@ -407,10 +411,6 @@
    "score": 11
   },
   {
-   "name": "Holywatr",
-   "score": 11
-  },
-  {
    "name": "noise dept.",
    "score": 10
   },
@@ -443,7 +443,11 @@
    "score": 10
   },
   {
-   "name": "South Arcade",
+   "name": "Chris Isaak",
+   "score": 9
+  },
+  {
+   "name": "Caskets",
    "score": 9
   },
   {
@@ -495,19 +499,23 @@
    "score": 9
   },
   {
+   "name": "South Arcade",
+   "score": 9
+  },
+  {
+   "name": "Nerv",
+   "score": 9
+  },
+  {
    "name": "Jesse®",
    "score": 8
   },
   {
-   "name": "Paramore",
+   "name": "ADÉLA",
    "score": 8
   },
   {
    "name": "Feist",
-   "score": 8
-  },
-  {
-   "name": "Chris Isaak",
    "score": 8
   },
   {
@@ -523,16 +531,16 @@
    "score": 8
   },
   {
-   "name": "Bruno Mars",
-   "score": 8
-  },
-  {
    "name": "Halsey",
    "score": 8
   },
   {
    "name": "YOASOBI",
    "score": 8
+  },
+  {
+   "name": "Michael Jackson",
+   "score": 7
   },
   {
    "name": "Ellise",
@@ -679,6 +687,10 @@
    "score": 6
   },
   {
+   "name": "sace6",
+   "score": 6
+  },
+  {
    "name": "Superbus",
    "score": 6
   },
@@ -696,10 +708,6 @@
   },
   {
    "name": "ridgeclub",
-   "score": 6
-  },
-  {
-   "name": "Kendrick Lamar",
    "score": 6
   },
   {
@@ -767,19 +775,11 @@
    "score": 5
   },
   {
-   "name": "Michael Jackson",
-   "score": 5
-  },
-  {
    "name": "Thousand Foot Krutch",
    "score": 5
   },
   {
    "name": "Mylène Farmer",
-   "score": 5
-  },
-  {
-   "name": "Spiritbox",
    "score": 5
   },
   {
@@ -819,10 +819,6 @@
    "score": 5
   },
   {
-   "name": "sace6",
-   "score": 5
-  },
-  {
    "name": "Owl City",
    "score": 5
   },
@@ -840,6 +836,10 @@
   },
   {
    "name": "Phoenix",
+   "score": 5
+  },
+  {
+   "name": "Kendrick Lamar",
    "score": 5
   },
   {
@@ -995,6 +995,10 @@
    "score": 4
   },
   {
+   "name": "Holywatr",
+   "score": 4
+  },
+  {
    "name": "MY FIRST STORY",
    "score": 4
   },
@@ -1108,6 +1112,10 @@
   },
   {
    "name": "Marshmello",
+   "score": 4
+  },
+  {
+   "name": "New Medicine",
    "score": 4
   },
   {
@@ -1276,6 +1284,10 @@
   },
   {
    "name": "SIX LOUNGE",
+   "score": 3
+  },
+  {
+   "name": "Jade LeMac",
    "score": 3
   },
   {
@@ -1451,10 +1463,6 @@
    "score": 3
   },
   {
-   "name": "New Medicine",
-   "score": 3
-  },
-  {
    "name": "Falling In Reverse",
    "score": 3
   },
@@ -1593,53 +1601,9 @@
   {
    "name": "BB Brunes",
    "score": 3
-  },
-  {
-   "name": "Mozart Opera Rock",
-   "score": 3
-  },
-  {
-   "name": "Gwen Stefani",
-   "score": 3
   }
  ],
  "events": [
-  {
-   "artist": "Spiritbox",
-   "date": "2026-10-08T18:00:00",
-   "noTime": false,
-   "venue": "Lotto Arena Antwerpen",
-   "city": "Merksem (Antwerpen)",
-   "cc": "BE",
-   "lat": 51.23024,
-   "lng": 4.44176,
-   "links": [
-    {
-     "src": "Ticketmaster",
-     "url": "https://www.ticketmaster.be/event/spiritbox-tsunami-sea-uk--eu-tour-2026-tickets/513257290"
-    }
-   ],
-   "key": "spiritbox|2026-10-08|merksem antwerpen",
-   "isNew": false
-  },
-  {
-   "artist": "Young the Giant",
-   "date": "2026-10-08T19:00:00",
-   "noTime": false,
-   "venue": "KOKO",
-   "city": "London",
-   "cc": "GB",
-   "lat": 51.535029,
-   "lng": -0.139335,
-   "links": [
-    {
-     "src": "Ticketmaster",
-     "url": "https://www.ticketmaster.co.uk/young-the-giant-london-08-10-2026/event/1F00649DA3EA3AE9"
-    }
-   ],
-   "key": "young the giant|2026-10-08|london",
-   "isNew": false
-  },
   {
    "artist": "Young the Giant",
    "date": "2026-10-09T19:00:00",
@@ -1929,6 +1893,24 @@
    "isNew": false
   },
   {
+   "artist": "David Guetta",
+   "date": "2026-10-24T02:00:00",
+   "noTime": false,
+   "venue": "Johan Cruijff Arena",
+   "city": "Amsterdam",
+   "cc": "NL",
+   "lat": null,
+   "lng": null,
+   "links": [
+    {
+     "src": "Bandsintown",
+     "url": "https://www.bandsintown.com/e/108140853?app_id=ggl_feed&came_from=289&utm_medium=web&utm_source=ggl_feed&utm_campaign=event&source=ea"
+    }
+   ],
+   "key": "david guetta|2026-10-24|amsterdam",
+   "isNew": true
+  },
+  {
    "artist": "CeeLo Green",
    "date": "2026-10-24T20:00:00",
    "noTime": false,
@@ -2143,6 +2125,24 @@
    ],
    "key": "placebo|2026-11-02|cologne",
    "isNew": false
+  },
+  {
+   "artist": "Eve",
+   "date": "2026-11-03T00:00:00",
+   "noTime": true,
+   "venue": "",
+   "city": "Paris",
+   "cc": "FR",
+   "lat": 48.8566,
+   "lng": 2.3522,
+   "links": [
+    {
+     "src": "Ticketmaster.fr",
+     "url": "https://www.ticketmaster.fr/fr/manifestation/eve-billet/idmanif/657495"
+    }
+   ],
+   "key": "eve|2026-11-03|paris",
+   "isNew": true
   },
   {
    "artist": "Pitbull",
@@ -3765,6 +3765,24 @@
    "isNew": false
   },
   {
+   "artist": "David Guetta",
+   "date": "2026-12-06T18:00:00",
+   "noTime": false,
+   "venue": "Stade de France",
+   "city": "Saint-Denis",
+   "cc": "FR",
+   "lat": 48.9362,
+   "lng": 2.3574,
+   "links": [
+    {
+     "src": "JamBase",
+     "url": "https://www.jambase.com/show/david-guetta-stade-de-france-20261206?utm_source=google&utm_medium=gac&source=ea"
+    }
+   ],
+   "key": "david guetta|2026-12-06|saint denis",
+   "isNew": true
+  },
+  {
    "artist": "Dayseeker",
    "date": "2026-12-06T19:00:00",
    "noTime": false,
@@ -4215,6 +4233,24 @@
    "isNew": false
   },
   {
+   "artist": "ADÉLA",
+   "date": "2027-01-16T19:00:00",
+   "noTime": false,
+   "venue": "O2 Victoria Warehouse Manchester",
+   "city": "Manchester",
+   "cc": "GB",
+   "lat": 53.4643707,
+   "lng": -2.2853054,
+   "links": [
+    {
+     "src": "Ticketmaster",
+     "url": "https://www.ticketmaster.co.uk/adela-manchester-16-01-2027/event/3E006514921B138C"
+    }
+   ],
+   "key": "adela|2027-01-16|manchester",
+   "isNew": true
+  },
+  {
    "artist": "Catch Your Breath",
    "date": "2027-01-17T18:00:00",
    "noTime": false,
@@ -4231,6 +4267,42 @@
    ],
    "key": "catch your breath|2027-01-17|glasgow",
    "isNew": false
+  },
+  {
+   "artist": "ADÉLA",
+   "date": "2027-01-17T19:00:00",
+   "noTime": false,
+   "venue": "O2 Academy Glasgow",
+   "city": "Glasgow",
+   "cc": "GB",
+   "lat": 55.8504496,
+   "lng": -4.2587809,
+   "links": [
+    {
+     "src": "Ticketmaster",
+     "url": "https://www.ticketmaster.co.uk/adela-glasgow-17-01-2027/event/3E006519A0082C31"
+    }
+   ],
+   "key": "adela|2027-01-17|glasgow",
+   "isNew": true
+  },
+  {
+   "artist": "ADÉLA",
+   "date": "2027-01-19T19:00:00",
+   "noTime": false,
+   "venue": "O2 Academy Brixton",
+   "city": "London",
+   "cc": "GB",
+   "lat": 51.465355,
+   "lng": -0.115176,
+   "links": [
+    {
+     "src": "Ticketmaster",
+     "url": "https://www.ticketmaster.co.uk/adela-london-19-01-2027/event/3E00650EA7E917D5"
+    }
+   ],
+   "key": "adela|2027-01-19|london",
+   "isNew": true
   },
   {
    "artist": "Muse",
@@ -4251,6 +4323,24 @@
    "isNew": false
   },
   {
+   "artist": "ADÉLA",
+   "date": "2027-01-20T19:00:00",
+   "noTime": false,
+   "venue": "O2 Academy Brixton",
+   "city": "London",
+   "cc": "GB",
+   "lat": 51.465355,
+   "lng": -0.115176,
+   "links": [
+    {
+     "src": "Ticketmaster",
+     "url": "https://www.ticketmaster.co.uk/adela-london-20-01-2027/event/3E006518C3602A56"
+    }
+   ],
+   "key": "adela|2027-01-20|london",
+   "isNew": true
+  },
+  {
    "artist": "Muse",
    "date": "2027-01-20T20:30:00",
    "noTime": false,
@@ -4267,6 +4357,24 @@
    ],
    "key": "muse|2027-01-20|madrid",
    "isNew": false
+  },
+  {
+   "artist": "ADÉLA",
+   "date": "2027-01-23T20:00:00",
+   "noTime": false,
+   "venue": "",
+   "city": "Cologne",
+   "cc": "DE",
+   "lat": 50.96579,
+   "lng": 7.01208,
+   "links": [
+    {
+     "src": "Ticketmaster",
+     "url": "https://www.ticketmaster.de/event/adela-the-red-bottoms-tour-tickets/1167215021?language=en-us"
+    }
+   ],
+   "key": "adela|2027-01-23|cologne",
+   "isNew": true
   },
   {
    "artist": "Muse",
@@ -4341,6 +4449,24 @@
    "isNew": false
   },
   {
+   "artist": "ADÉLA",
+   "date": "2027-01-26T20:00:00",
+   "noTime": false,
+   "venue": "TivoliVredenburg",
+   "city": "Utrecht",
+   "cc": "NL",
+   "lat": 52.09213,
+   "lng": 5.11285,
+   "links": [
+    {
+     "src": "Ticketmaster",
+     "url": "https://www.ticketmaster.nl/event/adela-tickets/1974929703?language=en-us"
+    }
+   ],
+   "key": "adela|2027-01-26|utrecht",
+   "isNew": true
+  },
+  {
    "artist": "Two Door Cinema Club",
    "date": "2027-01-27T18:00:00",
    "noTime": false,
@@ -4393,6 +4519,24 @@
    ],
    "key": "two door cinema club|2027-02-01|brussels",
    "isNew": false
+  },
+  {
+   "artist": "ADÉLA",
+   "date": "2027-02-02T20:00:00",
+   "noTime": false,
+   "venue": "",
+   "city": "Berlin",
+   "cc": "DE",
+   "lat": 52.48684,
+   "lng": 13.42145,
+   "links": [
+    {
+     "src": "Ticketmaster",
+     "url": "https://www.ticketmaster.de/event/adela-the-red-bottoms-tour-tickets/233954157?language=en-us"
+    }
+   ],
+   "key": "adela|2027-02-02|berlin",
+   "isNew": true
   },
   {
    "artist": "South Arcade",
@@ -4932,42 +5076,6 @@
     }
    ],
    "key": "nessa barrett|2027-03-11|borgerhout",
-   "isNew": false
-  },
-  {
-   "artist": "Nessa Barrett",
-   "date": "2027-03-12T00:00:00",
-   "noTime": true,
-   "venue": "L'olympia",
-   "city": "Paris",
-   "cc": "FR",
-   "lat": 48.8566,
-   "lng": 2.3522,
-   "links": [
-    {
-     "src": "Ticketmaster.fr",
-     "url": "https://www.ticketmaster.fr/fr/manifestation/nessa-barrett-billet/idmanif/673692"
-    }
-   ],
-   "key": "nessa barrett|2027-03-12|paris",
-   "isNew": false
-  },
-  {
-   "artist": "Nessa Barrett",
-   "date": "2027-03-12T00:00:00",
-   "noTime": true,
-   "venue": "",
-   "city": "",
-   "cc": "FR",
-   "lat": null,
-   "lng": null,
-   "links": [
-    {
-     "src": "Live Nation",
-     "url": "https://www.livenation.fr/event/nessa-barrett-the-tough-love-tour-paris-tickets-edp1697920"
-    }
-   ],
-   "key": "nessa barrett|2027-03-12|",
    "isNew": false
   },
   {
@@ -5943,6 +6051,24 @@
    "isNew": false
   },
   {
+   "artist": "David Guetta",
+   "date": "2027-06-06T18:30:00",
+   "noTime": false,
+   "venue": "The O2",
+   "city": "London",
+   "cc": "GB",
+   "lat": null,
+   "lng": null,
+   "links": [
+    {
+     "src": "JamBase",
+     "url": "https://www.jambase.com/show/david-guetta-o2-arena-20270606?utm_source=google&utm_medium=gac&source=ea"
+    }
+   ],
+   "key": "david guetta|2027-06-06|london",
+   "isNew": true
+  },
+  {
    "artist": "Tame Impala",
    "date": "2027-06-07T19:15:00",
    "noTime": false,
@@ -6069,6 +6195,24 @@
    "isNew": false
   },
   {
+   "artist": "Motionless In White",
+   "date": "2027-06-21T18:00:00",
+   "noTime": false,
+   "venue": "L'Aéronef",
+   "city": "Lille",
+   "cc": "FR",
+   "lat": 50.6292,
+   "lng": 3.0573,
+   "links": [
+    {
+     "src": "Bandsintown",
+     "url": "https://www.bandsintown.com/e/108894762?app_id=ggl_feed&came_from=289&utm_medium=web&utm_source=ggl_feed&utm_campaign=event&source=ea"
+    }
+   ],
+   "key": "motionless in white|2027-06-21|lille",
+   "isNew": true
+  },
+  {
    "artist": "sombr",
    "date": "2027-06-21T18:30:00",
    "noTime": false,
@@ -6177,6 +6321,24 @@
    "isNew": false
   },
   {
+   "artist": "David Guetta",
+   "date": "2027-06-27T17:00:00",
+   "noTime": false,
+   "venue": "Plaine de La Filhole",
+   "city": "Marmande",
+   "cc": "FR",
+   "lat": null,
+   "lng": null,
+   "links": [
+    {
+     "src": "Bandsintown",
+     "url": "https://www.bandsintown.com/e/108781424?app_id=ggl_feed&came_from=289&utm_medium=web&utm_source=ggl_feed&utm_campaign=event&source=ea"
+    }
+   ],
+   "key": "david guetta|2027-06-27|marmande",
+   "isNew": true
+  },
+  {
    "artist": "sombr",
    "date": "2027-06-29T18:30:00",
    "noTime": false,
@@ -6211,6 +6373,24 @@
    ],
    "key": "harry styles|2027-07-02|berlin",
    "isNew": false
+  },
+  {
+   "artist": "David Guetta",
+   "date": "2027-07-03T14:30:00",
+   "noTime": false,
+   "venue": "Citadelle d'Arras",
+   "city": "Arras",
+   "cc": "FR",
+   "lat": 50.291,
+   "lng": 2.7775,
+   "links": [
+    {
+     "src": "Bandsintown",
+     "url": "https://www.bandsintown.com/e/108781426?app_id=ggl_feed&came_from=289&utm_medium=web&utm_source=ggl_feed&utm_campaign=event&source=ea"
+    }
+   ],
+   "key": "david guetta|2027-07-03|arras",
+   "isNew": true
   },
   {
    "artist": "Harry Styles",
@@ -6265,6 +6445,24 @@
    ],
    "key": "harry styles|2027-07-09|berlin",
    "isNew": false
+  },
+  {
+   "artist": "David Guetta",
+   "date": "2027-07-10T17:00:00",
+   "noTime": false,
+   "venue": "Flugplatz Neustadt-Glewe",
+   "city": "Neustadt-Glewe",
+   "cc": "DE",
+   "lat": null,
+   "lng": null,
+   "links": [
+    {
+     "src": "Bandsintown",
+     "url": "https://www.bandsintown.com/e/108781429?app_id=ggl_feed&came_from=289&utm_medium=web&utm_source=ggl_feed&utm_campaign=event&source=ea"
+    }
+   ],
+   "key": "david guetta|2027-07-10|neustadt glewe",
+   "isNew": true
   },
   {
    "artist": "Harry Styles",
@@ -6521,13 +6719,157 @@
  ],
  "serp": {
   "v": 3,
-  "at": 1790863484717,
+  "at": 1791549266402,
   "events": [
    {
-    "artist": "Nessa Barrett",
-    "date": "2027-03-12T00:00:00",
+    "artist": "The Neighbourhood",
+    "date": "2026-09-08T00:00:00",
     "noTime": true,
-    "venue": "L'olympia",
+    "venue": "Accor Arena",
+    "city": "",
+    "cc": "FR",
+    "lat": null,
+    "lng": null,
+    "links": [
+     {
+      "src": "Ticketmaster.fr",
+      "url": "https://www.ticketmaster.fr/fr/manifestation/the-neighbourhood-billet/idmanif/650221/idseance/4278785"
+     }
+    ]
+   },
+   {
+    "artist": "Katy Perry",
+    "date": "2025-10-24T00:00:00",
+    "noTime": true,
+    "venue": "",
+    "city": "",
+    "cc": "FR",
+    "lat": null,
+    "lng": null,
+    "links": [
+     {
+      "src": "Ticketmaster.fr",
+      "url": "https://www.ticketmaster.fr/fr/artiste/katy-perry/idartiste/65"
+     }
+    ]
+   },
+   {
+    "artist": "Katy Perry",
+    "date": "2025-11-05T00:00:00",
+    "noTime": true,
+    "venue": "",
+    "city": "",
+    "cc": "FR",
+    "lat": null,
+    "lng": null,
+    "links": [
+     {
+      "src": "See Tickets",
+      "url": "https://www.seetickets.com/fr/tg/tour/katy-perry/42246"
+     }
+    ]
+   },
+   {
+    "artist": "David Guetta",
+    "date": "2026-10-24T02:00:00",
+    "noTime": false,
+    "venue": "Johan Cruijff Arena",
+    "city": "Amsterdam",
+    "cc": "NL",
+    "lat": null,
+    "lng": null,
+    "links": [
+     {
+      "src": "Bandsintown",
+      "url": "https://www.bandsintown.com/e/108140853?app_id=ggl_feed&came_from=289&utm_medium=web&utm_source=ggl_feed&utm_campaign=event&source=ea"
+     }
+    ]
+   },
+   {
+    "artist": "David Guetta",
+    "date": "2026-12-06T18:00:00",
+    "noTime": false,
+    "venue": "Stade de France",
+    "city": "Saint-Denis",
+    "cc": "FR",
+    "lat": 48.9362,
+    "lng": 2.3574,
+    "links": [
+     {
+      "src": "JamBase",
+      "url": "https://www.jambase.com/show/david-guetta-stade-de-france-20261206?utm_source=google&utm_medium=gac&source=ea"
+     }
+    ]
+   },
+   {
+    "artist": "David Guetta",
+    "date": "2027-06-06T18:30:00",
+    "noTime": false,
+    "venue": "The O2",
+    "city": "London",
+    "cc": "GB",
+    "lat": null,
+    "lng": null,
+    "links": [
+     {
+      "src": "JamBase",
+      "url": "https://www.jambase.com/show/david-guetta-o2-arena-20270606?utm_source=google&utm_medium=gac&source=ea"
+     }
+    ]
+   },
+   {
+    "artist": "David Guetta",
+    "date": "2027-06-27T17:00:00",
+    "noTime": false,
+    "venue": "Plaine de La Filhole",
+    "city": "Marmande",
+    "cc": "FR",
+    "lat": null,
+    "lng": null,
+    "links": [
+     {
+      "src": "Bandsintown",
+      "url": "https://www.bandsintown.com/e/108781424?app_id=ggl_feed&came_from=289&utm_medium=web&utm_source=ggl_feed&utm_campaign=event&source=ea"
+     }
+    ]
+   },
+   {
+    "artist": "David Guetta",
+    "date": "2027-07-03T14:30:00",
+    "noTime": false,
+    "venue": "Citadelle d'Arras",
+    "city": "Arras",
+    "cc": "FR",
+    "lat": 50.291,
+    "lng": 2.7775,
+    "links": [
+     {
+      "src": "Bandsintown",
+      "url": "https://www.bandsintown.com/e/108781426?app_id=ggl_feed&came_from=289&utm_medium=web&utm_source=ggl_feed&utm_campaign=event&source=ea"
+     }
+    ]
+   },
+   {
+    "artist": "David Guetta",
+    "date": "2027-07-10T17:00:00",
+    "noTime": false,
+    "venue": "Flugplatz Neustadt-Glewe",
+    "city": "Neustadt-Glewe",
+    "cc": "DE",
+    "lat": null,
+    "lng": null,
+    "links": [
+     {
+      "src": "Bandsintown",
+      "url": "https://www.bandsintown.com/e/108781429?app_id=ggl_feed&came_from=289&utm_medium=web&utm_source=ggl_feed&utm_campaign=event&source=ea"
+     }
+    ]
+   },
+   {
+    "artist": "Eve",
+    "date": "2026-11-03T00:00:00",
+    "noTime": true,
+    "venue": "",
     "city": "Paris",
     "cc": "FR",
     "lat": 48.8566,
@@ -6535,39 +6877,23 @@
     "links": [
      {
       "src": "Ticketmaster.fr",
-      "url": "https://www.ticketmaster.fr/fr/manifestation/nessa-barrett-billet/idmanif/673692"
+      "url": "https://www.ticketmaster.fr/fr/manifestation/eve-billet/idmanif/657495"
      }
     ]
    },
    {
-    "artist": "Nessa Barrett",
-    "date": "2027-03-12T00:00:00",
-    "noTime": true,
-    "venue": "",
-    "city": "",
+    "artist": "Motionless In White",
+    "date": "2027-06-21T18:00:00",
+    "noTime": false,
+    "venue": "L'Aéronef",
+    "city": "Lille",
     "cc": "FR",
-    "lat": null,
-    "lng": null,
+    "lat": 50.6292,
+    "lng": 3.0573,
     "links": [
      {
-      "src": "Live Nation",
-      "url": "https://www.livenation.fr/event/nessa-barrett-the-tough-love-tour-paris-tickets-edp1697920"
-     }
-    ]
-   },
-   {
-    "artist": "Isabel LaRosa",
-    "date": "2025-11-28T00:00:00",
-    "noTime": true,
-    "venue": "",
-    "city": "",
-    "cc": "FR",
-    "lat": null,
-    "lng": null,
-    "links": [
-     {
-      "src": "Ticketmaster.fr",
-      "url": "https://www.ticketmaster.fr/fr/artiste/isabel-larosa/idartiste/48133"
+      "src": "Bandsintown",
+      "url": "https://www.bandsintown.com/e/108894762?app_id=ggl_feed&came_from=289&utm_medium=web&utm_source=ggl_feed&utm_campaign=event&source=ea"
      }
     ]
    }
