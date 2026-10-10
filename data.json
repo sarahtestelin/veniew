@@ -1,5 +1,5 @@
 {
- "at": 1791549266418,
+ "at": 1791633044116,
  "spotifyAt": 1791549014701,
  "artists": [
   {
@@ -1606,42 +1606,6 @@
  "events": [
   {
    "artist": "Young the Giant",
-   "date": "2026-10-09T19:00:00",
-   "noTime": false,
-   "venue": "Manchester Amber's",
-   "city": "Manchester",
-   "cc": "GB",
-   "lat": 53.47333069,
-   "lng": -2.23929583,
-   "links": [
-    {
-     "src": "Ticketmaster",
-     "url": "https://www.ticketmaster.co.uk/young-the-giant-manchester-09-10-2026/event/3600649DF38350ED"
-    }
-   ],
-   "key": "young the giant|2026-10-09|manchester",
-   "isNew": false
-  },
-  {
-   "artist": "Shakira",
-   "date": "2026-10-09T20:30:00",
-   "noTime": false,
-   "venue": "ESTADIO SHAKIRA(Iberdrola Music)",
-   "city": "Madrid",
-   "cc": "ES",
-   "lat": 40.32866,
-   "lng": -3.71094,
-   "links": [
-    {
-     "src": "Ticketmaster",
-     "url": "https://www.ticketmaster.es/event/shakira-las-mujeres-ya-no-lloran-residencia-europea-tickets/828236035?language=en-us"
-    }
-   ],
-   "key": "shakira|2026-10-09|madrid",
-   "isNew": false
-  },
-  {
-   "artist": "Young the Giant",
    "date": "2026-10-10T19:00:00",
    "noTime": false,
    "venue": "Queen Margaret Union",
@@ -1908,7 +1872,7 @@
     }
    ],
    "key": "david guetta|2026-10-24|amsterdam",
-   "isNew": true
+   "isNew": false
   },
   {
    "artist": "CeeLo Green",
@@ -2142,7 +2106,7 @@
     }
    ],
    "key": "eve|2026-11-03|paris",
-   "isNew": true
+   "isNew": false
   },
   {
    "artist": "Pitbull",
@@ -3780,7 +3744,7 @@
     }
    ],
    "key": "david guetta|2026-12-06|saint denis",
-   "isNew": true
+   "isNew": false
   },
   {
    "artist": "Dayseeker",
@@ -4248,7 +4212,7 @@
     }
    ],
    "key": "adela|2027-01-16|manchester",
-   "isNew": true
+   "isNew": false
   },
   {
    "artist": "Catch Your Breath",
@@ -4284,7 +4248,7 @@
     }
    ],
    "key": "adela|2027-01-17|glasgow",
-   "isNew": true
+   "isNew": false
   },
   {
    "artist": "ADÉLA",
@@ -4302,7 +4266,7 @@
     }
    ],
    "key": "adela|2027-01-19|london",
-   "isNew": true
+   "isNew": false
   },
   {
    "artist": "Muse",
@@ -4338,7 +4302,7 @@
     }
    ],
    "key": "adela|2027-01-20|london",
-   "isNew": true
+   "isNew": false
   },
   {
    "artist": "Muse",
@@ -4374,7 +4338,7 @@
     }
    ],
    "key": "adela|2027-01-23|cologne",
-   "isNew": true
+   "isNew": false
   },
   {
    "artist": "Muse",
@@ -4464,7 +4428,7 @@
     }
    ],
    "key": "adela|2027-01-26|utrecht",
-   "isNew": true
+   "isNew": false
   },
   {
    "artist": "Two Door Cinema Club",
@@ -4536,7 +4500,7 @@
     }
    ],
    "key": "adela|2027-02-02|berlin",
-   "isNew": true
+   "isNew": false
   },
   {
    "artist": "South Arcade",
@@ -5745,6 +5709,24 @@
    "isNew": false
   },
   {
+   "artist": "Nickelback",
+   "date": "2027-05-22T17:30:00",
+   "noTime": false,
+   "venue": "Leeds First Direct Bank Arena",
+   "city": "Leeds",
+   "cc": "GB",
+   "lat": 53.804616,
+   "lng": -1.544073,
+   "links": [
+    {
+     "src": "Ticketmaster",
+     "url": "https://www.ticketmaster.co.uk/nickelback-everything-under-the-sun-tour-leeds-22-05-2027/event/1F006547F7CD69F2"
+    }
+   ],
+   "key": "nickelback|2027-05-22|leeds",
+   "isNew": true
+  },
+  {
    "artist": "sombr",
    "date": "2027-05-23T19:30:00",
    "noTime": false,
@@ -5817,6 +5799,24 @@
    "isNew": false
   },
   {
+   "artist": "Nickelback",
+   "date": "2027-05-25T17:30:00",
+   "noTime": false,
+   "venue": "The O2",
+   "city": "London",
+   "cc": "GB",
+   "lat": 51.501581,
+   "lng": 0.005519,
+   "links": [
+    {
+     "src": "Ticketmaster",
+     "url": "https://www.ticketmaster.co.uk/nickelback-everything-under-the-sun-tour-london-25-05-2027/event/35006547E6BCA601"
+    }
+   ],
+   "key": "nickelback|2027-05-25|london",
+   "isNew": true
+  },
+  {
    "artist": "sombr",
    "date": "2027-05-27T19:30:00",
    "noTime": false,
@@ -5851,6 +5851,24 @@
    ],
    "key": "ravyn lenae|2027-05-27|zurich",
    "isNew": false
+  },
+  {
+   "artist": "Nickelback",
+   "date": "2027-05-28T17:30:00",
+   "noTime": false,
+   "venue": "Utilita Arena Birmingham",
+   "city": "Birmingham",
+   "cc": "GB",
+   "lat": 52.479932,
+   "lng": -1.914924,
+   "links": [
+    {
+     "src": "Ticketmaster",
+     "url": "https://www.ticketmaster.co.uk/nickelback-everything-under-the-sun-tour-birmingham-28-05-2027/event/230065499CB60DF6"
+    }
+   ],
+   "key": "nickelback|2027-05-28|birmingham",
+   "isNew": true
   },
   {
    "artist": "Tame Impala",
@@ -5961,6 +5979,24 @@
    "isNew": false
   },
   {
+   "artist": "Nickelback",
+   "date": "2027-06-01T17:30:00",
+   "noTime": false,
+   "venue": "OVO Hydro",
+   "city": "Glasgow",
+   "cc": "GB",
+   "lat": 55.86087,
+   "lng": -4.288154,
+   "links": [
+    {
+     "src": "Ticketmaster",
+     "url": "https://www.ticketmaster.co.uk/nickelback-everything-under-the-sun-tour-glasgow-01-06-2027/event/36006547BE9C6740"
+    }
+   ],
+   "key": "nickelback|2027-06-01|glasgow",
+   "isNew": true
+  },
+  {
    "artist": "Tame Impala",
    "date": "2027-06-01T18:00:00",
    "noTime": false,
@@ -6033,6 +6069,24 @@
    "isNew": false
   },
   {
+   "artist": "Nickelback",
+   "date": "2027-06-02T19:30:00",
+   "noTime": false,
+   "venue": "Co-op Live",
+   "city": "Manchester",
+   "cc": "GB",
+   "lat": 53.48661136,
+   "lng": -2.1995797,
+   "links": [
+    {
+     "src": "Ticketmaster",
+     "url": "https://www.ticketmaster.co.uk/nickelback-everything-under-the-sun-tour-manchester-02-06-2027/event/37006547CC5A8DCA"
+    }
+   ],
+   "key": "nickelback|2027-06-02|manchester",
+   "isNew": true
+  },
+  {
    "artist": "Tame Impala",
    "date": "2027-06-03T18:00:00",
    "noTime": false,
@@ -6051,6 +6105,24 @@
    "isNew": false
   },
   {
+   "artist": "Nickelback",
+   "date": "2027-06-05T17:30:00",
+   "noTime": false,
+   "venue": "Vorst Nationaal/Forest National",
+   "city": "Forest (Brussels)",
+   "cc": "BE",
+   "lat": 50.80999,
+   "lng": 4.32601,
+   "links": [
+    {
+     "src": "Ticketmaster",
+     "url": "https://www.ticketmaster.be/event/nickelback-everything-under-the-sun-tour-tickets/596340212"
+    }
+   ],
+   "key": "nickelback|2027-06-05|forest brussels",
+   "isNew": true
+  },
+  {
    "artist": "David Guetta",
    "date": "2027-06-06T18:30:00",
    "noTime": false,
@@ -6066,7 +6138,7 @@
     }
    ],
    "key": "david guetta|2027-06-06|london",
-   "isNew": true
+   "isNew": false
   },
   {
    "artist": "Tame Impala",
@@ -6085,6 +6157,24 @@
    ],
    "key": "tame impala|2027-06-07|rotterdam",
    "isNew": false
+  },
+  {
+   "artist": "Nickelback",
+   "date": "2027-06-07T20:00:00",
+   "noTime": false,
+   "venue": "Ziggo Dome",
+   "city": "Amsterdam",
+   "cc": "NL",
+   "lat": 52.31395,
+   "lng": 4.93837,
+   "links": [
+    {
+     "src": "Ticketmaster",
+     "url": "https://www.ticketmaster.nl/event/nickelback-everything-under-the-sun-tour-tickets/876775735?language=en-us"
+    }
+   ],
+   "key": "nickelback|2027-06-07|amsterdam",
+   "isNew": true
   },
   {
    "artist": "Motionless In White",
@@ -6141,6 +6231,60 @@
    "isNew": false
   },
   {
+   "artist": "Nickelback",
+   "date": "2027-06-09T20:00:00",
+   "noTime": false,
+   "venue": "",
+   "city": "Cologne",
+   "cc": "DE",
+   "lat": 50.93855,
+   "lng": 6.97988,
+   "links": [
+    {
+     "src": "Ticketmaster",
+     "url": "https://www.ticketmaster.de/event/nickelback-everything-under-the-sun-tour-tickets/519022478?language=en-us"
+    }
+   ],
+   "key": "nickelback|2027-06-09|cologne",
+   "isNew": true
+  },
+  {
+   "artist": "Nickelback",
+   "date": "2027-06-11T20:00:00",
+   "noTime": false,
+   "venue": "ZAG Arena",
+   "city": "Hannover",
+   "cc": "DE",
+   "lat": 52.32301,
+   "lng": 9.8169,
+   "links": [
+    {
+     "src": "Ticketmaster",
+     "url": "https://www.ticketmaster.de/event/nickelback-everything-under-the-sun-tour-tickets/1874929301?language=en-us"
+    }
+   ],
+   "key": "nickelback|2027-06-11|hannover",
+   "isNew": true
+  },
+  {
+   "artist": "Nickelback",
+   "date": "2027-06-14T20:00:00",
+   "noTime": false,
+   "venue": "",
+   "city": "Stuttgart",
+   "cc": "DE",
+   "lat": 48.7937,
+   "lng": 9.22654,
+   "links": [
+    {
+     "src": "Ticketmaster",
+     "url": "https://www.ticketmaster.de/event/nickelback-everything-under-the-sun-tour-tickets/1458668998?language=en-us"
+    }
+   ],
+   "key": "nickelback|2027-06-14|stuttgart",
+   "isNew": true
+  },
+  {
    "artist": "sombr",
    "date": "2027-06-17T18:00:00",
    "noTime": false,
@@ -6195,6 +6339,42 @@
    "isNew": false
   },
   {
+   "artist": "Nickelback",
+   "date": "2027-06-19T20:00:00",
+   "noTime": false,
+   "venue": "Olympiahalle",
+   "city": "Munich",
+   "cc": "DE",
+   "lat": 48.17388,
+   "lng": 11.54549,
+   "links": [
+    {
+     "src": "Ticketmaster",
+     "url": "https://www.ticketmaster.de/event/nickelback-everything-under-the-sun-tour-tickets/853192859?language=en-us"
+    }
+   ],
+   "key": "nickelback|2027-06-19|munich",
+   "isNew": true
+  },
+  {
+   "artist": "Nickelback",
+   "date": "2027-06-20T20:00:00",
+   "noTime": false,
+   "venue": "Hallenstadion",
+   "city": "Zürich",
+   "cc": "CH",
+   "lat": 47.41161,
+   "lng": 8.55166,
+   "links": [
+    {
+     "src": "Ticketmaster",
+     "url": "https://www.ticketmaster.ch/event/nickelback-everything-under-the-sun-tour-tickets/729296386?language=en-us"
+    }
+   ],
+   "key": "nickelback|2027-06-20|zurich",
+   "isNew": true
+  },
+  {
    "artist": "Motionless In White",
    "date": "2027-06-21T18:00:00",
    "noTime": false,
@@ -6210,7 +6390,7 @@
     }
    ],
    "key": "motionless in white|2027-06-21|lille",
-   "isNew": true
+   "isNew": false
   },
   {
    "artist": "sombr",
@@ -6336,7 +6516,7 @@
     }
    ],
    "key": "david guetta|2027-06-27|marmande",
-   "isNew": true
+   "isNew": false
   },
   {
    "artist": "sombr",
@@ -6390,7 +6570,7 @@
     }
    ],
    "key": "david guetta|2027-07-03|arras",
-   "isNew": true
+   "isNew": false
   },
   {
    "artist": "Harry Styles",
@@ -6462,7 +6642,7 @@
     }
    ],
    "key": "david guetta|2027-07-10|neustadt glewe",
-   "isNew": true
+   "isNew": false
   },
   {
    "artist": "Harry Styles",
