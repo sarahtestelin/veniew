@@ -1,5 +1,5 @@
 {
- "at": 1791633044116,
+ "at": 1791720150941,
  "spotifyAt": 1791549014701,
  "artists": [
   {
@@ -1604,42 +1604,6 @@
   }
  ],
  "events": [
-  {
-   "artist": "Young the Giant",
-   "date": "2026-10-10T19:00:00",
-   "noTime": false,
-   "venue": "Queen Margaret Union",
-   "city": "Glasgow",
-   "cc": "GB",
-   "lat": 55.873735,
-   "lng": -4.291341,
-   "links": [
-    {
-     "src": "Ticketmaster",
-     "url": "https://www.ticketweb.uk/event/young-the-giant-queen-margaret-union-tickets/14886433?REFERRAL_ID=tmfeed"
-    }
-   ],
-   "key": "young the giant|2026-10-10|glasgow",
-   "isNew": false
-  },
-  {
-   "artist": "Shakira",
-   "date": "2026-10-10T20:30:00",
-   "noTime": false,
-   "venue": "ESTADIO SHAKIRA(Iberdrola Music)",
-   "city": "Madrid",
-   "cc": "ES",
-   "lat": 40.32866,
-   "lng": -3.71094,
-   "links": [
-    {
-     "src": "Ticketmaster",
-     "url": "https://www.ticketmaster.es/event/shakira-las-mujeres-ya-no-lloran-residencia-europea-tickets/802391370?language=en-us"
-    }
-   ],
-   "key": "shakira|2026-10-10|madrid",
-   "isNew": false
-  },
   {
    "artist": "Shakira",
    "date": "2026-10-11T20:30:00",
@@ -5724,7 +5688,7 @@
     }
    ],
    "key": "nickelback|2027-05-22|leeds",
-   "isNew": true
+   "isNew": false
   },
   {
    "artist": "sombr",
@@ -5814,7 +5778,7 @@
     }
    ],
    "key": "nickelback|2027-05-25|london",
-   "isNew": true
+   "isNew": false
   },
   {
    "artist": "sombr",
@@ -5868,7 +5832,7 @@
     }
    ],
    "key": "nickelback|2027-05-28|birmingham",
-   "isNew": true
+   "isNew": false
   },
   {
    "artist": "Tame Impala",
@@ -5994,7 +5958,7 @@
     }
    ],
    "key": "nickelback|2027-06-01|glasgow",
-   "isNew": true
+   "isNew": false
   },
   {
    "artist": "Tame Impala",
@@ -6084,7 +6048,7 @@
     }
    ],
    "key": "nickelback|2027-06-02|manchester",
-   "isNew": true
+   "isNew": false
   },
   {
    "artist": "Tame Impala",
@@ -6120,7 +6084,7 @@
     }
    ],
    "key": "nickelback|2027-06-05|forest brussels",
-   "isNew": true
+   "isNew": false
   },
   {
    "artist": "David Guetta",
@@ -6174,7 +6138,7 @@
     }
    ],
    "key": "nickelback|2027-06-07|amsterdam",
-   "isNew": true
+   "isNew": false
   },
   {
    "artist": "Motionless In White",
@@ -6246,7 +6210,7 @@
     }
    ],
    "key": "nickelback|2027-06-09|cologne",
-   "isNew": true
+   "isNew": false
   },
   {
    "artist": "Nickelback",
@@ -6264,7 +6228,7 @@
     }
    ],
    "key": "nickelback|2027-06-11|hannover",
-   "isNew": true
+   "isNew": false
   },
   {
    "artist": "Nickelback",
@@ -6282,7 +6246,7 @@
     }
    ],
    "key": "nickelback|2027-06-14|stuttgart",
-   "isNew": true
+   "isNew": false
   },
   {
    "artist": "sombr",
@@ -6354,7 +6318,7 @@
     }
    ],
    "key": "nickelback|2027-06-19|munich",
-   "isNew": true
+   "isNew": false
   },
   {
    "artist": "Nickelback",
@@ -6372,7 +6336,7 @@
     }
    ],
    "key": "nickelback|2027-06-20|zurich",
-   "isNew": true
+   "isNew": false
   },
   {
    "artist": "Motionless In White",
