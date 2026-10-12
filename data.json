@@ -1,5 +1,5 @@
 {
- "at": 1791720150941,
+ "at": 1791814711123,
  "spotifyAt": 1791549014701,
  "artists": [
   {
@@ -1604,24 +1604,6 @@
   }
  ],
  "events": [
-  {
-   "artist": "Shakira",
-   "date": "2026-10-11T20:30:00",
-   "noTime": false,
-   "venue": "ESTADIO SHAKIRA(Iberdrola Music)",
-   "city": "Madrid",
-   "cc": "ES",
-   "lat": 40.32866,
-   "lng": -3.71094,
-   "links": [
-    {
-     "src": "Ticketmaster",
-     "url": "https://www.ticketmaster.es/event/shakira-las-mujeres-ya-no-lloran-residencia-europea-tickets/1525248810?language=en-us"
-    }
-   ],
-   "key": "shakira|2026-10-11|madrid",
-   "isNew": false
-  },
   {
    "artist": "Khalid",
    "date": "2026-10-12T20:00:00",
@@ -6177,6 +6159,24 @@
    "isNew": false
   },
   {
+   "artist": "Nickelback",
+   "date": "2027-06-09T18:30:00",
+   "noTime": false,
+   "venue": "",
+   "city": "Cologne",
+   "cc": "DE",
+   "lat": 50.93855,
+   "lng": 6.97988,
+   "links": [
+    {
+     "src": "Ticketmaster",
+     "url": "https://www.ticketmaster.de/event/nickelback-everything-under-the-sun-tour-tickets/519022478?language=en-us"
+    }
+   ],
+   "key": "nickelback|2027-06-09|cologne",
+   "isNew": false
+  },
+  {
    "artist": "Tame Impala",
    "date": "2027-06-09T19:15:00",
    "noTime": false,
@@ -6196,25 +6196,7 @@
   },
   {
    "artist": "Nickelback",
-   "date": "2027-06-09T20:00:00",
-   "noTime": false,
-   "venue": "",
-   "city": "Cologne",
-   "cc": "DE",
-   "lat": 50.93855,
-   "lng": 6.97988,
-   "links": [
-    {
-     "src": "Ticketmaster",
-     "url": "https://www.ticketmaster.de/event/nickelback-everything-under-the-sun-tour-tickets/519022478?language=en-us"
-    }
-   ],
-   "key": "nickelback|2027-06-09|cologne",
-   "isNew": false
-  },
-  {
-   "artist": "Nickelback",
-   "date": "2027-06-11T20:00:00",
+   "date": "2027-06-11T18:30:00",
    "noTime": false,
    "venue": "ZAG Arena",
    "city": "Hannover",
@@ -6232,7 +6214,7 @@
   },
   {
    "artist": "Nickelback",
-   "date": "2027-06-14T20:00:00",
+   "date": "2027-06-14T18:30:00",
    "noTime": false,
    "venue": "",
    "city": "Stuttgart",
@@ -6304,7 +6286,7 @@
   },
   {
    "artist": "Nickelback",
-   "date": "2027-06-19T20:00:00",
+   "date": "2027-06-19T18:30:00",
    "noTime": false,
    "venue": "Olympiahalle",
    "city": "Munich",
@@ -6322,7 +6304,7 @@
   },
   {
    "artist": "Nickelback",
-   "date": "2027-06-20T20:00:00",
+   "date": "2027-06-20T18:30:00",
    "noTime": false,
    "venue": "Hallenstadion",
    "city": "Zürich",
