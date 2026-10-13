@@ -1,5 +1,5 @@
 {
- "at": 1791814711123,
+ "at": 1791898103790,
  "spotifyAt": 1791549014701,
  "artists": [
   {
@@ -1604,60 +1604,6 @@
   }
  ],
  "events": [
-  {
-   "artist": "Khalid",
-   "date": "2026-10-12T20:00:00",
-   "noTime": false,
-   "venue": "AFAS Live Loge",
-   "city": "Amsterdam",
-   "cc": "NL",
-   "lat": 52.31236,
-   "lng": 4.94415,
-   "links": [
-    {
-     "src": "Ticketmaster",
-     "url": "https://www.ticketmaster.nl/event/khalid-%7C-premium-seats-tickets/1920935756?language=en-us"
-    }
-   ],
-   "key": "khalid|2026-10-12|amsterdam",
-   "isNew": false
-  },
-  {
-   "artist": "Placebo",
-   "date": "2026-10-12T20:00:00",
-   "noTime": false,
-   "venue": "",
-   "city": "Leipzig",
-   "cc": "DE",
-   "lat": 51.3423,
-   "lng": 12.35443,
-   "links": [
-    {
-     "src": "Ticketmaster",
-     "url": "https://www.ticketmaster.de/event/placebo-30th-anniversary-tour-tickets/621909154?language=en-us"
-    }
-   ],
-   "key": "placebo|2026-10-12|leipzig",
-   "isNew": false
-  },
-  {
-   "artist": "Shakira",
-   "date": "2026-10-12T20:30:00",
-   "noTime": false,
-   "venue": "ESTADIO SHAKIRA(Iberdrola Music)",
-   "city": "Madrid",
-   "cc": "ES",
-   "lat": 40.32866,
-   "lng": -3.71094,
-   "links": [
-    {
-     "src": "Ticketmaster",
-     "url": "https://www.ticketmaster.es/event/shakira-las-mujeres-ya-no-lloran-gran-despedida-con-amigos-tickets/2065667696?language=en-us"
-    }
-   ],
-   "key": "shakira|2026-10-12|madrid",
-   "isNew": false
-  },
   {
    "artist": "Eve",
    "date": "2026-10-14T20:00:00",
