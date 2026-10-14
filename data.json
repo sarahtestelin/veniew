@@ -1,5 +1,5 @@
 {
- "at": 1791898103790,
+ "at": 1791975972480,
  "spotifyAt": 1791549014701,
  "artists": [
   {
@@ -4989,24 +4989,6 @@
    "isNew": false
   },
   {
-   "artist": "Eve",
-   "date": "2027-03-17T19:00:00",
-   "noTime": false,
-   "venue": "Melkweg",
-   "city": "Amsterdam",
-   "cc": "NL",
-   "lat": 52.36483,
-   "lng": 4.88127,
-   "links": [
-    {
-     "src": "Ticketmaster",
-     "url": "https://www.ticketmaster.nl/event/eve-tickets/314885613?language=en-us"
-    }
-   ],
-   "key": "eve|2027-03-17|amsterdam",
-   "isNew": false
-  },
-  {
    "artist": "Haiden Henderson",
    "date": "2027-03-18T19:30:00",
    "noTime": false,
@@ -5022,24 +5004,6 @@
     }
    ],
    "key": "haiden henderson|2027-03-18|zurich",
-   "isNew": false
-  },
-  {
-   "artist": "Eve",
-   "date": "2027-03-21T19:00:00",
-   "noTime": false,
-   "venue": "KOKO",
-   "city": "London",
-   "cc": "GB",
-   "lat": 51.535029,
-   "lng": -0.139335,
-   "links": [
-    {
-     "src": "Ticketmaster",
-     "url": "https://www.ticketmaster.co.uk/eve-london-21-03-2027/event/1F00654195802196"
-    }
-   ],
-   "key": "eve|2027-03-21|london",
    "isNew": false
   },
   {
