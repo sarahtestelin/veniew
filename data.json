@@ -1,5 +1,5 @@
 {
- "at": 1791975972480,
+ "at": 1792061314719,
  "spotifyAt": 1791549014701,
  "artists": [
   {
@@ -1605,24 +1605,6 @@
  ],
  "events": [
   {
-   "artist": "Eve",
-   "date": "2026-10-14T20:00:00",
-   "noTime": false,
-   "venue": "",
-   "city": "Hamburg",
-   "cc": "DE",
-   "lat": 53.54928,
-   "lng": 9.9646,
-   "links": [
-    {
-     "src": "Ticketmaster",
-     "url": "https://www.ticketmaster.de/event/eve-scorpion-tour-tickets/1718263954?language=en-us"
-    }
-   ],
-   "key": "eve|2026-10-14|hamburg",
-   "isNew": false
-  },
-  {
    "artist": "Khalid",
    "date": "2026-10-15T18:30:00",
    "noTime": false,
@@ -1747,6 +1729,24 @@
    ],
    "key": "eve|2026-10-23|frankfurt am main",
    "isNew": false
+  },
+  {
+   "artist": "RAYE",
+   "date": "2026-10-23T19:15:00",
+   "noTime": false,
+   "venue": "Royal Albert Hall",
+   "city": "London",
+   "cc": "GB",
+   "lat": 51.501277,
+   "lng": -0.177552,
+   "links": [
+    {
+     "src": "Ticketmaster",
+     "url": "https://www.ticketmaster.co.uk/raye-london-23-10-2026/event/1F00654789A2159B"
+    }
+   ],
+   "key": "raye|2026-10-23|london",
+   "isNew": true
   },
   {
    "artist": "David Guetta",
@@ -2570,7 +2570,7 @@
    "links": [
     {
      "src": "Ticketmaster",
-     "url": "https://www.ticketmaster.de/event/placebo-30th-anniversary-tour-%7C-logen-seat-tickets/1395508058?language=en-us"
+     "url": "https://www.ticketmaster.de/event/placebo-30th-anniversary-tour-%7C-premium-packages-tickets/233228993?language=en-us"
     }
    ],
    "key": "placebo|2026-11-16|berlin",
@@ -2791,6 +2791,24 @@
    ],
    "key": "john newman|2026-11-20|birmingham",
    "isNew": false
+  },
+  {
+   "artist": "Amber Run",
+   "date": "2026-11-20T18:30:00",
+   "noTime": false,
+   "venue": "The O2",
+   "city": "London",
+   "cc": "GB",
+   "lat": 51.501581,
+   "lng": 0.005519,
+   "links": [
+    {
+     "src": "Ticketmaster",
+     "url": "https://www.ticketmaster.co.uk/myles-smith-my-mess-my-heart-london-20-11-2026/event/35006472C924554D"
+    }
+   ],
+   "key": "amber run|2026-11-20|london",
+   "isNew": true
   },
   {
    "artist": "Julia Wolf",
@@ -6552,42 +6570,6 @@
     }
    ],
    "key": "sombr|2027-07-17|berlin",
-   "isNew": false
-  },
-  {
-   "artist": "The Neighbourhood",
-   "date": "2027-07-18T00:00:00",
-   "noTime": true,
-   "venue": "",
-   "city": "Berlin",
-   "cc": "DE",
-   "lat": 52.51419,
-   "lng": 13.23431,
-   "links": [
-    {
-     "src": "Ticketmaster",
-     "url": "https://www.ticketmaster.de/event/lollapalooza-berlin-2027-presented-by-essence-%7C-17-and-18-july-2027-tickets/1956126517?language=en-us"
-    }
-   ],
-   "key": "the neighbourhood|2027-07-18|berlin",
-   "isNew": false
-  },
-  {
-   "artist": "sombr",
-   "date": "2027-07-18T00:00:00",
-   "noTime": true,
-   "venue": "",
-   "city": "Berlin",
-   "cc": "DE",
-   "lat": 52.51419,
-   "lng": 13.23431,
-   "links": [
-    {
-     "src": "Ticketmaster",
-     "url": "https://www.ticketmaster.de/event/lollapalooza-berlin-2027-presented-by-essence-%7C-17-and-18-july-2027-tickets/1956126517?language=en-us"
-    }
-   ],
-   "key": "sombr|2027-07-18|berlin",
    "isNew": false
   },
   {
