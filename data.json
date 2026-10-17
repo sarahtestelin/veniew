@@ -1,5 +1,5 @@
 {
- "at": 1792147348193,
+ "at": 1792231562599,
  "spotifyAt": 1792146935210,
  "artists": [
   {
@@ -1604,24 +1604,6 @@
   }
  ],
  "events": [
-  {
-   "artist": "Khalid",
-   "date": "2026-10-16T19:00:00",
-   "noTime": false,
-   "venue": "Manchester Academy",
-   "city": "Manchester",
-   "cc": "GB",
-   "lat": 53.464386,
-   "lng": -2.232225,
-   "links": [
-    {
-     "src": "Ticketmaster",
-     "url": "https://www.ticketmaster.co.uk/khalid-its-always-summer-somewhere-tour-manchester-16-10-2026/event/1F0064F7DE8C5236"
-    }
-   ],
-   "key": "khalid|2026-10-16|manchester",
-   "isNew": false
-  },
   {
    "artist": "Eve",
    "date": "2026-10-17T20:00:00",
@@ -4428,7 +4410,7 @@
     }
    ],
    "key": "kenshi yonezu|2027-02-24|london",
-   "isNew": true
+   "isNew": false
   },
   {
    "artist": "Haiden Henderson",
@@ -4500,7 +4482,7 @@
     }
    ],
    "key": "kenshi yonezu|2027-02-28|amsterdam",
-   "isNew": true
+   "isNew": false
   },
   {
    "artist": "Haiden Henderson",
@@ -4518,7 +4500,7 @@
     }
    ],
    "key": "haiden henderson|2027-03-03|paris",
-   "isNew": true
+   "isNew": false
   },
   {
    "artist": "Nessa Barrett",
@@ -4626,7 +4608,7 @@
     }
    ],
    "key": "nessa barrett|2027-03-12|",
-   "isNew": true
+   "isNew": false
   },
   {
    "artist": "Nessa Barrett",
@@ -5310,7 +5292,7 @@
     }
    ],
    "key": "nickelback|2027-05-24|london",
-   "isNew": true
+   "isNew": false
   },
   {
    "artist": "sombr",
