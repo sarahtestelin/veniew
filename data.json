@@ -1,5 +1,5 @@
 {
- "at": 1792231562599,
+ "at": 1792318775974,
  "spotifyAt": 1792146935210,
  "artists": [
   {
@@ -1604,24 +1604,6 @@
   }
  ],
  "events": [
-  {
-   "artist": "Eve",
-   "date": "2026-10-17T20:00:00",
-   "noTime": false,
-   "venue": "",
-   "city": "Berlin",
-   "cc": "DE",
-   "lat": 52.48684,
-   "lng": 13.42145,
-   "links": [
-    {
-     "src": "Ticketmaster",
-     "url": "https://www.ticketmaster.de/event/eve-scorpion-tour-tickets/474520508?language=en-us"
-    }
-   ],
-   "key": "eve|2026-10-17|berlin",
-   "isNew": false
-  },
   {
    "artist": "Eve",
    "date": "2026-10-19T20:00:00",
