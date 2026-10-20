@@ -1,5 +1,5 @@
 {
- "at": 1792411168083,
+ "at": 1792493611644,
  "spotifyAt": 1792146935210,
  "artists": [
   {
@@ -1604,42 +1604,6 @@
   }
  ],
  "events": [
-  {
-   "artist": "Eve",
-   "date": "2026-10-19T20:00:00",
-   "noTime": false,
-   "venue": "",
-   "city": "Munich",
-   "cc": "DE",
-   "lat": 48.1328,
-   "lng": 11.5892,
-   "links": [
-    {
-     "src": "Ticketmaster",
-     "url": "https://www.ticketmaster.de/event/eve-scorpion-tour-tickets/1308889499?language=en-us"
-    }
-   ],
-   "key": "eve|2026-10-19|munich",
-   "isNew": false
-  },
-  {
-   "artist": "Young the Giant",
-   "date": "2026-10-19T20:00:00",
-   "noTime": false,
-   "venue": "",
-   "city": "Berlin",
-   "cc": "DE",
-   "lat": 52.53818,
-   "lng": 13.41259,
-   "links": [
-    {
-     "src": "Ticketmaster",
-     "url": "https://www.ticketmaster.de/event/young-the-giant-victory-garden-tour-tickets/250539544?language=en-us"
-    }
-   ],
-   "key": "young the giant|2026-10-19|berlin",
-   "isNew": false
-  },
   {
    "artist": "Curbi",
    "date": "2026-10-22T17:00:00",
