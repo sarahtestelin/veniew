@@ -1,5 +1,5 @@
 {
- "at": 1792493611644,
+ "at": 1792580741844,
  "spotifyAt": 1792146935210,
  "artists": [
   {
@@ -1642,7 +1642,7 @@
   },
   {
    "artist": "RAYE",
-   "date": "2026-10-23T19:15:00",
+   "date": "2026-10-23T20:00:00",
    "noTime": false,
    "venue": "Royal Albert Hall",
    "city": "London",
@@ -1652,7 +1652,7 @@
    "links": [
     {
      "src": "Ticketmaster",
-     "url": "https://www.ticketmaster.co.uk/raye-london-23-10-2026/event/1F00654789A2159B"
+     "url": "https://www.ticketmaster.co.uk/raye-this-symphony-may-contain-hope-london-23-10-2026/event/1F00654789A2159B"
     }
    ],
    "key": "raye|2026-10-23|london",
