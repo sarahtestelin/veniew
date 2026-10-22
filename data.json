@@ -1,5 +1,5 @@
 {
- "at": 1792580741844,
+ "at": 1792667114613,
  "spotifyAt": 1792146935210,
  "artists": [
   {
@@ -2721,6 +2721,24 @@
    "isNew": false
   },
   {
+   "artist": "Jason Derulo",
+   "date": "2026-11-20T23:00:00",
+   "noTime": false,
+   "venue": "Club Republic",
+   "city": "Leicester",
+   "cc": "GB",
+   "lat": 52.639525,
+   "lng": -1.134024,
+   "links": [
+    {
+     "src": "Ticketmaster",
+     "url": "https://www.ticketmaster.co.uk/pure-rnb-presents-jason-derulo-live-leicester-20-11-2026/event/370065568EE3405B"
+    }
+   ],
+   "key": "jason derulo|2026-11-20|leicester",
+   "isNew": true
+  },
+  {
    "artist": "Placebo",
    "date": "2026-11-21T19:30:00",
    "noTime": false,
@@ -2737,6 +2755,24 @@
    ],
    "key": "placebo|2026-11-21|stuttgart",
    "isNew": false
+  },
+  {
+   "artist": "Jason Derulo",
+   "date": "2026-11-21T23:00:00",
+   "noTime": false,
+   "venue": "FUSION LIVERPOOL",
+   "city": "Liverpool",
+   "cc": "GB",
+   "lat": 53.40369704,
+   "lng": -2.98106303,
+   "links": [
+    {
+     "src": "Ticketmaster",
+     "url": "https://www.ticketmaster.co.uk/pure-rnb-presents-jason-derulo-live-liverpool-21-11-2026/event/370065568F97420F"
+    }
+   ],
+   "key": "jason derulo|2026-11-21|liverpool",
+   "isNew": true
   },
   {
    "artist": "Julia Wolf",
