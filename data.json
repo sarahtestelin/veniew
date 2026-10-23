@@ -1,14 +1,14 @@
 {
- "at": 1792667114613,
- "spotifyAt": 1792146935210,
+ "at": 1792753130772,
+ "spotifyAt": 1792752995301,
  "artists": [
   {
    "name": "The Neighbourhood",
-   "score": 233
+   "score": 234
   },
   {
    "name": "Nessa Barrett",
-   "score": 151
+   "score": 152
   },
   {
    "name": "Artemas",
@@ -20,19 +20,15 @@
   },
   {
    "name": "Lana Del Rey",
-   "score": 78
-  },
-  {
-   "name": "Lady Gaga",
    "score": 77
   },
   {
-   "name": "Isabel LaRosa",
-   "score": 71
+   "name": "Lady Gaga",
+   "score": 75
   },
   {
-   "name": "PLVTINUM",
-   "score": 67
+   "name": "Rihanna",
+   "score": 74
   },
   {
    "name": "Chase Atlantic",
@@ -43,68 +39,64 @@
    "score": 63
   },
   {
-   "name": "Tame Impala",
+   "name": "PLVTINUM",
+   "score": 62
+  },
+  {
+   "name": "Isabel LaRosa",
+   "score": 61
+  },
+  {
+   "name": "Presley Regier",
    "score": 57
-  },
-  {
-   "name": "Rihanna",
-   "score": 56
-  },
-  {
-   "name": "Ari Abdul",
-   "score": 55
   },
   {
    "name": "The Weeknd",
    "score": 55
   },
   {
-   "name": "Catch Your Breath",
-   "score": 51
+   "name": "Ari Abdul",
+   "score": 54
   },
   {
-   "name": "Presley Regier",
+   "name": "Tame Impala",
+   "score": 53
+  },
+  {
+   "name": "Catch Your Breath",
+   "score": 52
+  },
+  {
+   "name": "Britney Spears",
+   "score": 49
+  },
+  {
+   "name": "Ella Boh",
    "score": 48
   },
   {
    "name": "Pierce The Veil",
-   "score": 47
+   "score": 46
   },
   {
    "name": "d4vd",
    "score": 46
   },
   {
-   "name": "Britney Spears",
+   "name": "London Grammar",
    "score": 45
   },
   {
-   "name": "Chris Grey",
-   "score": 44
-  },
-  {
-   "name": "Dutch Melrose",
-   "score": 44
-  },
-  {
    "name": "Ariana Grande",
-   "score": 43
-  },
-  {
-   "name": "Ella Boh",
-   "score": 43
+   "score": 44
   },
   {
    "name": "Linkin Park",
-   "score": 42
+   "score": 44
   },
   {
    "name": "Arctic Monkeys",
    "score": 42
-  },
-  {
-   "name": "Katy Perry",
-   "score": 40
   },
   {
    "name": "Justin Bieber",
@@ -115,15 +107,27 @@
    "score": 39
   },
   {
-   "name": "David Guetta",
+   "name": "Chris Grey",
+   "score": 38
+  },
+  {
+   "name": "Dutch Melrose",
+   "score": 37
+  },
+  {
+   "name": "Katy Perry",
    "score": 35
+  },
+  {
+   "name": "Panic! At The Disco",
+   "score": 34
   },
   {
    "name": "Asal",
    "score": 34
   },
   {
-   "name": "Damso",
+   "name": "David Guetta",
    "score": 34
   },
   {
@@ -131,20 +135,8 @@
    "score": 34
   },
   {
-   "name": "Panic! At The Disco",
-   "score": 34
-  },
-  {
    "name": "Ellie Goulding",
    "score": 34
-  },
-  {
-   "name": "Fall Out Boy",
-   "score": 33
-  },
-  {
-   "name": "London Grammar",
-   "score": 33
   },
   {
    "name": "Eve",
@@ -155,15 +147,15 @@
    "score": 32
   },
   {
+   "name": "Fall Out Boy",
+   "score": 31
+  },
+  {
    "name": "Kesha",
-   "score": 32
+   "score": 31
   },
   {
-   "name": "Haiden Henderson",
-   "score": 30
-  },
-  {
-   "name": "Tate McRae",
+   "name": "Justin Timberlake",
    "score": 30
   },
   {
@@ -176,15 +168,11 @@
   },
   {
    "name": "Mr.Kitty",
+   "score": 29
+  },
+  {
+   "name": "Damso",
    "score": 28
-  },
-  {
-   "name": "Maroon 5",
-   "score": 27
-  },
-  {
-   "name": "Bad Omens",
-   "score": 27
   },
   {
    "name": "ThxSoMch",
@@ -195,7 +183,11 @@
    "score": 27
   },
   {
-   "name": "Twenty One Pilots",
+   "name": "Tate McRae",
+   "score": 26
+  },
+  {
+   "name": "Bad Omens",
    "score": 26
   },
   {
@@ -203,11 +195,11 @@
    "score": 25
   },
   {
-   "name": "akiaura",
-   "score": 24
+   "name": "Haiden Henderson",
+   "score": 25
   },
   {
-   "name": "Beach Weather",
+   "name": "Maroon 5",
    "score": 23
   },
   {
@@ -215,15 +207,19 @@
    "score": 23
   },
   {
+   "name": "Beach Weather",
+   "score": 23
+  },
+  {
+   "name": "Lisp",
+   "score": 23
+  },
+  {
    "name": "GIMS",
    "score": 23
   },
   {
-   "name": "Justin Timberlake",
-   "score": 23
-  },
-  {
-   "name": "Caskets",
+   "name": "Three Days Grace",
    "score": 22
   },
   {
@@ -231,27 +227,15 @@
    "score": 22
   },
   {
-   "name": "Lisp",
-   "score": 22
-  },
-  {
-   "name": "Three Days Grace",
-   "score": 21
-  },
-  {
    "name": "Ally Nicholas",
    "score": 21
   },
   {
+   "name": "Twenty One Pilots",
+   "score": 21
+  },
+  {
    "name": "Nekfeu",
-   "score": 20
-  },
-  {
-   "name": "Charli xcx",
-   "score": 20
-  },
-  {
-   "name": "sombr",
    "score": 20
   },
   {
@@ -271,15 +255,19 @@
    "score": 19
   },
   {
-   "name": "Awaken I Am",
+   "name": "sombr",
+   "score": 18
+  },
+  {
+   "name": "ADÉLA",
    "score": 18
   },
   {
    "name": "Jfarrari",
-   "score": 17
+   "score": 18
   },
   {
-   "name": "Tayc",
+   "name": "Caskets",
    "score": 17
   },
   {
@@ -299,7 +287,15 @@
    "score": 16
   },
   {
+   "name": "Paramore",
+   "score": 16
+  },
+  {
    "name": "Jesse®",
+   "score": 15
+  },
+  {
+   "name": "Charli xcx",
    "score": 15
   },
   {
@@ -307,19 +303,19 @@
    "score": 14
   },
   {
-   "name": "The Killers",
+   "name": "akiaura",
    "score": 14
   },
   {
-   "name": "Paramore",
-   "score": 13
-  },
-  {
    "name": "Night Tapes",
-   "score": 13
+   "score": 14
   },
   {
    "name": "Ex Habit",
+   "score": 13
+  },
+  {
+   "name": "The Killers",
    "score": 13
   },
   {
@@ -347,27 +343,31 @@
    "score": 13
   },
   {
-   "name": "Julia Wolf",
-   "score": 13
-  },
-  {
-   "name": "The Pretty Reckless",
-   "score": 13
+   "name": "Thousand Foot Krutch",
+   "score": 12
   },
   {
    "name": "Sean Paul",
    "score": 12
   },
   {
-   "name": "Sia",
+   "name": "Tayc",
    "score": 12
   },
   {
-   "name": "Thousand Foot Krutch",
+   "name": "Golden Cats",
    "score": 12
+  },
+  {
+   "name": "noise dept.",
+   "score": 11
   },
   {
    "name": "Myla",
+   "score": 11
+  },
+  {
+   "name": "Awaken I Am",
    "score": 11
   },
   {
@@ -387,6 +387,10 @@
    "score": 11
   },
   {
+   "name": "Sia",
+   "score": 11
+  },
+  {
    "name": "Beyoncé",
    "score": 11
   },
@@ -399,7 +403,7 @@
    "score": 11
   },
   {
-   "name": "noise dept.",
+   "name": "New Medicine",
    "score": 10
   },
   {
@@ -428,10 +432,6 @@
   },
   {
    "name": "MXZI",
-   "score": 10
-  },
-  {
-   "name": "New Medicine",
    "score": 10
   },
   {
@@ -483,8 +483,8 @@
    "score": 9
   },
   {
-   "name": "Nerv",
-   "score": 8
+   "name": "Wind Walkers",
+   "score": 9
   },
   {
    "name": "Feist",
@@ -515,8 +515,8 @@
    "score": 8
   },
   {
-   "name": "Michael Jackson",
-   "score": 7
+   "name": "Justice",
+   "score": 8
   },
   {
    "name": "Ellise",
@@ -635,7 +635,7 @@
    "score": 6
   },
   {
-   "name": "Golden Cats",
+   "name": "Michael Jackson",
    "score": 6
   },
   {
@@ -680,6 +680,10 @@
   },
   {
    "name": "Superbus",
+   "score": 6
+  },
+  {
+   "name": "Julia Wolf",
    "score": 6
   },
   {
@@ -848,6 +852,10 @@
   },
   {
    "name": "Anne-Marie",
+   "score": 5
+  },
+  {
+   "name": "The Pretty Reckless",
    "score": 5
   },
   {
@@ -1593,35 +1601,9 @@
   {
    "name": "Mozart Opera Rock",
    "score": 3
-  },
-  {
-   "name": "Gwen Stefani",
-   "score": 3
-  },
-  {
-   "name": "girl in red",
-   "score": 3
   }
  ],
  "events": [
-  {
-   "artist": "Curbi",
-   "date": "2026-10-22T17:00:00",
-   "noTime": false,
-   "venue": "",
-   "city": "Amsterdam",
-   "cc": "NL",
-   "lat": 52.31236,
-   "lng": 4.94415,
-   "links": [
-    {
-     "src": "Ticketmaster",
-     "url": "https://www.ticketmaster.nl/event/stmpd-10-years-ade-tickets/1718475544?language=en-us"
-    }
-   ],
-   "key": "curbi|2026-10-22|amsterdam",
-   "isNew": false
-  },
   {
    "artist": "Eve",
    "date": "2026-10-23T19:00:00",
@@ -2736,7 +2718,7 @@
     }
    ],
    "key": "jason derulo|2026-11-20|leicester",
-   "isNew": true
+   "isNew": false
   },
   {
    "artist": "Placebo",
@@ -2772,24 +2754,6 @@
     }
    ],
    "key": "jason derulo|2026-11-21|liverpool",
-   "isNew": true
-  },
-  {
-   "artist": "Julia Wolf",
-   "date": "2026-11-22T19:00:00",
-   "noTime": false,
-   "venue": "O2 Institute Birmingham",
-   "city": "Birmingham",
-   "cc": "GB",
-   "lat": 52.475756,
-   "lng": -1.887562,
-   "links": [
-    {
-     "src": "Ticketmaster",
-     "url": "https://www.ticketmaster.co.uk/julia-wolf-birmingham-22-11-2026/event/3E00647FC0A37017"
-    }
-   ],
-   "key": "julia wolf|2026-11-22|birmingham",
    "isNew": false
   },
   {
@@ -2811,6 +2775,24 @@
    "isNew": false
   },
   {
+   "artist": "Julia Wolf",
+   "date": "2026-11-22T19:00:00",
+   "noTime": false,
+   "venue": "O2 Institute Birmingham",
+   "city": "Birmingham",
+   "cc": "GB",
+   "lat": 52.475756,
+   "lng": -1.887562,
+   "links": [
+    {
+     "src": "Ticketmaster",
+     "url": "https://www.ticketmaster.co.uk/julia-wolf-birmingham-22-11-2026/event/3E00647FC0A37017"
+    }
+   ],
+   "key": "julia wolf|2026-11-22|birmingham",
+   "isNew": false
+  },
+  {
    "artist": "Tayc",
    "date": "2026-11-22T20:00:00",
    "noTime": false,
@@ -2829,24 +2811,6 @@
    "isNew": false
   },
   {
-   "artist": "Julia Wolf",
-   "date": "2026-11-23T19:00:00",
-   "noTime": false,
-   "venue": "O2 Ritz Manchester",
-   "city": "Manchester",
-   "cc": "GB",
-   "lat": 53.474423,
-   "lng": -2.243098,
-   "links": [
-    {
-     "src": "Ticketmaster",
-     "url": "https://www.ticketmaster.co.uk/julia-wolf-manchester-23-11-2026/event/3E00648AB2F140F9"
-    }
-   ],
-   "key": "julia wolf|2026-11-23|manchester",
-   "isNew": false
-  },
-  {
    "artist": "sace6",
    "date": "2026-11-23T19:00:00",
    "noTime": false,
@@ -2862,6 +2826,24 @@
     }
    ],
    "key": "sace6|2026-11-23|manchester",
+   "isNew": false
+  },
+  {
+   "artist": "Julia Wolf",
+   "date": "2026-11-23T19:00:00",
+   "noTime": false,
+   "venue": "O2 Ritz Manchester",
+   "city": "Manchester",
+   "cc": "GB",
+   "lat": 53.474423,
+   "lng": -2.243098,
+   "links": [
+    {
+     "src": "Ticketmaster",
+     "url": "https://www.ticketmaster.co.uk/julia-wolf-manchester-23-11-2026/event/3E00648AB2F140F9"
+    }
+   ],
+   "key": "julia wolf|2026-11-23|manchester",
    "isNew": false
   },
   {
@@ -3567,6 +3549,24 @@
    "isNew": false
   },
   {
+   "artist": "David Guetta",
+   "date": "2026-12-06T18:00:00",
+   "noTime": false,
+   "venue": "Stade de France",
+   "city": "Saint-Denis",
+   "cc": "FR",
+   "lat": 48.9362,
+   "lng": 2.3574,
+   "links": [
+    {
+     "src": "JamBase",
+     "url": "https://www.jambase.com/show/david-guetta-stade-de-france-20261206?utm_source=google&utm_medium=gac&source=ea"
+    }
+   ],
+   "key": "david guetta|2026-12-06|saint denis",
+   "isNew": true
+  },
+  {
    "artist": "Dayseeker",
    "date": "2026-12-06T19:00:00",
    "noTime": false,
@@ -4017,6 +4017,60 @@
    "isNew": false
   },
   {
+   "artist": "Wind Walkers",
+   "date": "2027-01-15T19:00:00",
+   "noTime": false,
+   "venue": "Cardiff University Students Union",
+   "city": "Cardiff",
+   "cc": "GB",
+   "lat": 51.488423,
+   "lng": -3.177473,
+   "links": [
+    {
+     "src": "Ticketmaster",
+     "url": "https://www.ticketmaster.co.uk/wage-war-cardiff-15-01-2027/event/1F0064B4DDF66A25"
+    }
+   ],
+   "key": "wind walkers|2027-01-15|cardiff",
+   "isNew": true
+  },
+  {
+   "artist": "ADÉLA",
+   "date": "2027-01-16T19:00:00",
+   "noTime": false,
+   "venue": "O2 Victoria Warehouse Manchester",
+   "city": "Manchester",
+   "cc": "GB",
+   "lat": 53.4643707,
+   "lng": -2.2853054,
+   "links": [
+    {
+     "src": "Ticketmaster",
+     "url": "https://www.ticketmaster.co.uk/adela-manchester-16-01-2027/event/3E006514921B138C"
+    }
+   ],
+   "key": "adela|2027-01-16|manchester",
+   "isNew": true
+  },
+  {
+   "artist": "Wind Walkers",
+   "date": "2027-01-16T19:00:00",
+   "noTime": false,
+   "venue": "O2 Forum Kentish Town",
+   "city": "London",
+   "cc": "GB",
+   "lat": 51.552039,
+   "lng": -0.14193,
+   "links": [
+    {
+     "src": "Ticketmaster",
+     "url": "https://www.ticketmaster.co.uk/wage-war-london-16-01-2027/event/3E0064B5EA5A5A6B"
+    }
+   ],
+   "key": "wind walkers|2027-01-16|london",
+   "isNew": true
+  },
+  {
    "artist": "Catch Your Breath",
    "date": "2027-01-17T18:00:00",
    "noTime": false,
@@ -4033,6 +4087,60 @@
    ],
    "key": "catch your breath|2027-01-17|glasgow",
    "isNew": false
+  },
+  {
+   "artist": "ADÉLA",
+   "date": "2027-01-17T19:00:00",
+   "noTime": false,
+   "venue": "O2 Academy Glasgow",
+   "city": "Glasgow",
+   "cc": "GB",
+   "lat": 55.8504496,
+   "lng": -4.2587809,
+   "links": [
+    {
+     "src": "Ticketmaster",
+     "url": "https://www.ticketmaster.co.uk/adela-glasgow-17-01-2027/event/3E006519A0082C31"
+    }
+   ],
+   "key": "adela|2027-01-17|glasgow",
+   "isNew": true
+  },
+  {
+   "artist": "Wind Walkers",
+   "date": "2027-01-17T19:00:00",
+   "noTime": false,
+   "venue": "O2 Ritz Manchester",
+   "city": "Manchester",
+   "cc": "GB",
+   "lat": 53.474423,
+   "lng": -2.243098,
+   "links": [
+    {
+     "src": "Ticketmaster",
+     "url": "https://www.ticketmaster.co.uk/wage-war-manchester-17-01-2027/event/3E0064B4C00E576B"
+    }
+   ],
+   "key": "wind walkers|2027-01-17|manchester",
+   "isNew": true
+  },
+  {
+   "artist": "ADÉLA",
+   "date": "2027-01-19T19:00:00",
+   "noTime": false,
+   "venue": "O2 Academy Brixton",
+   "city": "London",
+   "cc": "GB",
+   "lat": 51.465355,
+   "lng": -0.115176,
+   "links": [
+    {
+     "src": "Ticketmaster",
+     "url": "https://www.ticketmaster.co.uk/adela-london-19-01-2027/event/3E00650EA7E917D5"
+    }
+   ],
+   "key": "adela|2027-01-19|london",
+   "isNew": true
   },
   {
    "artist": "Muse",
@@ -4053,6 +4161,42 @@
    "isNew": false
   },
   {
+   "artist": "ADÉLA",
+   "date": "2027-01-20T19:00:00",
+   "noTime": false,
+   "venue": "O2 Academy Brixton",
+   "city": "London",
+   "cc": "GB",
+   "lat": 51.465355,
+   "lng": -0.115176,
+   "links": [
+    {
+     "src": "Ticketmaster",
+     "url": "https://www.ticketmaster.co.uk/adela-london-20-01-2027/event/3E006518C3602A56"
+    }
+   ],
+   "key": "adela|2027-01-20|london",
+   "isNew": true
+  },
+  {
+   "artist": "Wind Walkers",
+   "date": "2027-01-20T19:00:00",
+   "noTime": false,
+   "venue": "O2 Institute Birmingham",
+   "city": "Birmingham",
+   "cc": "GB",
+   "lat": 52.475756,
+   "lng": -1.887562,
+   "links": [
+    {
+     "src": "Ticketmaster",
+     "url": "https://www.ticketmaster.co.uk/wage-war-birmingham-20-01-2027/event/3E0064B5A5433232"
+    }
+   ],
+   "key": "wind walkers|2027-01-20|birmingham",
+   "isNew": true
+  },
+  {
    "artist": "Muse",
    "date": "2027-01-20T20:30:00",
    "noTime": false,
@@ -4069,6 +4213,24 @@
    ],
    "key": "muse|2027-01-20|madrid",
    "isNew": false
+  },
+  {
+   "artist": "ADÉLA",
+   "date": "2027-01-23T20:00:00",
+   "noTime": false,
+   "venue": "",
+   "city": "Cologne",
+   "cc": "DE",
+   "lat": 50.96579,
+   "lng": 7.01208,
+   "links": [
+    {
+     "src": "Ticketmaster",
+     "url": "https://www.ticketmaster.de/event/adela-the-red-bottoms-tour-tickets/1167215021?language=en-us"
+    }
+   ],
+   "key": "adela|2027-01-23|cologne",
+   "isNew": true
   },
   {
    "artist": "Muse",
@@ -4143,6 +4305,24 @@
    "isNew": false
   },
   {
+   "artist": "ADÉLA",
+   "date": "2027-01-26T20:00:00",
+   "noTime": false,
+   "venue": "TivoliVredenburg",
+   "city": "Utrecht",
+   "cc": "NL",
+   "lat": 52.09213,
+   "lng": 5.11285,
+   "links": [
+    {
+     "src": "Ticketmaster",
+     "url": "https://www.ticketmaster.nl/event/adela-tickets/1974929703?language=en-us"
+    }
+   ],
+   "key": "adela|2027-01-26|utrecht",
+   "isNew": true
+  },
+  {
    "artist": "Two Door Cinema Club",
    "date": "2027-01-27T18:00:00",
    "noTime": false,
@@ -4195,6 +4375,24 @@
    ],
    "key": "two door cinema club|2027-02-01|brussels",
    "isNew": false
+  },
+  {
+   "artist": "ADÉLA",
+   "date": "2027-02-02T20:00:00",
+   "noTime": false,
+   "venue": "",
+   "city": "Berlin",
+   "cc": "DE",
+   "lat": 52.48684,
+   "lng": 13.42145,
+   "links": [
+    {
+     "src": "Ticketmaster",
+     "url": "https://www.ticketmaster.de/event/adela-the-red-bottoms-tour-tickets/233954157?language=en-us"
+    }
+   ],
+   "key": "adela|2027-02-02|berlin",
+   "isNew": true
   },
   {
    "artist": "Two Door Cinema Club",
@@ -4467,24 +4665,6 @@
    "isNew": false
   },
   {
-   "artist": "Haiden Henderson",
-   "date": "2027-03-03T00:00:00",
-   "noTime": true,
-   "venue": "",
-   "city": "Paris",
-   "cc": "FR",
-   "lat": 48.8566,
-   "lng": 2.3522,
-   "links": [
-    {
-     "src": "Ticketmaster.fr",
-     "url": "https://www.ticketmaster.fr/fr/manifestation/haiden-henderson-the-dumblond-tour-billet/idmanif/672905"
-    }
-   ],
-   "key": "haiden henderson|2027-03-03|paris",
-   "isNew": false
-  },
-  {
    "artist": "Nessa Barrett",
    "date": "2027-03-04T19:00:00",
    "noTime": false,
@@ -4558,6 +4738,24 @@
   },
   {
    "artist": "Nessa Barrett",
+   "date": "2027-03-09T19:00:00",
+   "noTime": false,
+   "venue": "L'Olympia",
+   "city": "Paris",
+   "cc": "FR",
+   "lat": 48.8566,
+   "lng": 2.3522,
+   "links": [
+    {
+     "src": "JamBase",
+     "url": "https://www.jambase.com/show/nessa-barrett-lolympia-20270309?utm_source=google&utm_medium=gac&source=ea"
+    }
+   ],
+   "key": "nessa barrett|2027-03-09|paris",
+   "isNew": true
+  },
+  {
+   "artist": "Nessa Barrett",
    "date": "2027-03-11T00:00:00",
    "noTime": true,
    "venue": "De Roma",
@@ -4578,6 +4776,24 @@
    "artist": "Nessa Barrett",
    "date": "2027-03-12T00:00:00",
    "noTime": true,
+   "venue": "L'olympia",
+   "city": "Paris",
+   "cc": "FR",
+   "lat": 48.8566,
+   "lng": 2.3522,
+   "links": [
+    {
+     "src": "Ticketmaster.fr",
+     "url": "https://www.ticketmaster.fr/fr/manifestation/nessa-barrett-billet/idmanif/673692"
+    }
+   ],
+   "key": "nessa barrett|2027-03-12|paris",
+   "isNew": true
+  },
+  {
+   "artist": "Nessa Barrett",
+   "date": "2027-03-12T00:00:00",
+   "noTime": true,
    "venue": "",
    "city": "",
    "cc": "FR",
@@ -4591,6 +4807,24 @@
    ],
    "key": "nessa barrett|2027-03-12|",
    "isNew": false
+  },
+  {
+   "artist": "Lana Del Rey",
+   "date": "2027-03-12T00:00:00",
+   "noTime": true,
+   "venue": "",
+   "city": "",
+   "cc": "FR",
+   "lat": null,
+   "lng": null,
+   "links": [
+    {
+     "src": "See Tickets",
+     "url": "https://www.seetickets.com/fr/search?q=Lana+Del+Rey"
+    }
+   ],
+   "key": "lana del rey|2027-03-12|",
+   "isNew": true
   },
   {
    "artist": "Nessa Barrett",
@@ -4953,6 +5187,24 @@
    "isNew": false
   },
   {
+   "artist": "Charlotte Cardin",
+   "date": "2027-05-01T19:00:00",
+   "noTime": false,
+   "venue": "O2 Forum Kentish Town",
+   "city": "London",
+   "cc": "GB",
+   "lat": 51.552039,
+   "lng": -0.14193,
+   "links": [
+    {
+     "src": "Ticketmaster",
+     "url": "https://www.ticketmaster.co.uk/charlotte-cardin-midnight-mon-amour-tour-london-01-05-2027/event/3E00654ED93E6738"
+    }
+   ],
+   "key": "charlotte cardin|2027-05-01|london",
+   "isNew": true
+  },
+  {
    "artist": "Olivia Rodrigo",
    "date": "2027-05-01T20:15:00",
    "noTime": false,
@@ -4989,6 +5241,24 @@
    "isNew": false
   },
   {
+   "artist": "Charlotte Cardin",
+   "date": "2027-05-05T19:00:00",
+   "noTime": false,
+   "venue": "Melkweg",
+   "city": "Amsterdam",
+   "cc": "NL",
+   "lat": 52.36483,
+   "lng": 4.88127,
+   "links": [
+    {
+     "src": "Ticketmaster",
+     "url": "https://www.ticketmaster.nl/event/charlotte-cardin-tickets/1978802222?language=en-us"
+    }
+   ],
+   "key": "charlotte cardin|2027-05-05|amsterdam",
+   "isNew": true
+  },
+  {
    "artist": "Olivia Rodrigo",
    "date": "2027-05-05T20:15:00",
    "noTime": false,
@@ -5023,6 +5293,24 @@
    ],
    "key": "olivia rodrigo|2027-05-06|barcelona",
    "isNew": false
+  },
+  {
+   "artist": "Charlotte Cardin",
+   "date": "2027-05-07T21:00:00",
+   "noTime": false,
+   "venue": "",
+   "city": "Cologne",
+   "cc": "DE",
+   "lat": 50.92518,
+   "lng": 6.96456,
+   "links": [
+    {
+     "src": "Ticketmaster",
+     "url": "https://www.ticketmaster.de/event/charlotte-cardin-midnight-mon-amour-tour-tickets/2028974226?language=en-us"
+    }
+   ],
+   "key": "charlotte cardin|2027-05-07|cologne",
+   "isNew": true
   },
   {
    "artist": "Olivia Rodrigo",
@@ -5097,6 +5385,24 @@
    "isNew": false
   },
   {
+   "artist": "Charlotte Cardin",
+   "date": "2027-05-10T20:00:00",
+   "noTime": false,
+   "venue": "",
+   "city": "Berlin",
+   "cc": "DE",
+   "lat": 52.49955,
+   "lng": 13.35052,
+   "links": [
+    {
+     "src": "Ticketmaster",
+     "url": "https://www.ticketmaster.de/event/charlotte-cardin-midnight-mon-amour-tour-tickets/1568137403?language=en-us"
+    }
+   ],
+   "key": "charlotte cardin|2027-05-10|berlin",
+   "isNew": true
+  },
+  {
    "artist": "sombr",
    "date": "2027-05-14T19:30:00",
    "noTime": false,
@@ -5131,6 +5437,24 @@
    ],
    "key": "ravyn lenae|2027-05-14|hamburg",
    "isNew": false
+  },
+  {
+   "artist": "Charlotte Cardin",
+   "date": "2027-05-14T19:30:00",
+   "noTime": false,
+   "venue": "Nachtwerk",
+   "city": "Munich",
+   "cc": "DE",
+   "lat": 48.13979,
+   "lng": 11.52283,
+   "links": [
+    {
+     "src": "Ticketmaster",
+     "url": "https://www.ticketmaster.de/event/charlotte-cardin-midnight-mon-amour-tour-tickets/1242458984?language=en-us"
+    }
+   ],
+   "key": "charlotte cardin|2027-05-14|munich",
+   "isNew": true
   },
   {
    "artist": "sombr",
@@ -5637,6 +5961,24 @@
    "isNew": false
   },
   {
+   "artist": "David Guetta",
+   "date": "2027-06-06T18:30:00",
+   "noTime": false,
+   "venue": "The O2",
+   "city": "London",
+   "cc": "GB",
+   "lat": null,
+   "lng": null,
+   "links": [
+    {
+     "src": "JamBase",
+     "url": "https://www.jambase.com/show/david-guetta-o2-arena-20270606?utm_source=google&utm_medium=gac&source=ea"
+    }
+   ],
+   "key": "david guetta|2027-06-06|london",
+   "isNew": true
+  },
+  {
    "artist": "Tame Impala",
    "date": "2027-06-07T19:15:00",
    "noTime": false,
@@ -5761,6 +6103,24 @@
    ],
    "key": "nickelback|2027-06-11|hannover",
    "isNew": false
+  },
+  {
+   "artist": "Tame Impala",
+   "date": "2027-06-13T00:00:00",
+   "noTime": true,
+   "venue": "Accor Arena",
+   "city": "",
+   "cc": "FR",
+   "lat": null,
+   "lng": null,
+   "links": [
+    {
+     "src": "Ticketmaster.fr",
+     "url": "https://www.ticketmaster.fr/fr/manifestation/tame-impala-billet/idmanif/670644"
+    }
+   ],
+   "key": "tame impala|2027-06-13|",
+   "isNew": true
   },
   {
    "artist": "Nickelback",
@@ -5979,6 +6339,42 @@
    "isNew": false
   },
   {
+   "artist": "David Guetta",
+   "date": "2027-06-27T00:00:00",
+   "noTime": true,
+   "venue": "",
+   "city": "",
+   "cc": "FR",
+   "lat": null,
+   "lng": null,
+   "links": [
+    {
+     "src": "Fnac Spectacles",
+     "url": "https://www.fnacspectacles.com/artist/david-guetta/?srsltid=AYCX9vJ9R3NGjIqwdEYIyd4IuJGui1tdOBfnWmW1Misgw5CYU3qnWal1"
+    }
+   ],
+   "key": "david guetta|2027-06-27|",
+   "isNew": true
+  },
+  {
+   "artist": "David Guetta",
+   "date": "2027-06-27T17:00:00",
+   "noTime": false,
+   "venue": "Plaine de La Filhole",
+   "city": "Marmande",
+   "cc": "FR",
+   "lat": null,
+   "lng": null,
+   "links": [
+    {
+     "src": "Bandsintown",
+     "url": "https://www.bandsintown.com/e/108781424?app_id=ggl_feed&came_from=289&utm_medium=web&utm_source=ggl_feed&utm_campaign=event&source=ea"
+    }
+   ],
+   "key": "david guetta|2027-06-27|marmande",
+   "isNew": true
+  },
+  {
    "artist": "sombr",
    "date": "2027-06-29T18:30:00",
    "noTime": false,
@@ -5997,6 +6393,24 @@
    "isNew": false
   },
   {
+   "artist": "Bastille",
+   "date": "2027-06-30T09:00:00",
+   "noTime": false,
+   "venue": "Lytham Green",
+   "city": "Lancashire",
+   "cc": "GB",
+   "lat": 53.7346927,
+   "lng": -2.9595951,
+   "links": [
+    {
+     "src": "Ticketmaster",
+     "url": "https://www.ticketmaster.co.uk/lytham-festival-kings-of-leon-lancashire-30-06-2027/event/350064EA17367A9F"
+    }
+   ],
+   "key": "bastille|2027-06-30|lancashire",
+   "isNew": true
+  },
+  {
    "artist": "Harry Styles",
    "date": "2027-07-02T19:00:00",
    "noTime": false,
@@ -6013,6 +6427,28 @@
    ],
    "key": "harry styles|2027-07-02|berlin",
    "isNew": false
+  },
+  {
+   "artist": "David Guetta",
+   "date": "2027-07-03T02:00:00",
+   "noTime": false,
+   "venue": "Citadelle d'Arras",
+   "city": "Arras",
+   "cc": "FR",
+   "lat": 50.291,
+   "lng": 2.7775,
+   "links": [
+    {
+     "src": "JamBase",
+     "url": "https://www.jambase.com/festival/main-square-festival-2027?utm_source=google&utm_medium=gac&source=ea"
+    },
+    {
+     "src": "Bandsintown",
+     "url": "https://www.bandsintown.com/e/108781426?app_id=ggl_feed&came_from=289&utm_medium=web&utm_source=ggl_feed&utm_campaign=event&source=ea"
+    }
+   ],
+   "key": "david guetta|2027-07-03|arras",
+   "isNew": true
   },
   {
    "artist": "Harry Styles",
@@ -6067,6 +6503,24 @@
    ],
    "key": "harry styles|2027-07-09|berlin",
    "isNew": false
+  },
+  {
+   "artist": "David Guetta",
+   "date": "2027-07-10T17:00:00",
+   "noTime": false,
+   "venue": "Flugplatz Neustadt-Glewe",
+   "city": "Neustadt-Glewe",
+   "cc": "DE",
+   "lat": null,
+   "lng": null,
+   "links": [
+    {
+     "src": "Bandsintown",
+     "url": "https://www.bandsintown.com/e/108781429?app_id=ggl_feed&came_from=289&utm_medium=web&utm_source=ggl_feed&utm_campaign=event&source=ea"
+    }
+   ],
+   "key": "david guetta|2027-07-10|neustadt glewe",
+   "isNew": true
   },
   {
    "artist": "Harry Styles",
@@ -6283,12 +6737,62 @@
    ],
    "key": "harry styles|2027-08-28|london",
    "isNew": false
+  },
+  {
+   "artist": "Charlotte Cardin",
+   "date": "2027-11-27T20:00:00",
+   "noTime": false,
+   "venue": "ING ARENA",
+   "city": "Brussels",
+   "cc": "BE",
+   "lat": 50.90095,
+   "lng": 4.34368,
+   "links": [
+    {
+     "src": "Ticketmaster",
+     "url": "https://www.ticketmaster.be/event/charlotte-cardin--midnight-mon-amour-tour-tickets/52168240"
+    }
+   ],
+   "key": "charlotte cardin|2027-11-27|brussels",
+   "isNew": true
   }
  ],
  "serp": {
   "v": 3,
-  "at": 1792147348174,
+  "at": 1792753130759,
   "events": [
+   {
+    "artist": "Nessa Barrett",
+    "date": "2027-03-09T19:00:00",
+    "noTime": false,
+    "venue": "L'Olympia",
+    "city": "Paris",
+    "cc": "FR",
+    "lat": 48.8566,
+    "lng": 2.3522,
+    "links": [
+     {
+      "src": "JamBase",
+      "url": "https://www.jambase.com/show/nessa-barrett-lolympia-20270309?utm_source=google&utm_medium=gac&source=ea"
+     }
+    ]
+   },
+   {
+    "artist": "Nessa Barrett",
+    "date": "2027-03-12T00:00:00",
+    "noTime": true,
+    "venue": "L'olympia",
+    "city": "Paris",
+    "cc": "FR",
+    "lat": 48.8566,
+    "lng": 2.3522,
+    "links": [
+     {
+      "src": "Ticketmaster.fr",
+      "url": "https://www.ticketmaster.fr/fr/manifestation/nessa-barrett-billet/idmanif/673692"
+     }
+    ]
+   },
    {
     "artist": "Nessa Barrett",
     "date": "2027-03-12T00:00:00",
@@ -6306,8 +6810,8 @@
     ]
    },
    {
-    "artist": "Bring Me The Horizon",
-    "date": "2023-06-06T00:00:00",
+    "artist": "Lana Del Rey",
+    "date": "2027-03-12T00:00:00",
     "noTime": true,
     "venue": "",
     "city": "",
@@ -6316,8 +6820,8 @@
     "lng": null,
     "links": [
      {
-      "src": "Ticketmaster.fr",
-      "url": "https://www.ticketmaster.fr/fr/artiste/bring-me-the-horizon/idartiste/274"
+      "src": "See Tickets",
+      "url": "https://www.seetickets.com/fr/search?q=Lana+Del+Rey"
      }
     ]
    },
@@ -6333,7 +6837,7 @@
     "links": [
      {
       "src": "Fnac Spectacles",
-      "url": "https://www.fnacspectacles.com/magazine/concerts/lady-gaga-concerts-2025?srsltid=AU7gw4XfzCxolCcZDdxIaf4DEWpkbjp1XojzGowqNlTlIjEpN5D2t-mM"
+      "url": "https://www.fnacspectacles.com/magazine/concerts/lady-gaga-concerts-2025?srsltid=AYCX9vJqaRKd9erqFA-81dp7uDZxpf6zFAz6SdE47d71SwBrFO-ZvH1R"
      }
     ]
    },
@@ -6349,7 +6853,23 @@
     "links": [
      {
       "src": "Fnac Spectacles",
-      "url": "https://www.fnacspectacles.com/magazine/concerts/the-weeknd-tournee-2026?srsltid=AU7gw4WdLCqyCBYa6HCcCZCE4SaghsSxFHJA5JZR_JFdA3NQfkCleBdt"
+      "url": "https://www.fnacspectacles.com/magazine/concerts/the-weeknd-tournee-2026?srsltid=AYCX9vLvkgOgLDKpI9tWrfLwzxtROHGS7NvD2vK7vvp0U7m9Ely1PINP"
+     }
+    ]
+   },
+   {
+    "artist": "Tame Impala",
+    "date": "2027-06-13T00:00:00",
+    "noTime": true,
+    "venue": "Accor Arena",
+    "city": "",
+    "cc": "FR",
+    "lat": null,
+    "lng": null,
+    "links": [
+     {
+      "src": "Ticketmaster.fr",
+      "url": "https://www.ticketmaster.fr/fr/manifestation/tame-impala-billet/idmanif/670644"
      }
     ]
    },
@@ -6370,18 +6890,18 @@
     ]
    },
    {
-    "artist": "Linkin Park",
-    "date": "2024-09-24T00:00:00",
+    "artist": "London Grammar",
+    "date": "2024-10-31T00:00:00",
     "noTime": true,
     "venue": "",
-    "city": "Paris La Défense Arena",
+    "city": "",
     "cc": "FR",
     "lat": null,
     "lng": null,
     "links": [
      {
-      "src": "Ticketmaster.fr",
-      "url": "https://www.ticketmaster.fr/fr/artiste/linkin-park/idartiste/1291"
+      "src": "See Tickets",
+      "url": "https://www.seetickets.com/fr/tg/tour/london-grammar/38978"
      }
     ]
    },
@@ -6397,7 +6917,7 @@
     "links": [
      {
       "src": "Fnac Spectacles",
-      "url": "https://www.fnacspectacles.com/magazine/concerts/linkin-park-concert-2025?srsltid=AU7gw4UYJwgVFIiO-GcQv-ZptJloAA4nexUVOGFMNup9XHWWcVF64e1I"
+      "url": "https://www.fnacspectacles.com/magazine/concerts/linkin-park-concert-2025?srsltid=AYCX9vJ7LHsZS2u7jjcULZDiH5-6X9UYZzwPkebB20jBN3hbUEpb0CUV"
      }
     ]
    },
@@ -6413,7 +6933,23 @@
     "links": [
      {
       "src": "Fnac Spectacles",
-      "url": "https://www.fnacspectacles.com/artist/arctic-monkeys/?srsltid=AU7gw4WjyvlZMyWLQQdneNK_M2llRLdrnPmHg4lykXcCBhnRkl7atdoR"
+      "url": "https://www.fnacspectacles.com/artist/arctic-monkeys/?srsltid=AYCX9vKRGhZjO9Fd22-t1DmRlGa3M-ssqSEUqbBk4oI6JlVtKR5VUQiz"
+     }
+    ]
+   },
+   {
+    "artist": "Justin Bieber",
+    "date": "2023-03-06T00:00:00",
+    "noTime": true,
+    "venue": "",
+    "city": "",
+    "cc": "FR",
+    "lat": null,
+    "lng": null,
+    "links": [
+     {
+      "src": "Ticketmaster.fr",
+      "url": "https://www.ticketmaster.fr/fr/artiste/justin-bieber/idartiste/272"
      }
     ]
    },
@@ -6434,24 +6970,108 @@
     ]
    },
    {
-    "artist": "Fall Out Boy",
-    "date": "2023-10-23T00:00:00",
-    "noTime": true,
-    "venue": "",
-    "city": "",
+    "artist": "David Guetta",
+    "date": "2026-12-06T18:00:00",
+    "noTime": false,
+    "venue": "Stade de France",
+    "city": "Saint-Denis",
     "cc": "FR",
-    "lat": null,
-    "lng": null,
+    "lat": 48.9362,
+    "lng": 2.3574,
     "links": [
      {
-      "src": "Ticketmaster.fr",
-      "url": "https://www.ticketmaster.fr/fr/artiste/fall-out-boy/idartiste/13800"
+      "src": "JamBase",
+      "url": "https://www.jambase.com/show/david-guetta-stade-de-france-20261206?utm_source=google&utm_medium=gac&source=ea"
      }
     ]
    },
    {
-    "artist": "London Grammar",
-    "date": "2024-10-31T00:00:00",
+    "artist": "David Guetta",
+    "date": "2027-06-06T18:30:00",
+    "noTime": false,
+    "venue": "The O2",
+    "city": "London",
+    "cc": "GB",
+    "lat": null,
+    "lng": null,
+    "links": [
+     {
+      "src": "JamBase",
+      "url": "https://www.jambase.com/show/david-guetta-o2-arena-20270606?utm_source=google&utm_medium=gac&source=ea"
+     }
+    ]
+   },
+   {
+    "artist": "David Guetta",
+    "date": "2027-06-27T17:00:00",
+    "noTime": false,
+    "venue": "Plaine de La Filhole",
+    "city": "Marmande",
+    "cc": "FR",
+    "lat": null,
+    "lng": null,
+    "links": [
+     {
+      "src": "Bandsintown",
+      "url": "https://www.bandsintown.com/e/108781424?app_id=ggl_feed&came_from=289&utm_medium=web&utm_source=ggl_feed&utm_campaign=event&source=ea"
+     }
+    ]
+   },
+   {
+    "artist": "David Guetta",
+    "date": "2027-07-03T02:00:00",
+    "noTime": false,
+    "venue": "Citadelle d'Arras",
+    "city": "Arras",
+    "cc": "FR",
+    "lat": 50.291,
+    "lng": 2.7775,
+    "links": [
+     {
+      "src": "JamBase",
+      "url": "https://www.jambase.com/festival/main-square-festival-2027?utm_source=google&utm_medium=gac&source=ea"
+     },
+     {
+      "src": "Bandsintown",
+      "url": "https://www.bandsintown.com/e/108781426?app_id=ggl_feed&came_from=289&utm_medium=web&utm_source=ggl_feed&utm_campaign=event&source=ea"
+     }
+    ]
+   },
+   {
+    "artist": "David Guetta",
+    "date": "2027-07-03T14:30:00",
+    "noTime": false,
+    "venue": "Citadelle d'Arras",
+    "city": "Arras",
+    "cc": "FR",
+    "lat": 50.291,
+    "lng": 2.7775,
+    "links": [
+     {
+      "src": "Bandsintown",
+      "url": "https://www.bandsintown.com/e/108781426?app_id=ggl_feed&came_from=289&utm_medium=web&utm_source=ggl_feed&utm_campaign=event&source=ea"
+     }
+    ]
+   },
+   {
+    "artist": "David Guetta",
+    "date": "2027-07-10T17:00:00",
+    "noTime": false,
+    "venue": "Flugplatz Neustadt-Glewe",
+    "city": "Neustadt-Glewe",
+    "cc": "DE",
+    "lat": null,
+    "lng": null,
+    "links": [
+     {
+      "src": "Bandsintown",
+      "url": "https://www.bandsintown.com/e/108781429?app_id=ggl_feed&came_from=289&utm_medium=web&utm_source=ggl_feed&utm_campaign=event&source=ea"
+     }
+    ]
+   },
+   {
+    "artist": "David Guetta",
+    "date": "2027-06-27T00:00:00",
     "noTime": true,
     "venue": "",
     "city": "",
@@ -6460,8 +7080,8 @@
     "lng": null,
     "links": [
      {
-      "src": "See Tickets",
-      "url": "https://www.seetickets.com/fr/tg/tour/london-grammar/38978"
+      "src": "Fnac Spectacles",
+      "url": "https://www.fnacspectacles.com/artist/david-guetta/?srsltid=AYCX9vJ9R3NGjIqwdEYIyd4IuJGui1tdOBfnWmW1Misgw5CYU3qnWal1"
      }
     ]
    },
@@ -6482,8 +7102,8 @@
     ]
    },
    {
-    "artist": "Hozier",
-    "date": "2023-11-29T00:00:00",
+    "artist": "Justin Timberlake",
+    "date": "2024-09-07T00:00:00",
     "noTime": true,
     "venue": "",
     "city": "",
@@ -6493,23 +7113,7 @@
     "links": [
      {
       "src": "See Tickets",
-      "url": "https://www.seetickets.com/fr/tg/tour/hozier/31233"
-     }
-    ]
-   },
-   {
-    "artist": "Haiden Henderson",
-    "date": "2027-03-03T00:00:00",
-    "noTime": true,
-    "venue": "",
-    "city": "Paris",
-    "cc": "FR",
-    "lat": 48.8566,
-    "lng": 2.3522,
-    "links": [
-     {
-      "src": "Ticketmaster.fr",
-      "url": "https://www.ticketmaster.fr/fr/manifestation/haiden-henderson-the-dumblond-tour-billet/idmanif/672905"
+      "url": "https://www.seetickets.com/fr/tg/tour/justin-timberlake/37493"
      }
     ]
    }
