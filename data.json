@@ -1,5 +1,5 @@
 {
- "at": 1792753130772,
+ "at": 1792836791946,
  "spotifyAt": 1792752995301,
  "artists": [
   {
@@ -1604,42 +1604,6 @@
   }
  ],
  "events": [
-  {
-   "artist": "Eve",
-   "date": "2026-10-23T19:00:00",
-   "noTime": false,
-   "venue": "Zoom Saal",
-   "city": "Frankfurt am Main",
-   "cc": "DE",
-   "lat": 50.12083,
-   "lng": 8.75172,
-   "links": [
-    {
-     "src": "Ticketmaster",
-     "url": "https://www.ticketmaster.de/event/eve-scorpion-tour-tickets/1528340823?language=en-us"
-    }
-   ],
-   "key": "eve|2026-10-23|frankfurt am main",
-   "isNew": false
-  },
-  {
-   "artist": "RAYE",
-   "date": "2026-10-23T20:00:00",
-   "noTime": false,
-   "venue": "Royal Albert Hall",
-   "city": "London",
-   "cc": "GB",
-   "lat": 51.501277,
-   "lng": -0.177552,
-   "links": [
-    {
-     "src": "Ticketmaster",
-     "url": "https://www.ticketmaster.co.uk/raye-this-symphony-may-contain-hope-london-23-10-2026/event/1F00654789A2159B"
-    }
-   ],
-   "key": "raye|2026-10-23|london",
-   "isNew": false
-  },
   {
    "artist": "CeeLo Green",
    "date": "2026-10-24T20:00:00",
@@ -3564,7 +3528,7 @@
     }
    ],
    "key": "david guetta|2026-12-06|saint denis",
-   "isNew": true
+   "isNew": false
   },
   {
    "artist": "Dayseeker",
@@ -4032,7 +3996,7 @@
     }
    ],
    "key": "wind walkers|2027-01-15|cardiff",
-   "isNew": true
+   "isNew": false
   },
   {
    "artist": "ADÉLA",
@@ -4050,7 +4014,7 @@
     }
    ],
    "key": "adela|2027-01-16|manchester",
-   "isNew": true
+   "isNew": false
   },
   {
    "artist": "Wind Walkers",
@@ -4068,7 +4032,7 @@
     }
    ],
    "key": "wind walkers|2027-01-16|london",
-   "isNew": true
+   "isNew": false
   },
   {
    "artist": "Catch Your Breath",
@@ -4104,7 +4068,7 @@
     }
    ],
    "key": "adela|2027-01-17|glasgow",
-   "isNew": true
+   "isNew": false
   },
   {
    "artist": "Wind Walkers",
@@ -4122,7 +4086,7 @@
     }
    ],
    "key": "wind walkers|2027-01-17|manchester",
-   "isNew": true
+   "isNew": false
   },
   {
    "artist": "ADÉLA",
@@ -4140,7 +4104,7 @@
     }
    ],
    "key": "adela|2027-01-19|london",
-   "isNew": true
+   "isNew": false
   },
   {
    "artist": "Muse",
@@ -4176,7 +4140,7 @@
     }
    ],
    "key": "adela|2027-01-20|london",
-   "isNew": true
+   "isNew": false
   },
   {
    "artist": "Wind Walkers",
@@ -4194,7 +4158,7 @@
     }
    ],
    "key": "wind walkers|2027-01-20|birmingham",
-   "isNew": true
+   "isNew": false
   },
   {
    "artist": "Muse",
@@ -4230,7 +4194,7 @@
     }
    ],
    "key": "adela|2027-01-23|cologne",
-   "isNew": true
+   "isNew": false
   },
   {
    "artist": "Muse",
@@ -4320,7 +4284,7 @@
     }
    ],
    "key": "adela|2027-01-26|utrecht",
-   "isNew": true
+   "isNew": false
   },
   {
    "artist": "Two Door Cinema Club",
@@ -4392,7 +4356,7 @@
     }
    ],
    "key": "adela|2027-02-02|berlin",
-   "isNew": true
+   "isNew": false
   },
   {
    "artist": "Two Door Cinema Club",
@@ -4752,7 +4716,7 @@
     }
    ],
    "key": "nessa barrett|2027-03-09|paris",
-   "isNew": true
+   "isNew": false
   },
   {
    "artist": "Nessa Barrett",
@@ -4788,7 +4752,7 @@
     }
    ],
    "key": "nessa barrett|2027-03-12|paris",
-   "isNew": true
+   "isNew": false
   },
   {
    "artist": "Nessa Barrett",
@@ -4824,7 +4788,7 @@
     }
    ],
    "key": "lana del rey|2027-03-12|",
-   "isNew": true
+   "isNew": false
   },
   {
    "artist": "Nessa Barrett",
@@ -5202,7 +5166,7 @@
     }
    ],
    "key": "charlotte cardin|2027-05-01|london",
-   "isNew": true
+   "isNew": false
   },
   {
    "artist": "Olivia Rodrigo",
@@ -5256,7 +5220,7 @@
     }
    ],
    "key": "charlotte cardin|2027-05-05|amsterdam",
-   "isNew": true
+   "isNew": false
   },
   {
    "artist": "Olivia Rodrigo",
@@ -5310,7 +5274,7 @@
     }
    ],
    "key": "charlotte cardin|2027-05-07|cologne",
-   "isNew": true
+   "isNew": false
   },
   {
    "artist": "Olivia Rodrigo",
@@ -5400,7 +5364,7 @@
     }
    ],
    "key": "charlotte cardin|2027-05-10|berlin",
-   "isNew": true
+   "isNew": false
   },
   {
    "artist": "sombr",
@@ -5454,7 +5418,7 @@
     }
    ],
    "key": "charlotte cardin|2027-05-14|munich",
-   "isNew": true
+   "isNew": false
   },
   {
    "artist": "sombr",
@@ -5976,7 +5940,7 @@
     }
    ],
    "key": "david guetta|2027-06-06|london",
-   "isNew": true
+   "isNew": false
   },
   {
    "artist": "Tame Impala",
@@ -6120,7 +6084,7 @@
     }
    ],
    "key": "tame impala|2027-06-13|",
-   "isNew": true
+   "isNew": false
   },
   {
    "artist": "Nickelback",
@@ -6354,7 +6318,7 @@
     }
    ],
    "key": "david guetta|2027-06-27|",
-   "isNew": true
+   "isNew": false
   },
   {
    "artist": "David Guetta",
@@ -6372,7 +6336,7 @@
     }
    ],
    "key": "david guetta|2027-06-27|marmande",
-   "isNew": true
+   "isNew": false
   },
   {
    "artist": "sombr",
@@ -6408,7 +6372,7 @@
     }
    ],
    "key": "bastille|2027-06-30|lancashire",
-   "isNew": true
+   "isNew": false
   },
   {
    "artist": "Harry Styles",
@@ -6448,7 +6412,7 @@
     }
    ],
    "key": "david guetta|2027-07-03|arras",
-   "isNew": true
+   "isNew": false
   },
   {
    "artist": "Harry Styles",
@@ -6520,7 +6484,7 @@
     }
    ],
    "key": "david guetta|2027-07-10|neustadt glewe",
-   "isNew": true
+   "isNew": false
   },
   {
    "artist": "Harry Styles",
@@ -6754,7 +6718,7 @@
     }
    ],
    "key": "charlotte cardin|2027-11-27|brussels",
-   "isNew": true
+   "isNew": false
   }
  ],
  "serp": {
