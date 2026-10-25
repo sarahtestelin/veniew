@@ -1,5 +1,5 @@
 {
- "at": 1792836791946,
+ "at": 1792924701427,
  "spotifyAt": 1792752995301,
  "artists": [
   {
@@ -1604,24 +1604,6 @@
   }
  ],
  "events": [
-  {
-   "artist": "CeeLo Green",
-   "date": "2026-10-24T20:00:00",
-   "noTime": false,
-   "venue": "Uber Eats Music Hall",
-   "city": "Berlin",
-   "cc": "DE",
-   "lat": 52.50512,
-   "lng": 13.44341,
-   "links": [
-    {
-     "src": "Ticketmaster",
-     "url": "https://www.ticketmaster.de/event/ceelo-green-%7C-gallery-seat-tickets/178851803?language=en-us"
-    }
-   ],
-   "key": "ceelo green|2026-10-24|berlin",
-   "isNew": false
-  },
   {
    "artist": "Eve",
    "date": "2026-10-25T20:00:00",
