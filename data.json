@@ -1,5 +1,5 @@
 {
- "at": 1792924701427,
+ "at": 1793016671997,
  "spotifyAt": 1792752995301,
  "artists": [
   {
@@ -1605,24 +1605,6 @@
  ],
  "events": [
   {
-   "artist": "Eve",
-   "date": "2026-10-25T20:00:00",
-   "noTime": false,
-   "venue": "",
-   "city": "Cologne",
-   "cc": "DE",
-   "lat": 50.94918,
-   "lng": 6.91012,
-   "links": [
-    {
-     "src": "Ticketmaster",
-     "url": "https://www.ticketmaster.de/event/eve-scorpion-tour-tickets/342594291?language=en-us"
-    }
-   ],
-   "key": "eve|2026-10-25|cologne",
-   "isNew": false
-  },
-  {
    "artist": "Placebo",
    "date": "2026-10-26T20:00:00",
    "noTime": false,
@@ -2919,24 +2901,6 @@
    "isNew": false
   },
   {
-   "artist": "GIMS",
-   "date": "2026-11-24T20:00:00",
-   "noTime": false,
-   "venue": "ING ARENA",
-   "city": "Brussels",
-   "cc": "BE",
-   "lat": 50.90095,
-   "lng": 4.34368,
-   "links": [
-    {
-     "src": "Ticketmaster",
-     "url": "https://www.ticketmaster.be/event/gims-carpe-diem-tour-tickets/1115594934"
-    }
-   ],
-   "key": "gims|2026-11-24|brussels",
-   "isNew": false
-  },
-  {
    "artist": "Muse",
    "date": "2026-11-25T19:30:00",
    "noTime": false,
@@ -3006,24 +2970,6 @@
     }
    ],
    "key": "ella boh|2026-11-25|hamburg",
-   "isNew": false
-  },
-  {
-   "artist": "GIMS",
-   "date": "2026-11-25T20:00:00",
-   "noTime": false,
-   "venue": "ING ARENA",
-   "city": "Brussels",
-   "cc": "BE",
-   "lat": 50.90095,
-   "lng": 4.34368,
-   "links": [
-    {
-     "src": "Ticketmaster",
-     "url": "https://www.ticketmaster.be/event/gims-carpe-diem-tour-tickets/367817000"
-    }
-   ],
-   "key": "gims|2026-11-25|brussels",
    "isNew": false
   },
   {
@@ -4090,7 +4036,7 @@
   },
   {
    "artist": "Muse",
-   "date": "2027-01-19T20:30:00",
+   "date": "2027-01-19T21:00:00",
    "noTime": false,
    "venue": "Movistar Arena",
    "city": "Madrid",
@@ -4144,7 +4090,7 @@
   },
   {
    "artist": "Muse",
-   "date": "2027-01-20T20:30:00",
+   "date": "2027-01-20T21:00:00",
    "noTime": false,
    "venue": "Movistar Arena",
    "city": "Madrid",
@@ -4180,7 +4126,7 @@
   },
   {
    "artist": "Muse",
-   "date": "2027-01-23T20:30:00",
+   "date": "2027-01-23T21:00:00",
    "noTime": false,
    "venue": "Roig Arena",
    "city": "Valencia",
@@ -4216,7 +4162,7 @@
   },
   {
    "artist": "Muse",
-   "date": "2027-01-24T20:30:00",
+   "date": "2027-01-24T21:00:00",
    "noTime": false,
    "venue": "Roig Arena",
    "city": "Valencia",
@@ -6087,6 +6033,42 @@
    "isNew": false
   },
   {
+   "artist": "5 Seconds of Summer",
+   "date": "2027-06-17T00:00:00",
+   "noTime": true,
+   "venue": "Isle of Wight Festival",
+   "city": "Newport",
+   "cc": "GB",
+   "lat": 50.706682,
+   "lng": -1.289538,
+   "links": [
+    {
+     "src": "Ticketmaster",
+     "url": "https://www.ticketmaster.co.uk/isle-of-wight-festival-2027-weekend-newport-17-06-2027/event/1F0064B5B58E46B8"
+    }
+   ],
+   "key": "5 seconds of summer|2027-06-17|newport",
+   "isNew": true
+  },
+  {
+   "artist": "Bastille",
+   "date": "2027-06-17T00:00:00",
+   "noTime": true,
+   "venue": "Isle of Wight Festival",
+   "city": "Newport",
+   "cc": "GB",
+   "lat": 50.706682,
+   "lng": -1.289538,
+   "links": [
+    {
+     "src": "Ticketmaster",
+     "url": "https://www.ticketmaster.co.uk/isle-of-wight-festival-2027-weekend-newport-17-06-2027/event/1F0064B5B58E46B8"
+    }
+   ],
+   "key": "bastille|2027-06-17|newport",
+   "isNew": true
+  },
+  {
    "artist": "sombr",
    "date": "2027-06-17T18:00:00",
    "noTime": false,
@@ -6103,6 +6085,42 @@
    ],
    "key": "sombr|2027-06-17|belfast",
    "isNew": false
+  },
+  {
+   "artist": "RAYE",
+   "date": "2027-06-18T12:00:00",
+   "noTime": false,
+   "venue": "Megaland",
+   "city": "Landgraaf",
+   "cc": "NL",
+   "lat": 50.88219,
+   "lng": 6.02,
+   "links": [
+    {
+     "src": "Ticketmaster",
+     "url": "https://www.ticketmaster.nl/event/pinkpop-2027-%7C-friday-tickets/1090844034?language=en-us"
+    }
+   ],
+   "key": "raye|2027-06-18|landgraaf",
+   "isNew": true
+  },
+  {
+   "artist": "Bastille",
+   "date": "2027-06-18T12:00:00",
+   "noTime": false,
+   "venue": "Megaland",
+   "city": "Landgraaf",
+   "cc": "NL",
+   "lat": 50.88219,
+   "lng": 6.02,
+   "links": [
+    {
+     "src": "Ticketmaster",
+     "url": "https://www.ticketmaster.nl/event/pinkpop-2027-%7C-friday-tickets/1090844034?language=en-us"
+    }
+   ],
+   "key": "bastille|2027-06-18|landgraaf",
+   "isNew": true
   },
   {
    "artist": "Olly Murs",
@@ -6157,6 +6175,42 @@
    ],
    "key": "nickelback|2027-06-19|munich",
    "isNew": false
+  },
+  {
+   "artist": "The Neighbourhood",
+   "date": "2027-06-20T12:00:00",
+   "noTime": false,
+   "venue": "Megaland",
+   "city": "Landgraaf",
+   "cc": "NL",
+   "lat": 50.88219,
+   "lng": 6.02,
+   "links": [
+    {
+     "src": "Ticketmaster",
+     "url": "https://www.ticketmaster.nl/event/pinkpop-2027-%7C-sunday-tickets/1727667996?language=en-us"
+    }
+   ],
+   "key": "the neighbourhood|2027-06-20|landgraaf",
+   "isNew": true
+  },
+  {
+   "artist": "5 Seconds of Summer",
+   "date": "2027-06-20T12:00:00",
+   "noTime": false,
+   "venue": "Megaland",
+   "city": "Landgraaf",
+   "cc": "NL",
+   "lat": 50.88219,
+   "lng": 6.02,
+   "links": [
+    {
+     "src": "Ticketmaster",
+     "url": "https://www.ticketmaster.nl/event/pinkpop-2027-%7C-sunday-tickets/1727667996?language=en-us"
+    }
+   ],
+   "key": "5 seconds of summer|2027-06-20|landgraaf",
+   "isNew": true
   },
   {
    "artist": "Nickelback",
@@ -6701,6 +6755,42 @@
    ],
    "key": "charlotte cardin|2027-11-27|brussels",
    "isNew": false
+  },
+  {
+   "artist": "GIMS",
+   "date": "2027-11-29T20:00:00",
+   "noTime": false,
+   "venue": "ING ARENA",
+   "city": "Brussels",
+   "cc": "BE",
+   "lat": 50.90095,
+   "lng": 4.34368,
+   "links": [
+    {
+     "src": "Ticketmaster",
+     "url": "https://www.ticketmaster.be/event/gims-carpe-diem-tour-tickets/1115594934"
+    }
+   ],
+   "key": "gims|2027-11-29|brussels",
+   "isNew": true
+  },
+  {
+   "artist": "GIMS",
+   "date": "2027-11-30T20:00:00",
+   "noTime": false,
+   "venue": "ING ARENA",
+   "city": "Brussels",
+   "cc": "BE",
+   "lat": 50.90095,
+   "lng": 4.34368,
+   "links": [
+    {
+     "src": "Ticketmaster",
+     "url": "https://www.ticketmaster.be/event/gims-carpe-diem-tour-tickets/367817000"
+    }
+   ],
+   "key": "gims|2027-11-30|brussels",
+   "isNew": true
   }
  ],
  "serp": {
