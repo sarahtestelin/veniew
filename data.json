@@ -1,5 +1,5 @@
 {
- "at": 1793016671997,
+ "at": 1793100770364,
  "spotifyAt": 1792752995301,
  "artists": [
   {
@@ -1606,24 +1606,6 @@
  "events": [
   {
    "artist": "Placebo",
-   "date": "2026-10-26T20:00:00",
-   "noTime": false,
-   "venue": "Barclays Arena",
-   "city": "Hamburg",
-   "cc": "DE",
-   "lat": 53.58894,
-   "lng": 9.899,
-   "links": [
-    {
-     "src": "Ticketmaster",
-     "url": "https://www.ticketmaster.de/event/placebo-30th-anniversary-tour-tickets/804638354?language=en-us"
-    }
-   ],
-   "key": "placebo|2026-10-26|hamburg",
-   "isNew": false
-  },
-  {
-   "artist": "Placebo",
    "date": "2026-10-27T20:00:00",
    "noTime": false,
    "venue": "Ziggo Dome",
@@ -2577,24 +2559,6 @@
    "isNew": false
   },
   {
-   "artist": "John Newman",
-   "date": "2026-11-20T18:00:00",
-   "noTime": false,
-   "venue": "bp pulse LIVE",
-   "city": "Birmingham",
-   "cc": "GB",
-   "lat": 52.453057,
-   "lng": -1.720073,
-   "links": [
-    {
-     "src": "Ticketmaster",
-     "url": "https://www.ticketmaster.co.uk/hits-radio-live-birmingham-2026-birmingham-20-11-2026/event/230063738E3512B9"
-    }
-   ],
-   "key": "john newman|2026-11-20|birmingham",
-   "isNew": false
-  },
-  {
    "artist": "Amber Run",
    "date": "2026-11-20T18:30:00",
    "noTime": false,
@@ -2628,6 +2592,24 @@
     }
    ],
    "key": "julia wolf|2026-11-20|leeds",
+   "isNew": false
+  },
+  {
+   "artist": "John Newman",
+   "date": "2026-11-20T19:30:00",
+   "noTime": false,
+   "venue": "bp pulse LIVE",
+   "city": "Birmingham",
+   "cc": "GB",
+   "lat": 52.453057,
+   "lng": -1.720073,
+   "links": [
+    {
+     "src": "Ticketmaster",
+     "url": "https://www.ticketmaster.co.uk/hits-radio-live-birmingham-2026-birmingham-20-11-2026/event/230063738E3512B9"
+    }
+   ],
+   "key": "john newman|2026-11-20|birmingham",
    "isNew": false
   },
   {
@@ -6048,7 +6030,7 @@
     }
    ],
    "key": "5 seconds of summer|2027-06-17|newport",
-   "isNew": true
+   "isNew": false
   },
   {
    "artist": "Bastille",
@@ -6066,7 +6048,7 @@
     }
    ],
    "key": "bastille|2027-06-17|newport",
-   "isNew": true
+   "isNew": false
   },
   {
    "artist": "sombr",
@@ -6102,7 +6084,7 @@
     }
    ],
    "key": "raye|2027-06-18|landgraaf",
-   "isNew": true
+   "isNew": false
   },
   {
    "artist": "Bastille",
@@ -6120,7 +6102,7 @@
     }
    ],
    "key": "bastille|2027-06-18|landgraaf",
-   "isNew": true
+   "isNew": false
   },
   {
    "artist": "Olly Murs",
@@ -6192,7 +6174,7 @@
     }
    ],
    "key": "the neighbourhood|2027-06-20|landgraaf",
-   "isNew": true
+   "isNew": false
   },
   {
    "artist": "5 Seconds of Summer",
@@ -6210,7 +6192,7 @@
     }
    ],
    "key": "5 seconds of summer|2027-06-20|landgraaf",
-   "isNew": true
+   "isNew": false
   },
   {
    "artist": "Nickelback",
@@ -6541,6 +6523,24 @@
    "isNew": false
   },
   {
+   "artist": "Olly Murs",
+   "date": "2027-07-16T18:45:00",
+   "noTime": false,
+   "venue": "Edinburgh Castle Esplanade",
+   "city": "Edinburgh",
+   "cc": "GB",
+   "lat": 55.94897,
+   "lng": -3.201479,
+   "links": [
+    {
+     "src": "Ticketmaster",
+     "url": "https://www.ticketmaster.co.uk/olly-murs-edinburgh-16-07-2027/event/3600655AFD1ED062"
+    }
+   ],
+   "key": "olly murs|2027-07-16|edinburgh",
+   "isNew": true
+  },
+  {
    "artist": "The Neighbourhood",
    "date": "2027-07-17T11:00:00",
    "noTime": false,
@@ -6772,7 +6772,7 @@
     }
    ],
    "key": "gims|2027-11-29|brussels",
-   "isNew": true
+   "isNew": false
   },
   {
    "artist": "GIMS",
@@ -6790,7 +6790,7 @@
     }
    ],
    "key": "gims|2027-11-30|brussels",
-   "isNew": true
+   "isNew": false
   }
  ],
  "serp": {
