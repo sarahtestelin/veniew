@@ -1,5 +1,5 @@
 {
- "at": 1793100770364,
+ "at": 1793188979304,
  "spotifyAt": 1792752995301,
  "artists": [
   {
@@ -1604,24 +1604,6 @@
   }
  ],
  "events": [
-  {
-   "artist": "Placebo",
-   "date": "2026-10-27T20:00:00",
-   "noTime": false,
-   "venue": "Ziggo Dome",
-   "city": "Amsterdam",
-   "cc": "NL",
-   "lat": 52.31395,
-   "lng": 4.93837,
-   "links": [
-    {
-     "src": "Ticketmaster",
-     "url": "https://www.ticketmaster.nl/event/placebo-tickets/1031560448?language=en-us"
-    }
-   ],
-   "key": "placebo|2026-10-27|amsterdam",
-   "isNew": false
-  },
   {
    "artist": "AURORA",
    "date": "2026-10-28T19:00:00",
@@ -5331,6 +5313,24 @@
    "isNew": false
   },
   {
+   "artist": "Olly Murs",
+   "date": "2027-05-15T18:00:00",
+   "noTime": false,
+   "venue": "Higginson Park",
+   "city": "Buckinghamshire",
+   "cc": "GB",
+   "lat": 55.860187,
+   "lng": -4.254323,
+   "links": [
+    {
+     "src": "Ticketmaster",
+     "url": "https://www.universe.com/events/pub-in-the-park-2027-olly-murs-saturday-evening-session-tickets-HTFDXL?ref=ticketmaster"
+    }
+   ],
+   "key": "olly murs|2027-05-15|buckinghamshire",
+   "isNew": true
+  },
+  {
    "artist": "sombr",
    "date": "2027-05-16T18:00:00",
    "noTime": false,
@@ -6393,6 +6393,24 @@
    "isNew": false
   },
   {
+   "artist": "Muse",
+   "date": "2027-07-02T00:00:00",
+   "noTime": true,
+   "venue": "Festivalpark Werchter",
+   "city": "Werchter",
+   "cc": "BE",
+   "lat": 50.97278,
+   "lng": 4.70007,
+   "links": [
+    {
+     "src": "Ticketmaster",
+     "url": "https://www.ticketmaster.be/event/rock-werchter-2027-%7C-one-day-backyard-friday-tickets/1574918925"
+    }
+   ],
+   "key": "muse|2027-07-02|werchter",
+   "isNew": true
+  },
+  {
    "artist": "Harry Styles",
    "date": "2027-07-02T19:00:00",
    "noTime": false,
@@ -6449,6 +6467,60 @@
    ],
    "key": "harry styles|2027-07-03|berlin",
    "isNew": false
+  },
+  {
+   "artist": "Tame Impala",
+   "date": "2027-07-04T00:00:00",
+   "noTime": true,
+   "venue": "Festivalpark Werchter",
+   "city": "Werchter",
+   "cc": "BE",
+   "lat": 50.97278,
+   "lng": 4.70007,
+   "links": [
+    {
+     "src": "Ticketmaster",
+     "url": "https://www.ticketmaster.be/event/rock-werchter-2027-%7C-one-day-backyard-sunday-tickets/2088837827"
+    }
+   ],
+   "key": "tame impala|2027-07-04|werchter",
+   "isNew": true
+  },
+  {
+   "artist": "sombr",
+   "date": "2027-07-04T00:00:00",
+   "noTime": true,
+   "venue": "Festivalpark Werchter",
+   "city": "Werchter",
+   "cc": "BE",
+   "lat": 50.97278,
+   "lng": 4.70007,
+   "links": [
+    {
+     "src": "Ticketmaster",
+     "url": "https://www.ticketmaster.be/event/rock-werchter-2027-%7C-one-day-backyard-sunday-tickets/2088837827"
+    }
+   ],
+   "key": "sombr|2027-07-04|werchter",
+   "isNew": true
+  },
+  {
+   "artist": "Muse",
+   "date": "2027-07-04T00:00:00",
+   "noTime": true,
+   "venue": "Festivalpark Werchter",
+   "city": "Werchter",
+   "cc": "BE",
+   "lat": 50.97278,
+   "lng": 4.70007,
+   "links": [
+    {
+     "src": "Ticketmaster",
+     "url": "https://www.ticketmaster.be/event/rock-werchter-2027-%7C-four-day-ticket-tickets/1418758397"
+    }
+   ],
+   "key": "muse|2027-07-04|werchter",
+   "isNew": true
   },
   {
    "artist": "Olly Murs",
@@ -6538,7 +6610,7 @@
     }
    ],
    "key": "olly murs|2027-07-16|edinburgh",
-   "isNew": true
+   "isNew": false
   },
   {
    "artist": "The Neighbourhood",
