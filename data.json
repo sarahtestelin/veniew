@@ -1,5 +1,5 @@
 {
- "at": 1793188979304,
+ "at": 1793276008004,
  "spotifyAt": 1792752995301,
  "artists": [
   {
@@ -1605,42 +1605,6 @@
  ],
  "events": [
   {
-   "artist": "AURORA",
-   "date": "2026-10-28T19:00:00",
-   "noTime": false,
-   "venue": "Roundhouse",
-   "city": "London",
-   "cc": "GB",
-   "lat": 51.543051,
-   "lng": -0.151324,
-   "links": [
-    {
-     "src": "Ticketmaster",
-     "url": "https://www.ticketmaster.co.uk/tomora-london-28-10-2026/event/1F006479E2B0983D"
-    }
-   ],
-   "key": "aurora|2026-10-28|london",
-   "isNew": false
-  },
-  {
-   "artist": "The Fray",
-   "date": "2026-10-28T20:00:00",
-   "noTime": false,
-   "venue": "Tempodrom",
-   "city": "Berlin",
-   "cc": "DE",
-   "lat": 52.50152,
-   "lng": 13.38175,
-   "links": [
-    {
-     "src": "Ticketmaster",
-     "url": "https://www.ticketmaster.de/event/the-fray-autumn-light-tour-tickets/1676374779?language=en-us"
-    }
-   ],
-   "key": "the fray|2026-10-28|berlin",
-   "isNew": false
-  },
-  {
    "artist": "Max Fry",
    "date": "2026-10-29T19:30:00",
    "noTime": false,
@@ -2606,7 +2570,7 @@
    "links": [
     {
      "src": "Ticketmaster",
-     "url": "https://www.ticketmaster.co.uk/pure-rnb-presents-jason-derulo-live-leicester-20-11-2026/event/370065568EE3405B"
+     "url": "https://www.ticketmaster.co.uk/pure-rnb-presents-jason-derulo-leicester-20-11-2026/event/370065568EE3405B"
     }
    ],
    "key": "jason derulo|2026-11-20|leicester",
@@ -2642,7 +2606,7 @@
    "links": [
     {
      "src": "Ticketmaster",
-     "url": "https://www.ticketmaster.co.uk/pure-rnb-presents-jason-derulo-live-liverpool-21-11-2026/event/370065568F97420F"
+     "url": "https://www.ticketmaster.co.uk/pure-rnb-presents-jason-derulo-liverpool-21-11-2026/event/370065568F97420F"
     }
    ],
    "key": "jason derulo|2026-11-21|liverpool",
@@ -5328,7 +5292,7 @@
     }
    ],
    "key": "olly murs|2027-05-15|buckinghamshire",
-   "isNew": true
+   "isNew": false
   },
   {
    "artist": "sombr",
@@ -6408,7 +6372,7 @@
     }
    ],
    "key": "muse|2027-07-02|werchter",
-   "isNew": true
+   "isNew": false
   },
   {
    "artist": "Harry Styles",
@@ -6484,7 +6448,7 @@
     }
    ],
    "key": "tame impala|2027-07-04|werchter",
-   "isNew": true
+   "isNew": false
   },
   {
    "artist": "sombr",
@@ -6502,7 +6466,7 @@
     }
    ],
    "key": "sombr|2027-07-04|werchter",
-   "isNew": true
+   "isNew": false
   },
   {
    "artist": "Muse",
@@ -6520,7 +6484,7 @@
     }
    ],
    "key": "muse|2027-07-04|werchter",
-   "isNew": true
+   "isNew": false
   },
   {
    "artist": "Olly Murs",
