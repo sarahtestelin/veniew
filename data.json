@@ -1,6 +1,6 @@
 {
- "at": 1793276008004,
- "spotifyAt": 1792752995301,
+ "at": 1793361893898,
+ "spotifyAt": 1793361760217,
  "artists": [
   {
    "name": "The Neighbourhood",
@@ -12,11 +12,11 @@
   },
   {
    "name": "Artemas",
-   "score": 134
+   "score": 136
   },
   {
    "name": "Bring Me The Horizon",
-   "score": 88
+   "score": 89
   },
   {
    "name": "Lana Del Rey",
@@ -32,19 +32,19 @@
   },
   {
    "name": "Chase Atlantic",
-   "score": 65
+   "score": 66
   },
   {
    "name": "Henry Morris",
-   "score": 63
+   "score": 65
   },
   {
    "name": "PLVTINUM",
-   "score": 62
+   "score": 63
   },
   {
    "name": "Isabel LaRosa",
-   "score": 61
+   "score": 60
   },
   {
    "name": "Presley Regier",
@@ -64,7 +64,11 @@
   },
   {
    "name": "Catch Your Breath",
-   "score": 52
+   "score": 51
+  },
+  {
+   "name": "Arctic Monkeys",
+   "score": 50
   },
   {
    "name": "Britney Spears",
@@ -72,51 +76,43 @@
   },
   {
    "name": "Ella Boh",
-   "score": 48
+   "score": 49
   },
   {
    "name": "Pierce The Veil",
-   "score": 46
+   "score": 47
   },
   {
    "name": "d4vd",
-   "score": 46
+   "score": 47
   },
   {
    "name": "London Grammar",
    "score": 45
   },
   {
-   "name": "Ariana Grande",
-   "score": 44
-  },
-  {
    "name": "Linkin Park",
-   "score": 44
+   "score": 45
   },
   {
-   "name": "Arctic Monkeys",
-   "score": 42
+   "name": "Ariana Grande",
+   "score": 43
   },
   {
    "name": "Justin Bieber",
    "score": 40
   },
   {
-   "name": "Kanye West",
-   "score": 39
+   "name": "Chris Grey",
+   "score": 38
   },
   {
-   "name": "Chris Grey",
+   "name": "Kanye West",
    "score": 38
   },
   {
    "name": "Dutch Melrose",
    "score": 37
-  },
-  {
-   "name": "Katy Perry",
-   "score": 35
   },
   {
    "name": "Panic! At The Disco",
@@ -127,19 +123,19 @@
    "score": 34
   },
   {
-   "name": "David Guetta",
-   "score": 34
-  },
-  {
-   "name": "Hamza",
-   "score": 34
-  },
-  {
    "name": "Ellie Goulding",
    "score": 34
   },
   {
-   "name": "Eve",
+   "name": "David Guetta",
+   "score": 34
+  },
+  {
+   "name": "Katy Perry",
+   "score": 33
+  },
+  {
+   "name": "Hamza",
    "score": 33
   },
   {
@@ -147,7 +143,15 @@
    "score": 32
   },
   {
+   "name": "Eve",
+   "score": 32
+  },
+  {
    "name": "Fall Out Boy",
+   "score": 32
+  },
+  {
+   "name": "Haiden Henderson",
    "score": 31
   },
   {
@@ -155,23 +159,23 @@
    "score": 31
   },
   {
-   "name": "Justin Timberlake",
-   "score": 30
-  },
-  {
    "name": "Bruno Mars",
    "score": 30
   },
   {
    "name": "Motionless In White",
-   "score": 30
-  },
-  {
-   "name": "Mr.Kitty",
    "score": 29
   },
   {
+   "name": "Bad Omens",
+   "score": 28
+  },
+  {
    "name": "Damso",
+   "score": 28
+  },
+  {
+   "name": "Mr.Kitty",
    "score": 28
   },
   {
@@ -187,23 +191,15 @@
    "score": 26
   },
   {
-   "name": "Bad Omens",
-   "score": 26
-  },
-  {
    "name": "Jutes",
    "score": 25
   },
   {
-   "name": "Haiden Henderson",
-   "score": 25
+   "name": "Three Days Grace",
+   "score": 24
   },
   {
    "name": "Maroon 5",
-   "score": 23
-  },
-  {
-   "name": "Olly Alexander (Years & Years)",
    "score": 23
   },
   {
@@ -211,16 +207,12 @@
    "score": 23
   },
   {
-   "name": "Lisp",
-   "score": 23
-  },
-  {
    "name": "GIMS",
    "score": 23
   },
   {
-   "name": "Three Days Grace",
-   "score": 22
+   "name": "Justin Timberlake",
+   "score": 23
   },
   {
    "name": "Pitbull",
@@ -236,7 +228,7 @@
   },
   {
    "name": "Nekfeu",
-   "score": 20
+   "score": 21
   },
   {
    "name": "Tatsuya Kitani",
@@ -255,11 +247,11 @@
    "score": 19
   },
   {
-   "name": "sombr",
+   "name": "ADÉLA",
    "score": 18
   },
   {
-   "name": "ADÉLA",
+   "name": "sombr",
    "score": 18
   },
   {
@@ -269,6 +261,10 @@
   {
    "name": "Caskets",
    "score": 17
+  },
+  {
+   "name": "Olly Alexander (Years & Years)",
+   "score": 16
   },
   {
    "name": "Selena Gomez",
@@ -292,10 +288,14 @@
   },
   {
    "name": "Jesse®",
-   "score": 15
+   "score": 16
   },
   {
    "name": "Charli xcx",
+   "score": 15
+  },
+  {
+   "name": "Lisp",
    "score": 15
   },
   {
@@ -312,10 +312,6 @@
   },
   {
    "name": "Ex Habit",
-   "score": 13
-  },
-  {
-   "name": "The Killers",
    "score": 13
   },
   {
@@ -339,12 +335,12 @@
    "score": 13
   },
   {
-   "name": "Kae",
+   "name": "The Killers",
    "score": 13
   },
   {
-   "name": "Thousand Foot Krutch",
-   "score": 12
+   "name": "Kae",
+   "score": 13
   },
   {
    "name": "Sean Paul",
@@ -352,10 +348,6 @@
   },
   {
    "name": "Tayc",
-   "score": 12
-  },
-  {
-   "name": "Golden Cats",
    "score": 12
   },
   {
@@ -404,7 +396,7 @@
   },
   {
    "name": "New Medicine",
-   "score": 10
+   "score": 11
   },
   {
    "name": "Blue Foundation",
@@ -433,6 +425,10 @@
   {
    "name": "MXZI",
    "score": 10
+  },
+  {
+   "name": "Wind Walkers",
+   "score": 9
   },
   {
    "name": "Chris Isaak",
@@ -483,8 +479,8 @@
    "score": 9
   },
   {
-   "name": "Wind Walkers",
-   "score": 9
+   "name": "Justice",
+   "score": 8
   },
   {
    "name": "Feist",
@@ -512,10 +508,6 @@
   },
   {
    "name": "YOASOBI",
-   "score": 8
-  },
-  {
-   "name": "Justice",
    "score": 8
   },
   {
@@ -599,10 +591,6 @@
    "score": 7
   },
   {
-   "name": "Lorde",
-   "score": 7
-  },
-  {
    "name": "Ludacris",
    "score": 7
   },
@@ -631,7 +619,15 @@
    "score": 7
   },
   {
+   "name": "Dexter and The Moonrocks",
+   "score": 6
+  },
+  {
    "name": "Depeche Mode",
+   "score": 6
+  },
+  {
+   "name": "Golden Cats",
    "score": 6
   },
   {
@@ -715,10 +711,6 @@
    "score": 6
   },
   {
-   "name": "Flume",
-   "score": 6
-  },
-  {
    "name": "Odetari",
    "score": 6
   },
@@ -732,6 +724,10 @@
   },
   {
    "name": "Selena Gomez & The Scene",
+   "score": 6
+  },
+  {
+   "name": "Lorde",
    "score": 6
   },
   {
@@ -763,11 +759,11 @@
    "score": 6
   },
   {
-   "name": "Dexter and The Moonrocks",
+   "name": "Nirvana",
    "score": 5
   },
   {
-   "name": "Nirvana",
+   "name": "Thousand Foot Krutch",
    "score": 5
   },
   {
@@ -856,6 +852,10 @@
   },
   {
    "name": "The Pretty Reckless",
+   "score": 5
+  },
+  {
+   "name": "Flume",
    "score": 5
   },
   {
@@ -1040,10 +1040,6 @@
   },
   {
    "name": "ALB",
-   "score": 4
-  },
-  {
-   "name": "Charlotte Cardin",
    "score": 4
   },
   {
@@ -1379,6 +1375,10 @@
    "score": 3
   },
   {
+   "name": "Charlotte Cardin",
+   "score": 3
+  },
+  {
    "name": "cloudyfield",
    "score": 3
   },
@@ -1460,6 +1460,10 @@
   },
   {
    "name": "Falling In Reverse",
+   "score": 3
+  },
+  {
+   "name": "Bullet For My Valentine",
    "score": 3
   },
   {
@@ -1597,49 +1601,9 @@
   {
    "name": "BB Brunes",
    "score": 3
-  },
-  {
-   "name": "Mozart Opera Rock",
-   "score": 3
   }
  ],
  "events": [
-  {
-   "artist": "Max Fry",
-   "date": "2026-10-29T19:30:00",
-   "noTime": false,
-   "venue": "YES (Pink Room)",
-   "city": "Manchester",
-   "cc": "GB",
-   "lat": 53.474109,
-   "lng": -2.238335,
-   "links": [
-    {
-     "src": "Ticketmaster",
-     "url": "https://www.universe.com/events/max-fry-tickets-HWLJDZ?ref=ticketmaster"
-    }
-   ],
-   "key": "max fry|2026-10-29|manchester",
-   "isNew": false
-  },
-  {
-   "artist": "Placebo",
-   "date": "2026-10-29T20:00:00",
-   "noTime": false,
-   "venue": "",
-   "city": "Frankfurt am Main",
-   "cc": "DE",
-   "lat": 50.11233,
-   "lng": 8.65073,
-   "links": [
-    {
-     "src": "Ticketmaster",
-     "url": "https://www.ticketmaster.de/event/placebo-30th-anniversary-tour-tickets/341957358?language=en-us"
-    }
-   ],
-   "key": "placebo|2026-10-29|frankfurt am main",
-   "isNew": false
-  },
   {
    "artist": "Macklemore",
    "date": "2026-10-30T18:00:00",
@@ -3840,15 +3804,15 @@
    "artist": "Wind Walkers",
    "date": "2027-01-15T19:00:00",
    "noTime": false,
-   "venue": "Cardiff University Students Union",
+   "venue": "Y Plas, Cardiff Students Union",
    "city": "Cardiff",
    "cc": "GB",
-   "lat": 51.488423,
-   "lng": -3.177473,
+   "lat": 51.48842026,
+   "lng": -3.17746157,
    "links": [
     {
      "src": "Ticketmaster",
-     "url": "https://www.ticketmaster.co.uk/wage-war-cardiff-15-01-2027/event/1F0064B4DDF66A25"
+     "url": "https://www.universe.com/events/wage-war-tickets-4TL7JY?ref=ticketmaster"
     }
    ],
    "key": "wind walkers|2027-01-15|cardiff",
@@ -4305,6 +4269,24 @@
    "isNew": false
   },
   {
+   "artist": "Bullet For My Valentine",
+   "date": "2027-02-19T20:00:00",
+   "noTime": false,
+   "venue": "",
+   "city": "Amsterdam",
+   "cc": "NL",
+   "lat": 52.31236,
+   "lng": 4.94415,
+   "links": [
+    {
+     "src": "Ticketmaster",
+     "url": "https://www.ticketmaster.nl/event/bullet-for-my-valentine-tickets/1478608729?language=en-us"
+    }
+   ],
+   "key": "bullet for my valentine|2027-02-19|amsterdam",
+   "isNew": true
+  },
+  {
    "artist": "Charli xcx",
    "date": "2027-02-20T18:30:00",
    "noTime": false,
@@ -4321,6 +4303,24 @@
    ],
    "key": "charli xcx|2027-02-20|london",
    "isNew": false
+  },
+  {
+   "artist": "Bullet For My Valentine",
+   "date": "2027-02-20T18:30:00",
+   "noTime": false,
+   "venue": "Vorst Nationaal/Forest National",
+   "city": "Forest (Brussels)",
+   "cc": "BE",
+   "lat": 50.80999,
+   "lng": 4.32601,
+   "links": [
+    {
+     "src": "Ticketmaster",
+     "url": "https://www.ticketmaster.be/event/bullet-for-my-valentine-social-apocalypse-2027-tickets/350392127"
+    }
+   ],
+   "key": "bullet for my valentine|2027-02-20|forest brussels",
+   "isNew": true
   },
   {
    "artist": "Haiden Henderson",
@@ -4375,6 +4375,24 @@
    ],
    "key": "charli xcx|2027-02-22|amsterdam",
    "isNew": false
+  },
+  {
+   "artist": "Bullet For My Valentine",
+   "date": "2027-02-23T18:00:00",
+   "noTime": false,
+   "venue": "OVO Hydro",
+   "city": "Glasgow",
+   "cc": "GB",
+   "lat": 55.86087,
+   "lng": -4.288154,
+   "links": [
+    {
+     "src": "Ticketmaster",
+     "url": "https://www.ticketmaster.co.uk/venue-premium-bullet-for-my-valentine-glasgow-23-02-2027/event/36006537E1B1918A"
+    }
+   ],
+   "key": "bullet for my valentine|2027-02-23|glasgow",
+   "isNew": true
   },
   {
    "artist": "Haiden Henderson",
@@ -4447,6 +4465,60 @@
    ],
    "key": "haiden henderson|2027-02-25|birmingham",
    "isNew": false
+  },
+  {
+   "artist": "Bullet For My Valentine",
+   "date": "2027-02-25T19:00:00",
+   "noTime": false,
+   "venue": "bp pulse LIVE",
+   "city": "Birmingham",
+   "cc": "GB",
+   "lat": 52.453057,
+   "lng": -1.720073,
+   "links": [
+    {
+     "src": "Ticketmaster",
+     "url": "https://www.ticketmaster.co.uk/bullet-for-my-valentine-pendulum-live-birmingham-25-02-2027/event/23006535AB100BB8"
+    }
+   ],
+   "key": "bullet for my valentine|2027-02-25|birmingham",
+   "isNew": true
+  },
+  {
+   "artist": "Bullet For My Valentine",
+   "date": "2027-02-26T18:00:00",
+   "noTime": false,
+   "venue": "The O2",
+   "city": "London",
+   "cc": "GB",
+   "lat": 51.501581,
+   "lng": 0.005519,
+   "links": [
+    {
+     "src": "Ticketmaster",
+     "url": "https://www.ticketmaster.co.uk/bullet-for-my-valentine-pendulum-live-london-26-02-2027/event/3500653682AD1452"
+    }
+   ],
+   "key": "bullet for my valentine|2027-02-26|london",
+   "isNew": true
+  },
+  {
+   "artist": "Bullet For My Valentine",
+   "date": "2027-02-27T18:00:00",
+   "noTime": false,
+   "venue": "AO Arena",
+   "city": "Manchester",
+   "cc": "GB",
+   "lat": 53.488164,
+   "lng": -2.244066,
+   "links": [
+    {
+     "src": "Ticketmaster",
+     "url": "https://www.ticketmaster.co.uk/bullet-for-my-valentine-venue-premium-manchester-27-02-2027/event/1F0065398F202643"
+    }
+   ],
+   "key": "bullet for my valentine|2027-02-27|manchester",
+   "isNew": true
   },
   {
    "artist": "Haiden Henderson",
@@ -5221,6 +5293,24 @@
    ],
    "key": "charlotte cardin|2027-05-10|berlin",
    "isNew": false
+  },
+  {
+   "artist": "Olly Murs",
+   "date": "2027-05-14T18:00:00",
+   "noTime": false,
+   "venue": "Higginson Park",
+   "city": "Buckinghamshire",
+   "cc": "GB",
+   "lat": 55.860187,
+   "lng": -4.254323,
+   "links": [
+    {
+     "src": "Ticketmaster",
+     "url": "https://www.universe.com/events/pub-in-the-park-2027-festival-ticket-weekend-tickets-PSFTRZ?ref=ticketmaster"
+    }
+   ],
+   "key": "olly murs|2027-05-14|buckinghamshire",
+   "isNew": true
   },
   {
    "artist": "sombr",
