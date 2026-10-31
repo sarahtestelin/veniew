@@ -1,5 +1,5 @@
 {
- "at": 1793361893898,
+ "at": 1793446739660,
  "spotifyAt": 1793361760217,
  "artists": [
   {
@@ -1604,24 +1604,6 @@
   }
  ],
  "events": [
-  {
-   "artist": "Macklemore",
-   "date": "2026-10-30T18:00:00",
-   "noTime": false,
-   "venue": "OVO Arena Wembley",
-   "city": "London",
-   "cc": "GB",
-   "lat": 51.557918,
-   "lng": -0.283527,
-   "links": [
-    {
-     "src": "Ticketmaster",
-     "url": "https://www.ticketmaster.co.uk/macklemore-friends-free-palestine-tour-london-30-10-2026/event/37006537FBE18146"
-    }
-   ],
-   "key": "macklemore|2026-10-30|london",
-   "isNew": false
-  },
   {
    "artist": "Placebo",
    "date": "2026-11-01T18:30:00",
@@ -4284,7 +4266,7 @@
     }
    ],
    "key": "bullet for my valentine|2027-02-19|amsterdam",
-   "isNew": true
+   "isNew": false
   },
   {
    "artist": "Charli xcx",
@@ -4320,7 +4302,7 @@
     }
    ],
    "key": "bullet for my valentine|2027-02-20|forest brussels",
-   "isNew": true
+   "isNew": false
   },
   {
    "artist": "Haiden Henderson",
@@ -4392,7 +4374,7 @@
     }
    ],
    "key": "bullet for my valentine|2027-02-23|glasgow",
-   "isNew": true
+   "isNew": false
   },
   {
    "artist": "Haiden Henderson",
@@ -4482,7 +4464,7 @@
     }
    ],
    "key": "bullet for my valentine|2027-02-25|birmingham",
-   "isNew": true
+   "isNew": false
   },
   {
    "artist": "Bullet For My Valentine",
@@ -4500,7 +4482,7 @@
     }
    ],
    "key": "bullet for my valentine|2027-02-26|london",
-   "isNew": true
+   "isNew": false
   },
   {
    "artist": "Bullet For My Valentine",
@@ -4518,7 +4500,7 @@
     }
    ],
    "key": "bullet for my valentine|2027-02-27|manchester",
-   "isNew": true
+   "isNew": false
   },
   {
    "artist": "Haiden Henderson",
@@ -5310,7 +5292,7 @@
     }
    ],
    "key": "olly murs|2027-05-14|buckinghamshire",
-   "isNew": true
+   "isNew": false
   },
   {
    "artist": "sombr",
