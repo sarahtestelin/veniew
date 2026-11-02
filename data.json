@@ -1,5 +1,5 @@
 {
- "at": 1793536703822,
+ "at": 1793630422728,
  "spotifyAt": 1793361760217,
  "artists": [
   {
@@ -1604,24 +1604,6 @@
   }
  ],
  "events": [
-  {
-   "artist": "Placebo",
-   "date": "2026-11-01T18:30:00",
-   "noTime": false,
-   "venue": "AFAS Dome",
-   "city": "Merksem (Antwerpen)",
-   "cc": "BE",
-   "lat": 51.23024,
-   "lng": 4.44176,
-   "links": [
-    {
-     "src": "Ticketmaster",
-     "url": "https://www.ticketmaster.be/event/placebo-30th-anniversary-tour-tickets/1790606185"
-    }
-   ],
-   "key": "placebo|2026-11-01|merksem antwerpen",
-   "isNew": false
-  },
   {
    "artist": "The Fray",
    "date": "2026-11-02T20:00:00",
@@ -5043,6 +5025,24 @@
    "isNew": false
   },
   {
+   "artist": "Ravyn Lenae",
+   "date": "2027-05-01T19:00:00",
+   "noTime": false,
+   "venue": "O2 Ritz Manchester",
+   "city": "Manchester",
+   "cc": "GB",
+   "lat": 53.474423,
+   "lng": -2.243098,
+   "links": [
+    {
+     "src": "Ticketmaster",
+     "url": "https://www.ticketmaster.co.uk/ravyn-lenae-manchester-01-05-2027/event/3E00655CCC877C8E"
+    }
+   ],
+   "key": "ravyn lenae|2027-05-01|manchester",
+   "isNew": true
+  },
+  {
    "artist": "Charlotte Cardin",
    "date": "2027-05-01T19:00:00",
    "noTime": false,
@@ -5095,6 +5095,24 @@
    ],
    "key": "olivia rodrigo|2027-05-02|barcelona",
    "isNew": false
+  },
+  {
+   "artist": "Ravyn Lenae",
+   "date": "2027-05-03T19:00:00",
+   "noTime": false,
+   "venue": "Galvanizers SWG3",
+   "city": "Glasgow",
+   "cc": "GB",
+   "lat": 55.863711,
+   "lng": -4.298214,
+   "links": [
+    {
+     "src": "Ticketmaster",
+     "url": "https://www.ticketmaster.co.uk/ravyn-lenae-glasgow-03-05-2027/event/3600655DE386ADA9"
+    }
+   ],
+   "key": "ravyn lenae|2027-05-03|glasgow",
+   "isNew": true
   },
   {
    "artist": "Charlotte Cardin",
@@ -6521,6 +6539,24 @@
    ],
    "key": "harry styles|2027-07-09|berlin",
    "isNew": false
+  },
+  {
+   "artist": "RAYE",
+   "date": "2027-07-10T13:00:00",
+   "noTime": false,
+   "venue": "Hyde Park",
+   "city": "London",
+   "cc": "GB",
+   "lat": 51.507432,
+   "lng": -0.165708,
+   "links": [
+    {
+     "src": "Ticketmaster",
+     "url": "https://www.ticketmaster.co.uk/amex-presents-bst-hyde-park-raye-london-10-07-2027/event/37006557C296BE77"
+    }
+   ],
+   "key": "raye|2027-07-10|london",
+   "isNew": true
   },
   {
    "artist": "David Guetta",
