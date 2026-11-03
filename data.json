@@ -1,5 +1,5 @@
 {
- "at": 1793630422728,
+ "at": 1793712809540,
  "spotifyAt": 1793361760217,
  "artists": [
   {
@@ -1604,42 +1604,6 @@
   }
  ],
  "events": [
-  {
-   "artist": "The Fray",
-   "date": "2026-11-02T20:00:00",
-   "noTime": false,
-   "venue": "",
-   "city": "Cologne",
-   "cc": "DE",
-   "lat": 50.96949,
-   "lng": 7.01777,
-   "links": [
-    {
-     "src": "Ticketmaster",
-     "url": "https://www.ticketmaster.de/event/the-fray-autumn-light-tour-tickets/206986536?language=en-us"
-    }
-   ],
-   "key": "the fray|2026-11-02|cologne",
-   "isNew": false
-  },
-  {
-   "artist": "Placebo",
-   "date": "2026-11-02T20:00:00",
-   "noTime": false,
-   "venue": "",
-   "city": "Cologne",
-   "cc": "DE",
-   "lat": 50.93855,
-   "lng": 6.97988,
-   "links": [
-    {
-     "src": "Ticketmaster",
-     "url": "https://www.ticketmaster.de/event/placebo-30th-anniversary-tour-tickets/953319605?language=en-us"
-    }
-   ],
-   "key": "placebo|2026-11-02|cologne",
-   "isNew": false
-  },
   {
    "artist": "Eve",
    "date": "2026-11-03T19:00:00",
@@ -5040,7 +5004,7 @@
     }
    ],
    "key": "ravyn lenae|2027-05-01|manchester",
-   "isNew": true
+   "isNew": false
   },
   {
    "artist": "Charlotte Cardin",
@@ -5112,6 +5076,24 @@
     }
    ],
    "key": "ravyn lenae|2027-05-03|glasgow",
+   "isNew": false
+  },
+  {
+   "artist": "Ravyn Lenae",
+   "date": "2027-05-05T19:00:00",
+   "noTime": false,
+   "venue": "O2 Shepherds Bush Empire",
+   "city": "London",
+   "cc": "GB",
+   "lat": 51.503525,
+   "lng": -0.224435,
+   "links": [
+    {
+     "src": "Ticketmaster",
+     "url": "https://www.ticketmaster.co.uk/ravyn-lenae-london-05-05-2027/event/3E00655DE1038090"
+    }
+   ],
+   "key": "ravyn lenae|2027-05-05|london",
    "isNew": true
   },
   {
@@ -6556,7 +6538,7 @@
     }
    ],
    "key": "raye|2027-07-10|london",
-   "isNew": true
+   "isNew": false
   },
   {
    "artist": "David Guetta",
