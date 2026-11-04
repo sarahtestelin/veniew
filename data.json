@@ -1,5 +1,5 @@
 {
- "at": 1793712809540,
+ "at": 1793799850459,
  "spotifyAt": 1793361760217,
  "artists": [
   {
@@ -1605,24 +1605,6 @@
  ],
  "events": [
   {
-   "artist": "Eve",
-   "date": "2026-11-03T19:00:00",
-   "noTime": false,
-   "venue": "Bataclan",
-   "city": "Paris",
-   "cc": "FR",
-   "lat": 48.8566,
-   "lng": 2.3522,
-   "links": [
-    {
-     "src": "Bandsintown",
-     "url": "https://www.google.com/goto?url=CAESwgEB6zswFWvmbp34RO4KnxhBbHGlsYbVISExUNh2s2GN6BSuR3MwesuJtpWf38ukzYGzCHYKuhdwEFkDGf57Texd_8fgwxcYSIPoSMrKc8rB5F7XVY2hxLwPIJePWRnX_OsKh75tsRTZuyO18dk8c_sCCbYXD2V1XASeOxXqzo9ks3aVSryA9oM1Gk8aFNZnsfXA_I4horBc-A3WVMESNaJw4qaKkWkQLBb2hRvXlm5AdmHaslawSPieNPBn-hNCgmzJmw"
-    }
-   ],
-   "key": "eve|2026-11-03|paris",
-   "isNew": false
-  },
-  {
    "artist": "Pitbull",
    "date": "2026-11-04T20:30:00",
    "noTime": false,
@@ -1768,7 +1750,7 @@
   },
   {
    "artist": "Caskets",
-   "date": "2026-11-10T19:00:00",
+   "date": "2026-11-10T18:00:00",
    "noTime": false,
    "venue": "Galvanizers SWG3",
    "city": "Glasgow",
@@ -1965,6 +1947,24 @@
    "isNew": false
   },
   {
+   "artist": "Caskets",
+   "date": "2026-11-15T18:00:00",
+   "noTime": false,
+   "venue": "O2 Forum Kentish Town",
+   "city": "London",
+   "cc": "GB",
+   "lat": 51.552039,
+   "lng": -0.14193,
+   "links": [
+    {
+     "src": "Ticketmaster",
+     "url": "https://www.ticketmaster.co.uk/currents-erra-london-15-11-2026/event/3E0064B4FEB487AD"
+    }
+   ],
+   "key": "caskets|2026-11-15|london",
+   "isNew": false
+  },
+  {
    "artist": "Tayc",
    "date": "2026-11-15T18:00:00",
    "noTime": false,
@@ -1998,24 +1998,6 @@
     }
    ],
    "key": "muse|2026-11-15|london",
-   "isNew": false
-  },
-  {
-   "artist": "Caskets",
-   "date": "2026-11-15T19:00:00",
-   "noTime": false,
-   "venue": "O2 Forum Kentish Town",
-   "city": "London",
-   "cc": "GB",
-   "lat": 51.552039,
-   "lng": -0.14193,
-   "links": [
-    {
-     "src": "Ticketmaster",
-     "url": "https://www.ticketmaster.co.uk/currents-erra-london-15-11-2026/event/3E0064B4FEB487AD"
-    }
-   ],
-   "key": "caskets|2026-11-15|london",
    "isNew": false
   },
   {
@@ -3441,6 +3423,24 @@
    "isNew": false
   },
   {
+   "artist": "VOILÀ",
+   "date": "2026-12-08T19:30:00",
+   "noTime": false,
+   "venue": "",
+   "city": "Hamburg",
+   "cc": "DE",
+   "lat": 53.55655,
+   "lng": 9.92913,
+   "links": [
+    {
+     "src": "Ticketmaster",
+     "url": "https://www.ticketmaster.de/event/voila-presents-moonbloom-where-music-meets-magic-tickets/1325974639?language=en-us"
+    }
+   ],
+   "key": "voila|2026-12-08|hamburg",
+   "isNew": true
+  },
+  {
    "artist": "Muse",
    "date": "2026-12-08T20:00:00",
    "noTime": false,
@@ -3510,24 +3510,6 @@
     }
    ],
    "key": "artemas|2026-12-10|edinburgh",
-   "isNew": false
-  },
-  {
-   "artist": "VOILÀ",
-   "date": "2026-12-10T19:30:00",
-   "noTime": false,
-   "venue": "",
-   "city": "Hamburg",
-   "cc": "DE",
-   "lat": 53.55655,
-   "lng": 9.92913,
-   "links": [
-    {
-     "src": "Ticketmaster",
-     "url": "https://www.ticketmaster.de/event/voila-presents-moonbloom-where-music-meets-magic-tickets/1325974639?language=en-us"
-    }
-   ],
-   "key": "voila|2026-12-10|hamburg",
    "isNew": false
   },
   {
@@ -5094,7 +5076,7 @@
     }
    ],
    "key": "ravyn lenae|2027-05-05|london",
-   "isNew": true
+   "isNew": false
   },
   {
    "artist": "Charlotte Cardin",
