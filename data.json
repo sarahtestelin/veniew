@@ -1,5 +1,5 @@
 {
- "at": 1793799850459,
+ "at": 1793886986838,
  "spotifyAt": 1793361760217,
  "artists": [
   {
@@ -1604,24 +1604,6 @@
   }
  ],
  "events": [
-  {
-   "artist": "Pitbull",
-   "date": "2026-11-04T20:30:00",
-   "noTime": false,
-   "venue": "Palau Sant Jordi",
-   "city": "Barcelona",
-   "cc": "ES",
-   "lat": 41.36337,
-   "lng": 2.15259,
-   "links": [
-    {
-     "src": "Ticketmaster",
-     "url": "https://www.ticketmaster.es/event/pitbull-im-back-tickets/1179106205?language=en-us"
-    }
-   ],
-   "key": "pitbull|2026-11-04|barcelona",
-   "isNew": false
-  },
   {
    "artist": "Tove Lo",
    "date": "2026-11-05T19:00:00",
@@ -3438,7 +3420,7 @@
     }
    ],
    "key": "voila|2026-12-08|hamburg",
-   "isNew": true
+   "isNew": false
   },
   {
    "artist": "Muse",
