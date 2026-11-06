@@ -1,6 +1,6 @@
 {
- "at": 1793886986838,
- "spotifyAt": 1793361760217,
+ "at": 1793972572521,
+ "spotifyAt": 1793972476402,
  "artists": [
   {
    "name": "The Neighbourhood",
@@ -12,15 +12,11 @@
   },
   {
    "name": "Artemas",
-   "score": 136
+   "score": 138
   },
   {
    "name": "Bring Me The Horizon",
    "score": 89
-  },
-  {
-   "name": "Lana Del Rey",
-   "score": 77
   },
   {
    "name": "Lady Gaga",
@@ -28,83 +24,79 @@
   },
   {
    "name": "Rihanna",
-   "score": 74
+   "score": 75
+  },
+  {
+   "name": "Lana Del Rey",
+   "score": 71
   },
   {
    "name": "Chase Atlantic",
-   "score": 66
+   "score": 67
   },
   {
    "name": "Henry Morris",
+   "score": 66
+  },
+  {
+   "name": "The Weeknd",
    "score": 65
   },
   {
-   "name": "PLVTINUM",
-   "score": 63
-  },
-  {
    "name": "Isabel LaRosa",
-   "score": 60
+   "score": 59
   },
   {
    "name": "Presley Regier",
    "score": 57
   },
   {
-   "name": "The Weeknd",
-   "score": 55
+   "name": "PLVTINUM",
+   "score": 56
   },
   {
-   "name": "Ari Abdul",
-   "score": 54
-  },
-  {
-   "name": "Tame Impala",
-   "score": 53
+   "name": "Arctic Monkeys",
+   "score": 52
   },
   {
    "name": "Catch Your Breath",
    "score": 51
   },
   {
-   "name": "Arctic Monkeys",
+   "name": "Britney Spears",
    "score": 50
   },
   {
-   "name": "Britney Spears",
-   "score": 49
-  },
-  {
-   "name": "Ella Boh",
-   "score": 49
+   "name": "Chris Grey",
+   "score": 50
   },
   {
    "name": "Pierce The Veil",
-   "score": 47
-  },
-  {
-   "name": "d4vd",
-   "score": 47
+   "score": 46
   },
   {
    "name": "London Grammar",
-   "score": 45
+   "score": 46
+  },
+  {
+   "name": "Tame Impala",
+   "score": 46
+  },
+  {
+   "name": "Ella Boh",
+   "score": 46
   },
   {
    "name": "Linkin Park",
    "score": 45
   },
   {
-   "name": "Ariana Grande",
-   "score": 43
+   "name": "Ari Abdul",
+   "score": 44
   },
   {
    "name": "Justin Bieber",
    "score": 40
-  },
-  {
-   "name": "Chris Grey",
-   "score": 38
   },
   {
    "name": "Kanye West",
@@ -116,6 +108,14 @@
   },
   {
    "name": "Panic! At The Disco",
+   "score": 35
+  },
+  {
+   "name": "Ariana Grande",
+   "score": 35
+  },
+  {
+   "name": "Katy Perry",
    "score": 34
   },
   {
@@ -123,7 +123,7 @@
    "score": 34
   },
   {
-   "name": "Ellie Goulding",
+   "name": "d4vd",
    "score": 34
   },
   {
@@ -131,8 +131,8 @@
    "score": 34
   },
   {
-   "name": "Katy Perry",
-   "score": 33
+   "name": "Fall Out Boy",
+   "score": 34
   },
   {
    "name": "Hamza",
@@ -147,28 +147,16 @@
    "score": 32
   },
   {
-   "name": "Fall Out Boy",
+   "name": "Tate McRae",
    "score": 32
   },
   {
-   "name": "Haiden Henderson",
-   "score": 31
-  },
-  {
    "name": "Kesha",
-   "score": 31
+   "score": 32
   },
   {
-   "name": "Bruno Mars",
+   "name": "Jutes",
    "score": 30
-  },
-  {
-   "name": "Motionless In White",
-   "score": 29
-  },
-  {
-   "name": "Bad Omens",
-   "score": 28
   },
   {
    "name": "Damso",
@@ -179,7 +167,7 @@
    "score": 28
   },
   {
-   "name": "ThxSoMch",
+   "name": "Motionless In White",
    "score": 27
   },
   {
@@ -187,16 +175,16 @@
    "score": 27
   },
   {
-   "name": "Tate McRae",
+   "name": "Twenty One Pilots",
    "score": 26
   },
   {
-   "name": "Jutes",
+   "name": "Haiden Henderson",
    "score": 25
   },
   {
-   "name": "Three Days Grace",
-   "score": 24
+   "name": "Ellie Goulding",
+   "score": 25
   },
   {
    "name": "Maroon 5",
@@ -204,6 +192,10 @@
   },
   {
    "name": "Beach Weather",
+   "score": 23
+  },
+  {
+   "name": "ThxSoMch",
    "score": 23
   },
   {
@@ -215,6 +207,10 @@
    "score": 23
   },
   {
+   "name": "Three Days Grace",
+   "score": 23
+  },
+  {
    "name": "Pitbull",
    "score": 22
   },
@@ -223,12 +219,8 @@
    "score": 21
   },
   {
-   "name": "Twenty One Pilots",
-   "score": 21
-  },
-  {
    "name": "Nekfeu",
-   "score": 21
+   "score": 20
   },
   {
    "name": "Tatsuya Kitani",
@@ -243,12 +235,12 @@
    "score": 19
   },
   {
-   "name": "Billie Eilish",
+   "name": "Bruno Mars",
    "score": 19
   },
   {
-   "name": "ADÉLA",
-   "score": 18
+   "name": "Billie Eilish",
+   "score": 19
   },
   {
    "name": "sombr",
@@ -257,10 +249,6 @@
   {
    "name": "Jfarrari",
    "score": 18
-  },
-  {
-   "name": "Caskets",
-   "score": 17
   },
   {
    "name": "Olly Alexander (Years & Years)",
@@ -283,12 +271,8 @@
    "score": 16
   },
   {
-   "name": "Paramore",
-   "score": 16
-  },
-  {
-   "name": "Jesse®",
-   "score": 16
+   "name": "Golden Cats",
+   "score": 15
   },
   {
    "name": "Charli xcx",
@@ -303,12 +287,24 @@
    "score": 14
   },
   {
-   "name": "akiaura",
+   "name": "Bad Omens",
+   "score": 14
+  },
+  {
+   "name": "ADÉLA",
+   "score": 14
+  },
+  {
+   "name": "satine",
+   "score": 14
+  },
+  {
+   "name": "Kae",
    "score": 14
   },
   {
    "name": "Night Tapes",
-   "score": 14
+   "score": 13
   },
   {
    "name": "Ex Habit",
@@ -320,10 +316,6 @@
   },
   {
    "name": "Flo Rida",
-   "score": 13
-  },
-  {
-   "name": "Miley Cyrus",
    "score": 13
   },
   {
@@ -339,16 +331,20 @@
    "score": 13
   },
   {
-   "name": "Kae",
-   "score": 13
+   "name": "Sean Paul",
+   "score": 12
   },
   {
-   "name": "Sean Paul",
+   "name": "Miley Cyrus",
    "score": 12
   },
   {
    "name": "Tayc",
    "score": 12
+  },
+  {
+   "name": "Wind Walkers",
+   "score": 11
   },
   {
    "name": "noise dept.",
@@ -395,7 +391,7 @@
    "score": 11
   },
   {
-   "name": "New Medicine",
+   "name": "ridgeclub",
    "score": 11
   },
   {
@@ -427,15 +423,15 @@
    "score": 10
   },
   {
-   "name": "Wind Walkers",
-   "score": 9
+   "name": "Justice",
+   "score": 10
   },
   {
    "name": "Chris Isaak",
    "score": 9
   },
   {
-   "name": "OneRepublic",
+   "name": "Caskets",
    "score": 9
   },
   {
@@ -463,6 +459,10 @@
    "score": 9
   },
   {
+   "name": "akiaura",
+   "score": 9
+  },
+  {
    "name": "Wiz Khalifa",
    "score": 9
   },
@@ -471,19 +471,11 @@
    "score": 9
   },
   {
-   "name": "Shakira",
-   "score": 9
-  },
-  {
-   "name": "Nelly Furtado",
-   "score": 9
-  },
-  {
-   "name": "Justice",
+   "name": "Feist",
    "score": 8
   },
   {
-   "name": "Feist",
+   "name": "OneRepublic",
    "score": 8
   },
   {
@@ -503,12 +495,28 @@
    "score": 8
   },
   {
+   "name": "Shakira",
+   "score": 8
+  },
+  {
    "name": "Halsey",
+   "score": 8
+  },
+  {
+   "name": "Nelly Furtado",
    "score": 8
   },
   {
    "name": "YOASOBI",
    "score": 8
+  },
+  {
+   "name": "Jesse®",
+   "score": 8
+  },
+  {
+   "name": "Paramore",
+   "score": 7
   },
   {
    "name": "Ellise",
@@ -627,10 +635,6 @@
    "score": 6
   },
   {
-   "name": "Golden Cats",
-   "score": 6
-  },
-  {
    "name": "Michael Jackson",
    "score": 6
   },
@@ -692,10 +696,6 @@
   },
   {
    "name": "Cigarettes After Sex",
-   "score": 6
-  },
-  {
-   "name": "ridgeclub",
    "score": 6
   },
   {
@@ -975,14 +975,6 @@
    "score": 4
   },
   {
-   "name": "Cobra Starship",
-   "score": 4
-  },
-  {
-   "name": "Sabi",
-   "score": 4
-  },
-  {
    "name": "Metric",
    "score": 4
   },
@@ -1051,10 +1043,6 @@
    "score": 4
   },
   {
-   "name": "Muse",
-   "score": 4
-  },
-  {
    "name": "MGMT",
    "score": 4
   },
@@ -1108,6 +1096,10 @@
   },
   {
    "name": "Marshmello",
+   "score": 4
+  },
+  {
+   "name": "New Medicine",
    "score": 4
   },
   {
@@ -1275,6 +1267,14 @@
    "score": 4
   },
   {
+   "name": "Cobra Starship",
+   "score": 3
+  },
+  {
+   "name": "Sabi",
+   "score": 3
+  },
+  {
    "name": "Swing",
    "score": 3
   },
@@ -1400,6 +1400,10 @@
   },
   {
    "name": "Future Islands",
+   "score": 3
+  },
+  {
+   "name": "Muse",
    "score": 3
   },
   {
@@ -1597,49 +1601,9 @@
   {
    "name": "Wyclef Jean",
    "score": 3
-  },
-  {
-   "name": "BB Brunes",
-   "score": 3
   }
  ],
  "events": [
-  {
-   "artist": "Tove Lo",
-   "date": "2026-11-05T19:00:00",
-   "noTime": false,
-   "venue": "O2 Victoria Warehouse Manchester",
-   "city": "Manchester",
-   "cc": "GB",
-   "lat": 53.4643707,
-   "lng": -2.2853054,
-   "links": [
-    {
-     "src": "Ticketmaster",
-     "url": "https://www.ticketmaster.co.uk/tove-lo-estrus-manchester-05-11-2026/event/3E0064ABB8DC30C9"
-    }
-   ],
-   "key": "tove lo|2026-11-05|manchester",
-   "isNew": false
-  },
-  {
-   "artist": "Pitbull",
-   "date": "2026-11-05T20:30:00",
-   "noTime": false,
-   "venue": "Movistar Arena",
-   "city": "Madrid",
-   "cc": "ES",
-   "lat": 40.42394,
-   "lng": -3.6758,
-   "links": [
-    {
-     "src": "Ticketmaster",
-     "url": "https://www.ticketmaster.es/event/pitbull-im-back-tickets/603968801?language=en-us"
-    }
-   ],
-   "key": "pitbull|2026-11-05|madrid",
-   "isNew": false
-  },
   {
    "artist": "Tove Lo",
    "date": "2026-11-07T19:00:00",
@@ -1929,24 +1893,6 @@
    "isNew": false
   },
   {
-   "artist": "Caskets",
-   "date": "2026-11-15T18:00:00",
-   "noTime": false,
-   "venue": "O2 Forum Kentish Town",
-   "city": "London",
-   "cc": "GB",
-   "lat": 51.552039,
-   "lng": -0.14193,
-   "links": [
-    {
-     "src": "Ticketmaster",
-     "url": "https://www.ticketmaster.co.uk/currents-erra-london-15-11-2026/event/3E0064B4FEB487AD"
-    }
-   ],
-   "key": "caskets|2026-11-15|london",
-   "isNew": false
-  },
-  {
    "artist": "Tayc",
    "date": "2026-11-15T18:00:00",
    "noTime": false,
@@ -1962,6 +1908,24 @@
     }
    ],
    "key": "tayc|2026-11-15|london",
+   "isNew": false
+  },
+  {
+   "artist": "Caskets",
+   "date": "2026-11-15T18:00:00",
+   "noTime": false,
+   "venue": "O2 Forum Kentish Town",
+   "city": "London",
+   "cc": "GB",
+   "lat": 51.552039,
+   "lng": -0.14193,
+   "links": [
+    {
+     "src": "Ticketmaster",
+     "url": "https://www.ticketmaster.co.uk/currents-erra-london-15-11-2026/event/3E0064B4FEB487AD"
+    }
+   ],
+   "key": "caskets|2026-11-15|london",
    "isNew": false
   },
   {
@@ -2613,6 +2577,24 @@
    "isNew": false
   },
   {
+   "artist": "VOILÀ",
+   "date": "2026-11-24T19:00:00",
+   "noTime": false,
+   "venue": "Manchester Academy 2",
+   "city": "Manchester",
+   "cc": "GB",
+   "lat": 53.464386,
+   "lng": -2.232225,
+   "links": [
+    {
+     "src": "Ticketmaster",
+     "url": "https://www.ticketmaster.co.uk/voila-manchester-24-11-2026/event/1F0064C2DB25A82D"
+    }
+   ],
+   "key": "voila|2026-11-24|manchester",
+   "isNew": false
+  },
+  {
    "artist": "Myla",
    "date": "2026-11-24T19:30:00",
    "noTime": false,
@@ -2664,24 +2646,6 @@
     }
    ],
    "key": "muse|2026-11-24|dusseldorf",
-   "isNew": false
-  },
-  {
-   "artist": "VOILÀ",
-   "date": "2026-11-24T19:30:00",
-   "noTime": false,
-   "venue": "Manchester Academy 2",
-   "city": "Manchester",
-   "cc": "GB",
-   "lat": 53.464386,
-   "lng": -2.232225,
-   "links": [
-    {
-     "src": "Ticketmaster",
-     "url": "https://www.ticketmaster.co.uk/voila-manchester-24-11-2026/event/1F0064C2DB25A82D"
-    }
-   ],
-   "key": "voila|2026-11-24|manchester",
    "isNew": false
   },
   {
