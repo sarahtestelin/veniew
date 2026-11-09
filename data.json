@@ -1,5 +1,5 @@
 {
- "at": 1794141750511,
+ "at": 1794236495633,
  "spotifyAt": 1793972476402,
  "artists": [
   {
@@ -1605,24 +1605,6 @@
  ],
  "events": [
   {
-   "artist": "Pitbull",
-   "date": "2026-11-08T20:00:00",
-   "noTime": false,
-   "venue": "Hallenstadion",
-   "city": "Zürich",
-   "cc": "CH",
-   "lat": 47.41161,
-   "lng": 8.55166,
-   "links": [
-    {
-     "src": "Ticketmaster",
-     "url": "https://www.ticketmaster.ch/event/pitbull-im-back-tickets/1132341242?language=en-us"
-    }
-   ],
-   "key": "pitbull|2026-11-08|zurich",
-   "isNew": false
-  },
-  {
    "artist": "Tove Lo",
    "date": "2026-11-09T00:00:00",
    "noTime": true,
@@ -1656,24 +1638,6 @@
     }
    ],
    "key": "montell fish|2026-11-09|berlin",
-   "isNew": false
-  },
-  {
-   "artist": "Placebo",
-   "date": "2026-11-09T20:00:00",
-   "noTime": false,
-   "venue": "Olympiahalle",
-   "city": "Munich",
-   "cc": "DE",
-   "lat": 48.17388,
-   "lng": 11.54549,
-   "links": [
-    {
-     "src": "Ticketmaster",
-     "url": "https://www.ticketmaster.de/event/placebo-30th-anniversary-tour-tickets/1526408368?language=en-us"
-    }
-   ],
-   "key": "placebo|2026-11-09|munich",
    "isNew": false
   },
   {
@@ -5904,7 +5868,7 @@
     }
    ],
    "key": "tame impala|2027-06-12|",
-   "isNew": true
+   "isNew": false
   },
   {
    "artist": "Nickelback",
@@ -6159,6 +6123,24 @@
    "isNew": false
   },
   {
+   "artist": "Muse",
+   "date": "2027-06-23T17:00:00",
+   "noTime": false,
+   "venue": "Blackweir Fields, Cardiff",
+   "city": "Cardiff",
+   "cc": "GB",
+   "lat": 51.49139777,
+   "lng": -3.18915144,
+   "links": [
+    {
+     "src": "Ticketmaster",
+     "url": "https://www.ticketmaster.co.uk/muse-cardiff-23-06-2027/event/1F006537F2C574FC"
+    }
+   ],
+   "key": "muse|2027-06-23|cardiff",
+   "isNew": true
+  },
+  {
    "artist": "sombr",
    "date": "2027-06-24T18:30:00",
    "noTime": false,
@@ -6229,6 +6211,42 @@
    ],
    "key": "raye|2027-06-26|werchter",
    "isNew": false
+  },
+  {
+   "artist": "Muse",
+   "date": "2027-06-26T14:00:00",
+   "noTime": false,
+   "venue": "Hyde Park",
+   "city": "London",
+   "cc": "GB",
+   "lat": 51.507432,
+   "lng": -0.165708,
+   "links": [
+    {
+     "src": "Ticketmaster",
+     "url": "https://www.ticketmaster.co.uk/amex-presents-bst-hyde-park-ultimate-london-26-06-2027/event/37006566A20C53C8"
+    }
+   ],
+   "key": "muse|2027-06-26|london",
+   "isNew": true
+  },
+  {
+   "artist": "Muse",
+   "date": "2027-06-27T13:00:00",
+   "noTime": false,
+   "venue": "Roundhay Park",
+   "city": "Leeds",
+   "cc": "GB",
+   "lat": 53.8400218,
+   "lng": -1.5037649,
+   "links": [
+    {
+     "src": "Ticketmaster",
+     "url": "https://www.ticketmaster.co.uk/american-express-presents-roundhay-festival-muse-leeds-27-06-2027/event/1F0065659F0A3775"
+    }
+   ],
+   "key": "muse|2027-06-27|leeds",
+   "isNew": true
   },
   {
    "artist": "sombr",
@@ -6755,6 +6773,24 @@
    ],
    "key": "gims|2027-11-30|brussels",
    "isNew": false
+  },
+  {
+   "artist": "Placebo",
+   "date": "2027-12-31T23:59:00",
+   "noTime": false,
+   "venue": "Olympiahalle",
+   "city": "Munich",
+   "cc": "DE",
+   "lat": 48.17388,
+   "lng": 11.54549,
+   "links": [
+    {
+     "src": "Ticketmaster",
+     "url": "https://www.ticketmaster.de/event/placebo-30th-anniversary-tour-tickets/1526408368?language=en-us"
+    }
+   ],
+   "key": "placebo|2027-12-31|munich",
+   "isNew": true
   }
  ],
  "serp": {
