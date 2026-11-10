@@ -1,5 +1,5 @@
 {
- "at": 1794236495633,
+ "at": 1794320123549,
  "spotifyAt": 1793972476402,
  "artists": [
   {
@@ -1604,42 +1604,6 @@
   }
  ],
  "events": [
-  {
-   "artist": "Tove Lo",
-   "date": "2026-11-09T00:00:00",
-   "noTime": true,
-   "venue": "De Roma",
-   "city": "Borgerhout",
-   "cc": "BE",
-   "lat": 51.21331,
-   "lng": 4.43998,
-   "links": [
-    {
-     "src": "Ticketmaster",
-     "url": "https://www.ticketmaster.be/event/tove-lo-estrus-%7C-vip-upgrades-tickets/1183587608"
-    }
-   ],
-   "key": "tove lo|2026-11-09|borgerhout",
-   "isNew": false
-  },
-  {
-   "artist": "Montell Fish",
-   "date": "2026-11-09T20:00:00",
-   "noTime": false,
-   "venue": "",
-   "city": "Berlin",
-   "cc": "DE",
-   "lat": 52.49955,
-   "lng": 13.35052,
-   "links": [
-    {
-     "src": "Ticketmaster",
-     "url": "https://www.ticketmaster.de/event/montell-fish-the-nest-tour-tickets/1957195324?language=en-us"
-    }
-   ],
-   "key": "montell fish|2026-11-09|berlin",
-   "isNew": false
-  },
   {
    "artist": "Caskets",
    "date": "2026-11-10T18:00:00",
@@ -5331,6 +5295,24 @@
    "isNew": false
   },
   {
+   "artist": "Fall Out Boy",
+   "date": "2027-05-23T20:30:00",
+   "noTime": false,
+   "venue": "Movistar Arena",
+   "city": "Madrid",
+   "cc": "ES",
+   "lat": 40.42394,
+   "lng": -3.6758,
+   "links": [
+    {
+     "src": "Ticketmaster",
+     "url": "https://www.ticketmaster.es/event/fall-out-boy-twilight-of-the-punks-tickets/412819502?language=en-us"
+    }
+   ],
+   "key": "fall out boy|2027-05-23|madrid",
+   "isNew": true
+  },
+  {
    "artist": "Nickelback",
    "date": "2027-05-24T17:30:00",
    "noTime": false,
@@ -5439,6 +5421,42 @@
    "isNew": false
   },
   {
+   "artist": "Fall Out Boy",
+   "date": "2027-05-27T20:00:00",
+   "noTime": false,
+   "venue": "ING ARENA",
+   "city": "Brussels",
+   "cc": "BE",
+   "lat": 50.90095,
+   "lng": 4.34368,
+   "links": [
+    {
+     "src": "Ticketmaster",
+     "url": "https://www.ticketmaster.be/event/fall-out-boy-twilight-of-the-punks-tickets/1526392094"
+    }
+   ],
+   "key": "fall out boy|2027-05-27|brussels",
+   "isNew": true
+  },
+  {
+   "artist": "Fall Out Boy",
+   "date": "2027-05-28T17:30:00",
+   "noTime": false,
+   "venue": "",
+   "city": "Mönchengladbach",
+   "cc": "DE",
+   "lat": 51.17774,
+   "lng": 6.38926,
+   "links": [
+    {
+     "src": "Ticketmaster",
+     "url": "https://www.ticketmaster.de/event/fall-out-boy-twilight-of-the-punks-tickets/1907186306?language=en-us"
+    }
+   ],
+   "key": "fall out boy|2027-05-28|monchengladbach",
+   "isNew": true
+  },
+  {
    "artist": "Nickelback",
    "date": "2027-05-28T17:30:00",
    "noTime": false,
@@ -5527,6 +5545,24 @@
    ],
    "key": "tame impala|2027-05-29|manchester",
    "isNew": false
+  },
+  {
+   "artist": "Fall Out Boy",
+   "date": "2027-05-30T17:30:00",
+   "noTime": false,
+   "venue": "OVO Hydro",
+   "city": "Glasgow",
+   "cc": "GB",
+   "lat": 55.86087,
+   "lng": -4.288154,
+   "links": [
+    {
+     "src": "Ticketmaster",
+     "url": "https://www.ticketmaster.co.uk/venue-premium-fall-out-boy-twilight-glasgow-30-05-2027/event/36006569825A1936"
+    }
+   ],
+   "key": "fall out boy|2027-05-30|glasgow",
+   "isNew": true
   },
   {
    "artist": "sombr",
@@ -5691,6 +5727,42 @@
    "isNew": false
   },
   {
+   "artist": "Fall Out Boy",
+   "date": "2027-06-03T19:30:00",
+   "noTime": false,
+   "venue": "Co-op Live",
+   "city": "Manchester",
+   "cc": "GB",
+   "lat": 53.48661136,
+   "lng": -2.1995797,
+   "links": [
+    {
+     "src": "Ticketmaster",
+     "url": "https://www.ticketmaster.co.uk/fall-out-boy-twilight-of-the-manchester-03-06-2027/event/37006565CD1B8CC7"
+    }
+   ],
+   "key": "fall out boy|2027-06-03|manchester",
+   "isNew": true
+  },
+  {
+   "artist": "Fall Out Boy",
+   "date": "2027-06-05T17:00:00",
+   "noTime": false,
+   "venue": "Tottenham Hotspur Stadium",
+   "city": "London",
+   "cc": "GB",
+   "lat": 51.600819,
+   "lng": -0.06787,
+   "links": [
+    {
+     "src": "Ticketmaster",
+     "url": "https://www.ticketmaster.co.uk/fall-out-boy-twilight-of-the-london-05-06-2027/event/3500655FAE897F85"
+    }
+   ],
+   "key": "fall out boy|2027-06-05|london",
+   "isNew": true
+  },
+  {
    "artist": "Nickelback",
    "date": "2027-06-05T17:30:00",
    "noTime": false,
@@ -5799,6 +5871,24 @@
    "isNew": false
   },
   {
+   "artist": "Fall Out Boy",
+   "date": "2027-06-08T20:00:00",
+   "noTime": false,
+   "venue": "Ziggo Dome",
+   "city": "Amsterdam",
+   "cc": "NL",
+   "lat": 52.31395,
+   "lng": 4.93837,
+   "links": [
+    {
+     "src": "Ticketmaster",
+     "url": "https://www.ticketmaster.nl/event/fall-out-boy-twilight-of-the-punks-tickets/1061072045?language=en-us"
+    }
+   ],
+   "key": "fall out boy|2027-06-08|amsterdam",
+   "isNew": true
+  },
+  {
    "artist": "Nickelback",
    "date": "2027-06-09T18:30:00",
    "noTime": false,
@@ -5869,6 +5959,24 @@
    ],
    "key": "tame impala|2027-06-12|",
    "isNew": false
+  },
+  {
+   "artist": "Fall Out Boy",
+   "date": "2027-06-12T18:30:00",
+   "noTime": false,
+   "venue": "",
+   "city": "Berlin",
+   "cc": "DE",
+   "lat": 52.54005,
+   "lng": 13.21244,
+   "links": [
+    {
+     "src": "Ticketmaster",
+     "url": "https://www.ticketmaster.de/event/fall-out-boy-twilight-of-the-punks-tickets/1273300557?language=en-us"
+    }
+   ],
+   "key": "fall out boy|2027-06-12|berlin",
+   "isNew": true
   },
   {
    "artist": "Nickelback",
@@ -6138,7 +6246,7 @@
     }
    ],
    "key": "muse|2027-06-23|cardiff",
-   "isNew": true
+   "isNew": false
   },
   {
    "artist": "sombr",
@@ -6228,7 +6336,7 @@
     }
    ],
    "key": "muse|2027-06-26|london",
-   "isNew": true
+   "isNew": false
   },
   {
    "artist": "Muse",
@@ -6246,7 +6354,7 @@
     }
    ],
    "key": "muse|2027-06-27|leeds",
-   "isNew": true
+   "isNew": false
   },
   {
    "artist": "sombr",
@@ -6790,7 +6898,7 @@
     }
    ],
    "key": "placebo|2027-12-31|munich",
-   "isNew": true
+   "isNew": false
   }
  ],
  "serp": {
