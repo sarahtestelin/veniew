@@ -1,5 +1,5 @@
 {
- "at": 1794403779668,
+ "at": 1794494027662,
  "spotifyAt": 1793972476402,
  "artists": [
   {
@@ -5745,6 +5745,24 @@
    "isNew": false
   },
   {
+   "artist": "Fall Out Boy",
+   "date": "2027-06-06T18:30:00",
+   "noTime": false,
+   "venue": "Co-op Live",
+   "city": "Manchester",
+   "cc": "GB",
+   "lat": 53.48661136,
+   "lng": -2.1995797,
+   "links": [
+    {
+     "src": "Ticketmaster",
+     "url": "https://www.ticketmaster.co.uk/fall-out-boy-twilight-of-the-manchester-06-06-2027/event/3700656BD6A79CF0"
+    }
+   ],
+   "key": "fall out boy|2027-06-06|manchester",
+   "isNew": true
+  },
+  {
    "artist": "David Guetta",
    "date": "2027-06-06T18:30:00",
    "noTime": false,
@@ -6048,7 +6066,7 @@
     }
    ],
    "key": "dexter and the moonrocks|2027-06-18|chelmsford",
-   "isNew": true
+   "isNew": false
   },
   {
    "artist": "Bastille",
@@ -6358,7 +6376,7 @@
   },
   {
    "artist": "Bastille",
-   "date": "2027-06-30T09:00:00",
+   "date": "2027-06-30T17:00:00",
    "noTime": false,
    "venue": "Lytham Green",
    "city": "Lancashire",
