@@ -1,6 +1,6 @@
 {
- "at": 1794494027662,
- "spotifyAt": 1793972476402,
+ "at": 1794577969655,
+ "spotifyAt": 1794577873470,
  "artists": [
   {
    "name": "The Neighbourhood",
@@ -12,31 +12,31 @@
   },
   {
    "name": "Artemas",
-   "score": 138
+   "score": 141
   },
   {
    "name": "Bring Me The Horizon",
-   "score": 89
+   "score": 88
   },
   {
    "name": "Lady Gaga",
-   "score": 75
+   "score": 76
+  },
+  {
+   "name": "Henry Morris",
+   "score": 74
   },
   {
    "name": "Rihanna",
-   "score": 75
+   "score": 74
   },
   {
    "name": "Lana Del Rey",
-   "score": 71
+   "score": 72
   },
   {
    "name": "Chase Atlantic",
    "score": 67
-  },
-  {
-   "name": "Henry Morris",
-   "score": 66
   },
   {
    "name": "The Weeknd",
@@ -48,7 +48,7 @@
   },
   {
    "name": "Presley Regier",
-   "score": 57
+   "score": 56
   },
   {
    "name": "PLVTINUM",
@@ -68,7 +68,11 @@
   },
   {
    "name": "Chris Grey",
-   "score": 50
+   "score": 49
+  },
+  {
+   "name": "Ella Boh",
+   "score": 47
   },
   {
    "name": "Pierce The Veil",
@@ -83,12 +87,8 @@
    "score": 46
   },
   {
-   "name": "Ella Boh",
-   "score": 46
-  },
-  {
    "name": "Linkin Park",
-   "score": 45
+   "score": 44
   },
   {
    "name": "Ari Abdul",
@@ -107,20 +107,16 @@
    "score": 37
   },
   {
-   "name": "Panic! At The Disco",
-   "score": 35
-  },
-  {
    "name": "Ariana Grande",
    "score": 35
   },
   {
-   "name": "Katy Perry",
-   "score": 34
+   "name": "Fall Out Boy",
+   "score": 35
   },
   {
-   "name": "Asal",
-   "score": 34
+   "name": "Katy Perry",
+   "score": 35
   },
   {
    "name": "d4vd",
@@ -128,11 +124,7 @@
   },
   {
    "name": "David Guetta",
-   "score": 34
-  },
-  {
-   "name": "Fall Out Boy",
-   "score": 34
+   "score": 33
   },
   {
    "name": "Hamza",
@@ -147,18 +139,6 @@
    "score": 32
   },
   {
-   "name": "Tate McRae",
-   "score": 32
-  },
-  {
-   "name": "Kesha",
-   "score": 32
-  },
-  {
-   "name": "Jutes",
-   "score": 30
-  },
-  {
    "name": "Damso",
    "score": 28
   },
@@ -168,23 +148,31 @@
   },
   {
    "name": "Motionless In White",
-   "score": 27
+   "score": 28
   },
   {
    "name": "Allegra Jordyn",
    "score": 27
   },
   {
-   "name": "Twenty One Pilots",
+   "name": "Panic! At The Disco",
    "score": 26
+  },
+  {
+   "name": "Jutes",
+   "score": 25
   },
   {
    "name": "Haiden Henderson",
    "score": 25
   },
   {
-   "name": "Ellie Goulding",
-   "score": 25
+   "name": "Three Days Grace",
+   "score": 24
+  },
+  {
+   "name": "Asal",
+   "score": 24
   },
   {
    "name": "Maroon 5",
@@ -199,6 +187,18 @@
    "score": 23
   },
   {
+   "name": "Bad Omens",
+   "score": 23
+  },
+  {
+   "name": "Ellie Goulding",
+   "score": 23
+  },
+  {
+   "name": "Tate McRae",
+   "score": 23
+  },
+  {
    "name": "GIMS",
    "score": 23
   },
@@ -207,8 +207,8 @@
    "score": 23
   },
   {
-   "name": "Three Days Grace",
-   "score": 23
+   "name": "Kae",
+   "score": 22
   },
   {
    "name": "Pitbull",
@@ -219,15 +219,23 @@
    "score": 21
   },
   {
+   "name": "Kesha",
+   "score": 21
+  },
+  {
    "name": "Nekfeu",
+   "score": 21
+  },
+  {
+   "name": "Billie Eilish",
    "score": 20
   },
   {
-   "name": "Tatsuya Kitani",
+   "name": "ADÉLA",
    "score": 19
   },
   {
-   "name": "Calvin Harris",
+   "name": "Tatsuya Kitani",
    "score": 19
   },
   {
@@ -239,8 +247,8 @@
    "score": 19
   },
   {
-   "name": "Billie Eilish",
-   "score": 19
+   "name": "Calvin Harris",
+   "score": 18
   },
   {
    "name": "sombr",
@@ -248,7 +256,11 @@
   },
   {
    "name": "Jfarrari",
-   "score": 18
+   "score": 17
+  },
+  {
+   "name": "Twenty One Pilots",
+   "score": 17
   },
   {
    "name": "Olly Alexander (Years & Years)",
@@ -271,8 +283,12 @@
    "score": 16
   },
   {
+   "name": "Paramore",
+   "score": 16
+  },
+  {
    "name": "Golden Cats",
-   "score": 15
+   "score": 16
   },
   {
    "name": "Charli xcx",
@@ -283,23 +299,15 @@
    "score": 15
   },
   {
-   "name": "MARINA",
-   "score": 14
-  },
-  {
-   "name": "Bad Omens",
-   "score": 14
-  },
-  {
-   "name": "ADÉLA",
-   "score": 14
-  },
-  {
    "name": "satine",
    "score": 14
   },
   {
-   "name": "Kae",
+   "name": "MARINA",
+   "score": 14
+  },
+  {
+   "name": "The Killers",
    "score": 14
   },
   {
@@ -327,10 +335,6 @@
    "score": 13
   },
   {
-   "name": "The Killers",
-   "score": 13
-  },
-  {
    "name": "Sean Paul",
    "score": 12
   },
@@ -343,8 +347,8 @@
    "score": 12
   },
   {
-   "name": "Wind Walkers",
-   "score": 11
+   "name": "VANÈS",
+   "score": 12
   },
   {
    "name": "noise dept.",
@@ -379,15 +383,15 @@
    "score": 11
   },
   {
-   "name": "Beyoncé",
-   "score": 11
-  },
-  {
    "name": "Drake",
    "score": 11
   },
   {
    "name": "VICE MONRÖE",
+   "score": 11
+  },
+  {
+   "name": "Wind Walkers",
    "score": 11
   },
   {
@@ -411,7 +415,7 @@
    "score": 10
   },
   {
-   "name": "Black Eyed Peas",
+   "name": "Beyoncé",
    "score": 10
   },
   {
@@ -420,10 +424,6 @@
   },
   {
    "name": "MXZI",
-   "score": 10
-  },
-  {
-   "name": "Justice",
    "score": 10
   },
   {
@@ -463,12 +463,20 @@
    "score": 9
   },
   {
+   "name": "Black Eyed Peas",
+   "score": 9
+  },
+  {
    "name": "Wiz Khalifa",
    "score": 9
   },
   {
    "name": "One Direction",
    "score": 9
+  },
+  {
+   "name": "Jesse®",
+   "score": 8
   },
   {
    "name": "Feist",
@@ -483,15 +491,19 @@
    "score": 8
   },
   {
+   "name": "The Fray",
+   "score": 8
+  },
+  {
+   "name": "G-Eazy",
+   "score": 8
+  },
+  {
    "name": "Melanie Martinez",
    "score": 8
   },
   {
    "name": "Troye Sivan",
-   "score": 8
-  },
-  {
-   "name": "JAŸ-Z",
    "score": 8
   },
   {
@@ -509,14 +521,6 @@
   {
    "name": "YOASOBI",
    "score": 8
-  },
-  {
-   "name": "Jesse®",
-   "score": 8
-  },
-  {
-   "name": "Paramore",
-   "score": 7
   },
   {
    "name": "Ellise",
@@ -539,11 +543,11 @@
    "score": 7
   },
   {
-   "name": "Speed Radio",
+   "name": "Two Door Cinema Club",
    "score": 7
   },
   {
-   "name": "Two Door Cinema Club",
+   "name": "Tom Odell",
    "score": 7
   },
   {
@@ -552,10 +556,6 @@
   },
   {
    "name": "M83",
-   "score": 7
-  },
-  {
-   "name": "The Fray",
    "score": 7
   },
   {
@@ -575,10 +575,6 @@
    "score": 7
   },
   {
-   "name": "G-Eazy",
-   "score": 7
-  },
-  {
    "name": "Reed Wonder",
    "score": 7
   },
@@ -592,6 +588,10 @@
   },
   {
    "name": "AURORA",
+   "score": 7
+  },
+  {
+   "name": "JAŸ-Z",
    "score": 7
   },
   {
@@ -679,6 +679,10 @@
    "score": 6
   },
   {
+   "name": "Speed Radio",
+   "score": 6
+  },
+  {
    "name": "Superbus",
    "score": 6
   },
@@ -688,10 +692,6 @@
   },
   {
    "name": "Dominic Donner",
-   "score": 6
-  },
-  {
-   "name": "Tom Odell",
    "score": 6
   },
   {
@@ -757,6 +757,10 @@
   {
    "name": "K/DA",
    "score": 6
+  },
+  {
+   "name": "Flyleaf",
+   "score": 5
   },
   {
    "name": "Nirvana",
@@ -1035,10 +1039,6 @@
    "score": 4
   },
   {
-   "name": "Flyleaf",
-   "score": 4
-  },
-  {
    "name": "Sidewalks and Skeletons",
    "score": 4
   },
@@ -1260,10 +1260,6 @@
   },
   {
    "name": "ABBA",
-   "score": 4
-  },
-  {
-   "name": "Luidji",
    "score": 4
   },
   {
@@ -1601,66 +1597,16 @@
   {
    "name": "Wyclef Jean",
    "score": 3
+  },
+  {
+   "name": "BB Brunes",
+   "score": 3
   }
  ],
  "events": [
   {
-   "artist": "Caskets",
-   "date": "2026-11-12T17:30:00",
-   "noTime": false,
-   "venue": "Manchester Academy",
-   "city": "Manchester",
-   "cc": "GB",
-   "lat": 53.464386,
-   "lng": -2.232225,
-   "links": [
-    {
-     "src": "Ticketmaster",
-     "url": "https://www.ticketmaster.co.uk/currents-erra-manchester-12-11-2026/event/1F0064ADD23D717B"
-    }
-   ],
-   "key": "caskets|2026-11-12|manchester",
-   "isNew": false
-  },
-  {
-   "artist": "Muse",
-   "date": "2026-11-12T19:30:00",
-   "noTime": false,
-   "venue": "Co-op Live",
-   "city": "Manchester",
-   "cc": "GB",
-   "lat": 53.48661136,
-   "lng": -2.1995797,
-   "links": [
-    {
-     "src": "Ticketmaster",
-     "url": "https://www.ticketmaster.co.uk/muse-the-wow-signal-europa-tour-manchester-12-11-2026/event/370064CBE63348E7"
-    }
-   ],
-   "key": "muse|2026-11-12|manchester",
-   "isNew": false
-  },
-  {
-   "artist": "Tove Lo",
-   "date": "2026-11-12T20:00:00",
-   "noTime": false,
-   "venue": "",
-   "city": "Amsterdam",
-   "cc": "NL",
-   "lat": 52.31236,
-   "lng": 4.94415,
-   "links": [
-    {
-     "src": "Ticketmaster",
-     "url": "https://www.ticketmaster.nl/event/tove-lo-estrus-tickets/6967943?language=en-us"
-    }
-   ],
-   "key": "tove lo|2026-11-12|amsterdam",
-   "isNew": false
-  },
-  {
    "artist": "The Fray",
-   "date": "2026-11-13T19:00:00",
+   "date": "2026-11-13T18:30:00",
    "noTime": false,
    "venue": "Ulster Hall Belfast",
    "city": "Belfast",
@@ -5760,7 +5706,7 @@
     }
    ],
    "key": "fall out boy|2027-06-06|manchester",
-   "isNew": true
+   "isNew": false
   },
   {
    "artist": "David Guetta",
@@ -5871,6 +5817,150 @@
    "isNew": false
   },
   {
+   "artist": "Bring Me The Horizon",
+   "date": "2027-06-09T00:00:00",
+   "noTime": true,
+   "venue": "Donington Park",
+   "city": "Derby",
+   "cc": "GB",
+   "lat": 52.828337,
+   "lng": -1.372481,
+   "links": [
+    {
+     "src": "Ticketmaster",
+     "url": "https://www.ticketmaster.co.uk/download-2027-53-night-mini-moshers-derby-09-06-2027/event/360064BCE40EB65E"
+    }
+   ],
+   "key": "bring me the horizon|2027-06-09|derby",
+   "isNew": true
+  },
+  {
+   "artist": "Pierce The Veil",
+   "date": "2027-06-09T00:00:00",
+   "noTime": true,
+   "venue": "Donington Park",
+   "city": "Derby",
+   "cc": "GB",
+   "lat": 52.828337,
+   "lng": -1.372481,
+   "links": [
+    {
+     "src": "Ticketmaster",
+     "url": "https://www.ticketmaster.co.uk/download-2027-53-night-mini-moshers-derby-09-06-2027/event/360064BCE40EB65E"
+    }
+   ],
+   "key": "pierce the veil|2027-06-09|derby",
+   "isNew": true
+  },
+  {
+   "artist": "Ally Nicholas",
+   "date": "2027-06-09T00:00:00",
+   "noTime": true,
+   "venue": "Donington Park",
+   "city": "Derby",
+   "cc": "GB",
+   "lat": 52.828337,
+   "lng": -1.372481,
+   "links": [
+    {
+     "src": "Ticketmaster",
+     "url": "https://www.ticketmaster.co.uk/download-2027-53-night-mini-moshers-derby-09-06-2027/event/360064BCE40EB65E"
+    }
+   ],
+   "key": "ally nicholas|2027-06-09|derby",
+   "isNew": true
+  },
+  {
+   "artist": "Dexter and The Moonrocks",
+   "date": "2027-06-09T00:00:00",
+   "noTime": true,
+   "venue": "Donington Park",
+   "city": "Derby",
+   "cc": "GB",
+   "lat": 52.828337,
+   "lng": -1.372481,
+   "links": [
+    {
+     "src": "Ticketmaster",
+     "url": "https://www.ticketmaster.co.uk/download-2027-53-night-mini-moshers-derby-09-06-2027/event/360064BCE40EB65E"
+    }
+   ],
+   "key": "dexter and the moonrocks|2027-06-09|derby",
+   "isNew": true
+  },
+  {
+   "artist": "sace6",
+   "date": "2027-06-09T00:00:00",
+   "noTime": true,
+   "venue": "Donington Park",
+   "city": "Derby",
+   "cc": "GB",
+   "lat": 52.828337,
+   "lng": -1.372481,
+   "links": [
+    {
+     "src": "Ticketmaster",
+     "url": "https://www.ticketmaster.co.uk/download-2027-53-night-mini-moshers-derby-09-06-2027/event/360064BCE40EB65E"
+    }
+   ],
+   "key": "sace6|2027-06-09|derby",
+   "isNew": true
+  },
+  {
+   "artist": "Dayseeker",
+   "date": "2027-06-09T00:00:00",
+   "noTime": true,
+   "venue": "Donington Park",
+   "city": "Derby",
+   "cc": "GB",
+   "lat": 52.828337,
+   "lng": -1.372481,
+   "links": [
+    {
+     "src": "Ticketmaster",
+     "url": "https://www.ticketmaster.co.uk/download-2027-53-night-mini-moshers-derby-09-06-2027/event/360064BCE40EB65E"
+    }
+   ],
+   "key": "dayseeker|2027-06-09|derby",
+   "isNew": true
+  },
+  {
+   "artist": "5 Seconds of Summer",
+   "date": "2027-06-09T00:00:00",
+   "noTime": true,
+   "venue": "Donington Park",
+   "city": "Derby",
+   "cc": "GB",
+   "lat": 52.828337,
+   "lng": -1.372481,
+   "links": [
+    {
+     "src": "Ticketmaster",
+     "url": "https://www.ticketmaster.co.uk/download-2027-53-night-mini-moshers-derby-09-06-2027/event/360064BCE40EB65E"
+    }
+   ],
+   "key": "5 seconds of summer|2027-06-09|derby",
+   "isNew": true
+  },
+  {
+   "artist": "grandson",
+   "date": "2027-06-09T00:00:00",
+   "noTime": true,
+   "venue": "Donington Park",
+   "city": "Derby",
+   "cc": "GB",
+   "lat": 52.828337,
+   "lng": -1.372481,
+   "links": [
+    {
+     "src": "Ticketmaster",
+     "url": "https://www.ticketmaster.co.uk/download-2027-53-night-mini-moshers-derby-09-06-2027/event/360064BCE40EB65E"
+    }
+   ],
+   "key": "grandson|2027-06-09|derby",
+   "isNew": true
+  },
+  {
    "artist": "Nickelback",
    "date": "2027-06-09T18:30:00",
    "noTime": false,
@@ -5905,6 +5995,150 @@
    ],
    "key": "tame impala|2027-06-09|rotterdam",
    "isNew": false
+  },
+  {
+   "artist": "Bring Me The Horizon",
+   "date": "2027-06-11T00:00:00",
+   "noTime": true,
+   "venue": "Donington Park",
+   "city": "Derby",
+   "cc": "GB",
+   "lat": 52.828337,
+   "lng": -1.372481,
+   "links": [
+    {
+     "src": "Ticketmaster",
+     "url": "https://www.ticketmaster.co.uk/download-2027-weekend-arena-derby-11-06-2027/event/360064BCA25E6857"
+    }
+   ],
+   "key": "bring me the horizon|2027-06-11|derby",
+   "isNew": true
+  },
+  {
+   "artist": "Pierce The Veil",
+   "date": "2027-06-11T00:00:00",
+   "noTime": true,
+   "venue": "Donington Park",
+   "city": "Derby",
+   "cc": "GB",
+   "lat": 52.828337,
+   "lng": -1.372481,
+   "links": [
+    {
+     "src": "Ticketmaster",
+     "url": "https://www.ticketmaster.co.uk/download-2027-weekend-arena-derby-11-06-2027/event/360064BCA25E6857"
+    }
+   ],
+   "key": "pierce the veil|2027-06-11|derby",
+   "isNew": true
+  },
+  {
+   "artist": "Ally Nicholas",
+   "date": "2027-06-11T00:00:00",
+   "noTime": true,
+   "venue": "Donington Park",
+   "city": "Derby",
+   "cc": "GB",
+   "lat": 52.828337,
+   "lng": -1.372481,
+   "links": [
+    {
+     "src": "Ticketmaster",
+     "url": "https://www.ticketmaster.co.uk/download-2027-weekend-arena-derby-11-06-2027/event/360064BCA25E6857"
+    }
+   ],
+   "key": "ally nicholas|2027-06-11|derby",
+   "isNew": true
+  },
+  {
+   "artist": "Dexter and The Moonrocks",
+   "date": "2027-06-11T00:00:00",
+   "noTime": true,
+   "venue": "Donington Park",
+   "city": "Derby",
+   "cc": "GB",
+   "lat": 52.828337,
+   "lng": -1.372481,
+   "links": [
+    {
+     "src": "Ticketmaster",
+     "url": "https://www.ticketmaster.co.uk/download-2027-weekend-arena-derby-11-06-2027/event/360064BCA25E6857"
+    }
+   ],
+   "key": "dexter and the moonrocks|2027-06-11|derby",
+   "isNew": true
+  },
+  {
+   "artist": "sace6",
+   "date": "2027-06-11T00:00:00",
+   "noTime": true,
+   "venue": "Donington Park",
+   "city": "Derby",
+   "cc": "GB",
+   "lat": 52.828337,
+   "lng": -1.372481,
+   "links": [
+    {
+     "src": "Ticketmaster",
+     "url": "https://www.ticketmaster.co.uk/download-2027-weekend-arena-derby-11-06-2027/event/360064BCA25E6857"
+    }
+   ],
+   "key": "sace6|2027-06-11|derby",
+   "isNew": true
+  },
+  {
+   "artist": "Dayseeker",
+   "date": "2027-06-11T00:00:00",
+   "noTime": true,
+   "venue": "Donington Park",
+   "city": "Derby",
+   "cc": "GB",
+   "lat": 52.828337,
+   "lng": -1.372481,
+   "links": [
+    {
+     "src": "Ticketmaster",
+     "url": "https://www.ticketmaster.co.uk/download-2027-weekend-arena-derby-11-06-2027/event/360064BCA25E6857"
+    }
+   ],
+   "key": "dayseeker|2027-06-11|derby",
+   "isNew": true
+  },
+  {
+   "artist": "5 Seconds of Summer",
+   "date": "2027-06-11T00:00:00",
+   "noTime": true,
+   "venue": "Donington Park",
+   "city": "Derby",
+   "cc": "GB",
+   "lat": 52.828337,
+   "lng": -1.372481,
+   "links": [
+    {
+     "src": "Ticketmaster",
+     "url": "https://www.ticketmaster.co.uk/download-2027-weekend-arena-derby-11-06-2027/event/360064BCA25E6857"
+    }
+   ],
+   "key": "5 seconds of summer|2027-06-11|derby",
+   "isNew": true
+  },
+  {
+   "artist": "grandson",
+   "date": "2027-06-11T00:00:00",
+   "noTime": true,
+   "venue": "Donington Park",
+   "city": "Derby",
+   "cc": "GB",
+   "lat": 52.828337,
+   "lng": -1.372481,
+   "links": [
+    {
+     "src": "Ticketmaster",
+     "url": "https://www.ticketmaster.co.uk/download-2027-weekend-arena-derby-11-06-2027/event/360064BCA25E6857"
+    }
+   ],
+   "key": "grandson|2027-06-11|derby",
+   "isNew": true
   },
   {
    "artist": "Nickelback",
@@ -6411,6 +6645,24 @@
    "isNew": false
   },
   {
+   "artist": "alt-J",
+   "date": "2027-07-02T17:30:00",
+   "noTime": false,
+   "venue": "Castlefield Bowl",
+   "city": "Manchester",
+   "cc": "GB",
+   "lat": 53.476524,
+   "lng": -2.256881,
+   "links": [
+    {
+     "src": "Ticketmaster",
+     "url": "https://www.ticketmaster.co.uk/altj-manchester-02-07-2027/event/1F00656CEEEA88A3"
+    }
+   ],
+   "key": "alt j|2027-07-02|manchester",
+   "isNew": true
+  },
+  {
    "artist": "Harry Styles",
    "date": "2027-07-02T19:00:00",
    "noTime": false,
@@ -6613,6 +6865,24 @@
    "isNew": false
   },
   {
+   "artist": "alt-J",
+   "date": "2027-07-14T18:30:00",
+   "noTime": false,
+   "venue": "The O2",
+   "city": "London",
+   "cc": "GB",
+   "lat": 51.501581,
+   "lng": 0.005519,
+   "links": [
+    {
+     "src": "Ticketmaster",
+     "url": "https://www.ticketmaster.co.uk/altj-then-again-tour-2027-london-14-07-2027/event/3500655690A72F06"
+    }
+   ],
+   "key": "alt j|2027-07-14|london",
+   "isNew": true
+  },
+  {
    "artist": "Olly Murs",
    "date": "2027-07-16T18:45:00",
    "noTime": false,
@@ -6665,6 +6935,42 @@
    ],
    "key": "sombr|2027-07-17|berlin",
    "isNew": false
+  },
+  {
+   "artist": "alt-J",
+   "date": "2027-07-17T18:00:00",
+   "noTime": false,
+   "venue": "The Piece Hall",
+   "city": "Halifax",
+   "cc": "GB",
+   "lat": 53.721432,
+   "lng": -1.85657,
+   "links": [
+    {
+     "src": "Ticketmaster",
+     "url": "https://www.ticketmaster.co.uk/altj-then-again-tour-2027-halifax-17-07-2027/event/35006548E08D8364"
+    }
+   ],
+   "key": "alt j|2027-07-17|halifax",
+   "isNew": true
+  },
+  {
+   "artist": "alt-J",
+   "date": "2027-07-18T17:00:00",
+   "noTime": false,
+   "venue": "Cardiff Castle",
+   "city": "Cardiff",
+   "cc": "GB",
+   "lat": 51.481668,
+   "lng": -3.182167,
+   "links": [
+    {
+     "src": "Ticketmaster",
+     "url": "https://www.ticketmaster.co.uk/altj-then-again-tour-2027-cardiff-18-07-2027/event/1F006541DF6666B1"
+    }
+   ],
+   "key": "alt j|2027-07-18|cardiff",
+   "isNew": true
   },
   {
    "artist": "Harry Styles",
