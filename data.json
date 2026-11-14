@@ -1,5 +1,5 @@
 {
- "at": 1794577969655,
+ "at": 1794660923402,
  "spotifyAt": 1794577873470,
  "artists": [
   {
@@ -1604,60 +1604,6 @@
   }
  ],
  "events": [
-  {
-   "artist": "The Fray",
-   "date": "2026-11-13T18:30:00",
-   "noTime": false,
-   "venue": "Ulster Hall Belfast",
-   "city": "Belfast",
-   "cc": "GB",
-   "lat": 54.59511621,
-   "lng": -5.9312439,
-   "links": [
-    {
-     "src": "Ticketmaster",
-     "url": "https://www.ticketmaster.ie/the-fray-autumn-light-tour-belfast-13-11-2026/event/3800646BDE601F59"
-    }
-   ],
-   "key": "the fray|2026-11-13|belfast",
-   "isNew": false
-  },
-  {
-   "artist": "Muse",
-   "date": "2026-11-13T19:30:00",
-   "noTime": false,
-   "venue": "Co-op Live",
-   "city": "Manchester",
-   "cc": "GB",
-   "lat": 53.48661136,
-   "lng": -2.1995797,
-   "links": [
-    {
-     "src": "Ticketmaster",
-     "url": "https://www.ticketmaster.co.uk/muse-the-wow-signal-europa-tour-manchester-13-11-2026/event/370064CFC2D142B7"
-    }
-   ],
-   "key": "muse|2026-11-13|manchester",
-   "isNew": false
-  },
-  {
-   "artist": "Montell Fish",
-   "date": "2026-11-13T20:00:00",
-   "noTime": false,
-   "venue": "",
-   "city": "Amsterdam",
-   "cc": "NL",
-   "lat": 52.38706,
-   "lng": 4.86875,
-   "links": [
-    {
-     "src": "Ticketmaster",
-     "url": "https://www.ticketmaster.nl/event/montell-fish-the-nest-tour-tickets/1833841315?language=en-us"
-    }
-   ],
-   "key": "montell fish|2026-11-13|amsterdam",
-   "isNew": false
-  },
   {
    "artist": "Caskets",
    "date": "2026-11-14T17:00:00",
@@ -5832,7 +5778,7 @@
     }
    ],
    "key": "bring me the horizon|2027-06-09|derby",
-   "isNew": true
+   "isNew": false
   },
   {
    "artist": "Pierce The Veil",
@@ -5850,7 +5796,7 @@
     }
    ],
    "key": "pierce the veil|2027-06-09|derby",
-   "isNew": true
+   "isNew": false
   },
   {
    "artist": "Ally Nicholas",
@@ -5868,7 +5814,7 @@
     }
    ],
    "key": "ally nicholas|2027-06-09|derby",
-   "isNew": true
+   "isNew": false
   },
   {
    "artist": "Dexter and The Moonrocks",
@@ -5886,7 +5832,7 @@
     }
    ],
    "key": "dexter and the moonrocks|2027-06-09|derby",
-   "isNew": true
+   "isNew": false
   },
   {
    "artist": "sace6",
@@ -5904,7 +5850,7 @@
     }
    ],
    "key": "sace6|2027-06-09|derby",
-   "isNew": true
+   "isNew": false
   },
   {
    "artist": "Dayseeker",
@@ -5922,7 +5868,7 @@
     }
    ],
    "key": "dayseeker|2027-06-09|derby",
-   "isNew": true
+   "isNew": false
   },
   {
    "artist": "5 Seconds of Summer",
@@ -5940,7 +5886,7 @@
     }
    ],
    "key": "5 seconds of summer|2027-06-09|derby",
-   "isNew": true
+   "isNew": false
   },
   {
    "artist": "grandson",
@@ -5958,7 +5904,7 @@
     }
    ],
    "key": "grandson|2027-06-09|derby",
-   "isNew": true
+   "isNew": false
   },
   {
    "artist": "Nickelback",
@@ -6012,7 +5958,7 @@
     }
    ],
    "key": "bring me the horizon|2027-06-11|derby",
-   "isNew": true
+   "isNew": false
   },
   {
    "artist": "Pierce The Veil",
@@ -6030,7 +5976,7 @@
     }
    ],
    "key": "pierce the veil|2027-06-11|derby",
-   "isNew": true
+   "isNew": false
   },
   {
    "artist": "Ally Nicholas",
@@ -6048,7 +5994,7 @@
     }
    ],
    "key": "ally nicholas|2027-06-11|derby",
-   "isNew": true
+   "isNew": false
   },
   {
    "artist": "Dexter and The Moonrocks",
@@ -6066,7 +6012,7 @@
     }
    ],
    "key": "dexter and the moonrocks|2027-06-11|derby",
-   "isNew": true
+   "isNew": false
   },
   {
    "artist": "sace6",
@@ -6084,7 +6030,7 @@
     }
    ],
    "key": "sace6|2027-06-11|derby",
-   "isNew": true
+   "isNew": false
   },
   {
    "artist": "Dayseeker",
@@ -6102,7 +6048,7 @@
     }
    ],
    "key": "dayseeker|2027-06-11|derby",
-   "isNew": true
+   "isNew": false
   },
   {
    "artist": "5 Seconds of Summer",
@@ -6120,7 +6066,7 @@
     }
    ],
    "key": "5 seconds of summer|2027-06-11|derby",
-   "isNew": true
+   "isNew": false
   },
   {
    "artist": "grandson",
@@ -6138,7 +6084,7 @@
     }
    ],
    "key": "grandson|2027-06-11|derby",
-   "isNew": true
+   "isNew": false
   },
   {
    "artist": "Nickelback",
@@ -6660,7 +6606,7 @@
     }
    ],
    "key": "alt j|2027-07-02|manchester",
-   "isNew": true
+   "isNew": false
   },
   {
    "artist": "Harry Styles",
@@ -6880,7 +6826,7 @@
     }
    ],
    "key": "alt j|2027-07-14|london",
-   "isNew": true
+   "isNew": false
   },
   {
    "artist": "Olly Murs",
@@ -6952,7 +6898,7 @@
     }
    ],
    "key": "alt j|2027-07-17|halifax",
-   "isNew": true
+   "isNew": false
   },
   {
    "artist": "alt-J",
@@ -6970,7 +6916,7 @@
     }
    ],
    "key": "alt j|2027-07-18|cardiff",
-   "isNew": true
+   "isNew": false
   },
   {
    "artist": "Harry Styles",
