@@ -1,5 +1,5 @@
 {
- "at": 1794660923402,
+ "at": 1794749105340,
  "spotifyAt": 1794577873470,
  "artists": [
   {
@@ -1605,60 +1605,6 @@
  ],
  "events": [
   {
-   "artist": "Caskets",
-   "date": "2026-11-14T17:00:00",
-   "noTime": false,
-   "venue": "KK's Steel Mill",
-   "city": "Wolverhampton",
-   "cc": "GB",
-   "lat": 52.5786863,
-   "lng": -2.1309853,
-   "links": [
-    {
-     "src": "Ticketmaster",
-     "url": "https://www.universe.com/events/currents-erra-tickets-PKZJ7N?ref=ticketmaster"
-    }
-   ],
-   "key": "caskets|2026-11-14|wolverhampton",
-   "isNew": false
-  },
-  {
-   "artist": "Wisp",
-   "date": "2026-11-14T18:30:00",
-   "noTime": false,
-   "venue": "OVO Hydro",
-   "city": "Glasgow",
-   "cc": "GB",
-   "lat": 55.86087,
-   "lng": -4.288154,
-   "links": [
-    {
-     "src": "Ticketmaster",
-     "url": "https://www.ticketmaster.co.uk/venue-premium-beabadoobee-the-powerlines-tour-glasgow-14-11-2026/event/360064DA982D4FEC"
-    }
-   ],
-   "key": "wisp|2026-11-14|glasgow",
-   "isNew": false
-  },
-  {
-   "artist": "Tove Lo",
-   "date": "2026-11-14T20:00:00",
-   "noTime": false,
-   "venue": "",
-   "city": "Berlin",
-   "cc": "DE",
-   "lat": 52.48461,
-   "lng": 13.3914,
-   "links": [
-    {
-     "src": "Ticketmaster",
-     "url": "https://www.ticketmaster.de/event/tove-lo-estrus-%7C-tove-lo-signed-first-entry-package-tickets/1032443768?language=en-us"
-    }
-   ],
-   "key": "tove lo|2026-11-14|berlin",
-   "isNew": false
-  },
-  {
    "artist": "Tayc",
    "date": "2026-11-15T18:00:00",
    "noTime": false,
@@ -2966,7 +2912,7 @@
    "links": [
     {
      "src": "JamBase",
-     "url": "https://www.jambase.com/show/david-guetta-stade-de-france-20261206?utm_source=google&utm_medium=gac&source=ea"
+     "url": "https://www.google.com/goto?url=CAESqgEBxCJF15YcMPXcpmuJpmHPQMO8IiOer1xee8pB-7l7eu0KY5je8HTcl2P8UyjibKUlwvyMuqGNj4wzZ3Fj54FDFADUmNJe47I_S3Yd8-ZKUwYC_lCQ8ITHh9ggoe427klL6FZTRaFZ9MtnwsiCF-S1spldkbCgAJKzerIHL-Gi1wHDTWGJtmIZsZGpBVg4PFMOYtkDFQLWMVu9qQ4GopjRtYmjNHUcGjkxTA&gsessionid=clyqsQAvEV_4i7qk2ObtmjwyMeJwa7m1yKeB2DVE7p0RkDVUNVDaDA"
     }
    ],
    "key": "david guetta|2026-12-06|saint denis",
@@ -4262,7 +4208,7 @@
    "links": [
     {
      "src": "JamBase",
-     "url": "https://www.jambase.com/show/nessa-barrett-lolympia-20270309?utm_source=google&utm_medium=gac&source=ea"
+     "url": "https://www.google.com/goto?url=CAESpAEBxCJF11cZylFvCM9878RqxbJJQVGs3AIKQJXVQqfDimqptCiPS_Hr0kuMMJ8cyngY1QlCJPeXeKzeKIEXMeo6yJbhh3GSh_1IEJfJYd9A_yVtI9TImO4eJt_-KbuOWr6r0jOMLPT6ZAcq5eymx3-UUJKgRP9vIccgwN1lNPcjcww8FmE1LjhYeQaFVge_KCjUohpmyA43F21MToBgOHklbXllNg&gsessionid=G4RGikzCLREgUWK_8nvh8-2llrhqIDc_lP5plHaXPU-FPCkm1kF6iQ"
     }
    ],
    "key": "nessa barrett|2027-03-09|paris",
@@ -4284,24 +4230,6 @@
     }
    ],
    "key": "nessa barrett|2027-03-11|borgerhout",
-   "isNew": false
-  },
-  {
-   "artist": "Nessa Barrett",
-   "date": "2027-03-12T00:00:00",
-   "noTime": true,
-   "venue": "L'olympia",
-   "city": "Paris",
-   "cc": "FR",
-   "lat": 48.8566,
-   "lng": 2.3522,
-   "links": [
-    {
-     "src": "Ticketmaster.fr",
-     "url": "https://www.ticketmaster.fr/fr/manifestation/nessa-barrett-billet/idmanif/673692/idseance/4428675/attribauto"
-    }
-   ],
-   "key": "nessa barrett|2027-03-12|paris",
    "isNew": false
   },
   {
@@ -5666,7 +5594,7 @@
    "links": [
     {
      "src": "JamBase",
-     "url": "https://www.jambase.com/show/david-guetta-o2-arena-20270606?utm_source=google&utm_medium=gac&source=ea"
+     "url": "https://www.google.com/goto?url=CAESowEBxCJF16yDeoalXEoDdiHS1c4t-o333NQG-6Su7hxs_2g8N1nNi6gVuDoxVrPG4IB0OO10-3wiHkMA9A37fnGLHzxUZtkYQYg0rMhU6rZPQm3sXM4yA01ubf6wgW4oll6d_guQtQWxNlIdbSYykuj-Jv6FRNPZUWW2CcX5Ikz0870ytagJCdeYfez-SOzC9JYYtnkqJER-BNLSXGx4B6w_I3zR&gsessionid=clyqsQAvEV_4i7qk2ObtmjwyMeJwa7m1yKeB2DVE7p0RkDVUNVDaDA"
     }
    ],
    "key": "david guetta|2027-06-06|london",
@@ -6102,24 +6030,6 @@
     }
    ],
    "key": "nickelback|2027-06-11|hannover",
-   "isNew": false
-  },
-  {
-   "artist": "Tame Impala",
-   "date": "2027-06-12T00:00:00",
-   "noTime": true,
-   "venue": "",
-   "city": "",
-   "cc": "FR",
-   "lat": null,
-   "lng": null,
-   "links": [
-    {
-     "src": "See Tickets",
-     "url": "https://www.seetickets.com/fr/tg/tour/tame-impala/46504"
-    }
-   ],
-   "key": "tame impala|2027-06-12|",
    "isNew": false
   },
   {
@@ -6638,11 +6548,11 @@
    "links": [
     {
      "src": "JamBase",
-     "url": "https://www.jambase.com/festival/main-square-festival-2027?utm_source=google&utm_medium=gac&source=ea"
+     "url": "https://www.google.com/goto?url=CAESogEBxCJF1yb43QAdPxP3ZTL9ED1-NhKWj3-s4-fXx50X-89QKqIeEgitPpaRtFMfrDQdea2K2AIFJvLdvlcMa-gXS4e7i3iKYjdlt8ZpiXOi0JlG9h06G4lUzpsZ8efpLP7ZlzktsHvYj1IsOFm2wpvGA6ptsS6nQMqcVK09xf3gLFOIZfJyFrJCDHntT89JBDoJvCaiRC9GlghmVK1r149u-mQ&gsessionid=clyqsQAvEV_4i7qk2ObtmjwyMeJwa7m1yKeB2DVE7p0RkDVUNVDaDA"
     },
     {
      "src": "Bandsintown",
-     "url": "https://www.bandsintown.com/e/108781426?app_id=ggl_feed&came_from=289&utm_medium=web&utm_source=ggl_feed&utm_campaign=event&source=ea"
+     "url": "https://www.google.com/goto?url=CAESwwEBxCJF14wouYRuaYtIub0nG02qUjWQCyhHdUk_0v9Udr8FTrHjgSUrHKVskyMg5qcy6QApVmDQV4zJRZcNJrp9-nSJ6AkCTxB5Sy-UyYWDY0XkDg2qqrMJqWl7EyiMs2-YsQ_b7hBzHahAMLpFdCOy_EL6TxO3TnqNVucLJVu3AIUymiH_cyYwkKCcqJV8aVPZeX-8t2J7EDmCcZz3a4SdqGUVWuLebLla3auxBaBQANnRtwJilJrXYl0NdhtXHltnDBc&gsessionid=clyqsQAvEV_4i7qk2ObtmjwyMeJwa7m1yKeB2DVE7p0RkDVUNVDaDA"
     }
    ],
    "key": "david guetta|2027-07-03|arras",
@@ -6786,7 +6696,7 @@
    "links": [
     {
      "src": "Bandsintown",
-     "url": "https://www.bandsintown.com/e/108781429?app_id=ggl_feed&came_from=289&utm_medium=web&utm_source=ggl_feed&utm_campaign=event&source=ea"
+     "url": "https://www.google.com/goto?url=CAESwwEBxCJF1xskXqIXGAL_NET3voH7lejsteWL4JyZ9GP-NEX27y8xi9Q6hsy2GJfOKEGbd1e5gAVNRSS2MoSdVgeG2hpmpeGkDtdTGJ0ipwhdp6VaUYmYVI8s3CvyuKVmGDJY3f_1miVBcPM8JsA3biEtmoQDV165pCHRK88VP1BWxtMyisX0XrXZLKwaPoKR92C9yUQIywp75RIIaHt5omoTjvod1wt_Dn2UM1Bl-bHl2Fx2PEikztXt3T60Jp8akrS11h8&gsessionid=clyqsQAvEV_4i7qk2ObtmjwyMeJwa7m1yKeB2DVE7p0RkDVUNVDaDA"
     }
    ],
    "key": "david guetta|2027-07-10|neustadt glewe",
@@ -7155,7 +7065,7 @@
  ],
  "serp": {
   "v": 3,
-  "at": 1794141750499,
+  "at": 1794749105324,
   "events": [
    {
     "artist": "Nessa Barrett",
@@ -7169,55 +7079,7 @@
     "links": [
      {
       "src": "JamBase",
-      "url": "https://www.jambase.com/show/nessa-barrett-lolympia-20270309?utm_source=google&utm_medium=gac&source=ea"
-     }
-    ]
-   },
-   {
-    "artist": "Nessa Barrett",
-    "date": "2027-03-12T00:00:00",
-    "noTime": true,
-    "venue": "L'olympia",
-    "city": "Paris",
-    "cc": "FR",
-    "lat": 48.8566,
-    "lng": 2.3522,
-    "links": [
-     {
-      "src": "Ticketmaster.fr",
-      "url": "https://www.ticketmaster.fr/fr/manifestation/nessa-barrett-billet/idmanif/673692/idseance/4428675/attribauto"
-     }
-    ]
-   },
-   {
-    "artist": "Bring Me The Horizon",
-    "date": "2018-11-21T00:00:00",
-    "noTime": true,
-    "venue": "",
-    "city": "",
-    "cc": "FR",
-    "lat": null,
-    "lng": null,
-    "links": [
-     {
-      "src": "Ticketmaster.fr",
-      "url": "https://www.ticketmaster.fr/fr/artiste/bring-me-the-horizon/idartiste/274"
-     }
-    ]
-   },
-   {
-    "artist": "Tame Impala",
-    "date": "2027-06-12T00:00:00",
-    "noTime": true,
-    "venue": "",
-    "city": "",
-    "cc": "FR",
-    "lat": null,
-    "lng": null,
-    "links": [
-     {
-      "src": "See Tickets",
-      "url": "https://www.seetickets.com/fr/tg/tour/tame-impala/46504"
+      "url": "https://www.google.com/goto?url=CAESpAEBxCJF11cZylFvCM9878RqxbJJQVGs3AIKQJXVQqfDimqptCiPS_Hr0kuMMJ8cyngY1QlCJPeXeKzeKIEXMeo6yJbhh3GSh_1IEJfJYd9A_yVtI9TImO4eJt_-KbuOWr6r0jOMLPT6ZAcq5eymx3-UUJKgRP9vIccgwN1lNPcjcww8FmE1LjhYeQaFVge_KCjUohpmyA43F21MToBgOHklbXllNg&gsessionid=G4RGikzCLREgUWK_8nvh8-2llrhqIDc_lP5plHaXPU-FPCkm1kF6iQ"
      }
     ]
    },
@@ -7233,7 +7095,7 @@
     "links": [
      {
       "src": "JamBase",
-      "url": "https://www.jambase.com/show/david-guetta-stade-de-france-20261206?utm_source=google&utm_medium=gac&source=ea"
+      "url": "https://www.google.com/goto?url=CAESqgEBxCJF15YcMPXcpmuJpmHPQMO8IiOer1xee8pB-7l7eu0KY5je8HTcl2P8UyjibKUlwvyMuqGNj4wzZ3Fj54FDFADUmNJe47I_S3Yd8-ZKUwYC_lCQ8ITHh9ggoe427klL6FZTRaFZ9MtnwsiCF-S1spldkbCgAJKzerIHL-Gi1wHDTWGJtmIZsZGpBVg4PFMOYtkDFQLWMVu9qQ4GopjRtYmjNHUcGjkxTA&gsessionid=clyqsQAvEV_4i7qk2ObtmjwyMeJwa7m1yKeB2DVE7p0RkDVUNVDaDA"
      }
     ]
    },
@@ -7249,7 +7111,7 @@
     "links": [
      {
       "src": "JamBase",
-      "url": "https://www.jambase.com/show/david-guetta-o2-arena-20270606?utm_source=google&utm_medium=gac&source=ea"
+      "url": "https://www.google.com/goto?url=CAESowEBxCJF16yDeoalXEoDdiHS1c4t-o333NQG-6Su7hxs_2g8N1nNi6gVuDoxVrPG4IB0OO10-3wiHkMA9A37fnGLHzxUZtkYQYg0rMhU6rZPQm3sXM4yA01ubf6wgW4oll6d_guQtQWxNlIdbSYykuj-Jv6FRNPZUWW2CcX5Ikz0870ytagJCdeYfez-SOzC9JYYtnkqJER-BNLSXGx4B6w_I3zR&gsessionid=clyqsQAvEV_4i7qk2ObtmjwyMeJwa7m1yKeB2DVE7p0RkDVUNVDaDA"
      }
     ]
    },
@@ -7265,11 +7127,11 @@
     "links": [
      {
       "src": "JamBase",
-      "url": "https://www.jambase.com/festival/main-square-festival-2027?utm_source=google&utm_medium=gac&source=ea"
+      "url": "https://www.google.com/goto?url=CAESogEBxCJF1yb43QAdPxP3ZTL9ED1-NhKWj3-s4-fXx50X-89QKqIeEgitPpaRtFMfrDQdea2K2AIFJvLdvlcMa-gXS4e7i3iKYjdlt8ZpiXOi0JlG9h06G4lUzpsZ8efpLP7ZlzktsHvYj1IsOFm2wpvGA6ptsS6nQMqcVK09xf3gLFOIZfJyFrJCDHntT89JBDoJvCaiRC9GlghmVK1r149u-mQ&gsessionid=clyqsQAvEV_4i7qk2ObtmjwyMeJwa7m1yKeB2DVE7p0RkDVUNVDaDA"
      },
      {
       "src": "Bandsintown",
-      "url": "https://www.bandsintown.com/e/108781426?app_id=ggl_feed&came_from=289&utm_medium=web&utm_source=ggl_feed&utm_campaign=event&source=ea"
+      "url": "https://www.google.com/goto?url=CAESwwEBxCJF14wouYRuaYtIub0nG02qUjWQCyhHdUk_0v9Udr8FTrHjgSUrHKVskyMg5qcy6QApVmDQV4zJRZcNJrp9-nSJ6AkCTxB5Sy-UyYWDY0XkDg2qqrMJqWl7EyiMs2-YsQ_b7hBzHahAMLpFdCOy_EL6TxO3TnqNVucLJVu3AIUymiH_cyYwkKCcqJV8aVPZeX-8t2J7EDmCcZz3a4SdqGUVWuLebLla3auxBaBQANnRtwJilJrXYl0NdhtXHltnDBc&gsessionid=clyqsQAvEV_4i7qk2ObtmjwyMeJwa7m1yKeB2DVE7p0RkDVUNVDaDA"
      }
     ]
    },
@@ -7285,7 +7147,7 @@
     "links": [
      {
       "src": "Bandsintown",
-      "url": "https://www.bandsintown.com/e/108781426?app_id=ggl_feed&came_from=289&utm_medium=web&utm_source=ggl_feed&utm_campaign=event&source=ea"
+      "url": "https://www.google.com/goto?url=CAESwwEBxCJF14wouYRuaYtIub0nG02qUjWQCyhHdUk_0v9Udr8FTrHjgSUrHKVskyMg5qcy6QApVmDQV4zJRZcNJrp9-nSJ6AkCTxB5Sy-UyYWDY0XkDg2qqrMJqWl7EyiMs2-YsQ_b7hBzHahAMLpFdCOy_EL6TxO3TnqNVucLJVu3AIUymiH_cyYwkKCcqJV8aVPZeX-8t2J7EDmCcZz3a4SdqGUVWuLebLla3auxBaBQANnRtwJilJrXYl0NdhtXHltnDBc&gsessionid=clyqsQAvEV_4i7qk2ObtmjwyMeJwa7m1yKeB2DVE7p0RkDVUNVDaDA"
      }
     ]
    },
@@ -7301,7 +7163,7 @@
     "links": [
      {
       "src": "Bandsintown",
-      "url": "https://www.bandsintown.com/e/108781429?app_id=ggl_feed&came_from=289&utm_medium=web&utm_source=ggl_feed&utm_campaign=event&source=ea"
+      "url": "https://www.google.com/goto?url=CAESwwEBxCJF1xskXqIXGAL_NET3voH7lejsteWL4JyZ9GP-NEX27y8xi9Q6hsy2GJfOKEGbd1e5gAVNRSS2MoSdVgeG2hpmpeGkDtdTGJ0ipwhdp6VaUYmYVI8s3CvyuKVmGDJY3f_1miVBcPM8JsA3biEtmoQDV165pCHRK88VP1BWxtMyisX0XrXZLKwaPoKR92C9yUQIywp75RIIaHt5omoTjvod1wt_Dn2UM1Bl-bHl2Fx2PEikztXt3T60Jp8akrS11h8&gsessionid=clyqsQAvEV_4i7qk2ObtmjwyMeJwa7m1yKeB2DVE7p0RkDVUNVDaDA"
      }
     ]
    }
