@@ -1,5 +1,5 @@
 {
- "at": 1794749105340,
+ "at": 1794839918778,
  "spotifyAt": 1794577873470,
  "artists": [
   {
@@ -1604,132 +1604,6 @@
   }
  ],
  "events": [
-  {
-   "artist": "Tayc",
-   "date": "2026-11-15T18:00:00",
-   "noTime": false,
-   "venue": "OVO Arena Wembley",
-   "city": "London",
-   "cc": "GB",
-   "lat": 51.557918,
-   "lng": -0.283527,
-   "links": [
-    {
-     "src": "Ticketmaster",
-     "url": "https://www.ticketmaster.co.uk/tayc-venue-premium-tickets-london-15-11-2026/event/370064A8ADAF41D8"
-    }
-   ],
-   "key": "tayc|2026-11-15|london",
-   "isNew": false
-  },
-  {
-   "artist": "Caskets",
-   "date": "2026-11-15T18:00:00",
-   "noTime": false,
-   "venue": "O2 Forum Kentish Town",
-   "city": "London",
-   "cc": "GB",
-   "lat": 51.552039,
-   "lng": -0.14193,
-   "links": [
-    {
-     "src": "Ticketmaster",
-     "url": "https://www.ticketmaster.co.uk/currents-erra-london-15-11-2026/event/3E0064B4FEB487AD"
-    }
-   ],
-   "key": "caskets|2026-11-15|london",
-   "isNew": false
-  },
-  {
-   "artist": "Muse",
-   "date": "2026-11-15T18:00:00",
-   "noTime": false,
-   "venue": "The O2",
-   "city": "London",
-   "cc": "GB",
-   "lat": 51.501581,
-   "lng": 0.005519,
-   "links": [
-    {
-     "src": "Ticketmaster",
-     "url": "https://www.ticketmaster.co.uk/muse-the-wow-signal-europa-tour-london-15-11-2026/event/350064CAED82D478"
-    }
-   ],
-   "key": "muse|2026-11-15|london",
-   "isNew": false
-  },
-  {
-   "artist": "The Fray",
-   "date": "2026-11-15T19:00:00",
-   "noTime": false,
-   "venue": "O2 Academy Bristol",
-   "city": "Bristol",
-   "cc": "GB",
-   "lat": 51.454142,
-   "lng": -2.600849,
-   "links": [
-    {
-     "src": "Ticketmaster",
-     "url": "https://www.ticketmaster.co.uk/the-fray-bristol-15-11-2026/event/3E00646D90AD3589"
-    }
-   ],
-   "key": "the fray|2026-11-15|bristol",
-   "isNew": false
-  },
-  {
-   "artist": "Artemas",
-   "date": "2026-11-15T20:00:00",
-   "noTime": false,
-   "venue": "",
-   "city": "Cologne",
-   "cc": "DE",
-   "lat": 50.96949,
-   "lng": 7.01777,
-   "links": [
-    {
-     "src": "Ticketmaster",
-     "url": "https://www.ticketmaster.de/event/artemas-lovercore-getting-up-to-no-good-tour-tickets/815576469?language=en-us"
-    }
-   ],
-   "key": "artemas|2026-11-15|cologne",
-   "isNew": false
-  },
-  {
-   "artist": "Henry Morris",
-   "date": "2026-11-15T20:00:00",
-   "noTime": false,
-   "venue": "",
-   "city": "Cologne",
-   "cc": "DE",
-   "lat": 50.96949,
-   "lng": 7.01777,
-   "links": [
-    {
-     "src": "Ticketmaster",
-     "url": "https://www.ticketmaster.de/event/artemas-lovercore-getting-up-to-no-good-tour-tickets/815576469?language=en-us"
-    }
-   ],
-   "key": "henry morris|2026-11-15|cologne",
-   "isNew": false
-  },
-  {
-   "artist": "Ella Boh",
-   "date": "2026-11-15T20:00:00",
-   "noTime": false,
-   "venue": "",
-   "city": "Cologne",
-   "cc": "DE",
-   "lat": 50.96949,
-   "lng": 7.01777,
-   "links": [
-    {
-     "src": "Ticketmaster",
-     "url": "https://www.ticketmaster.de/event/artemas-lovercore-getting-up-to-no-good-tour-tickets/815576469?language=en-us"
-    }
-   ],
-   "key": "ella boh|2026-11-15|cologne",
-   "isNew": false
-  },
   {
    "artist": "Wisp",
    "date": "2026-11-16T18:30:00",
@@ -6829,6 +6703,24 @@
    "isNew": false
   },
   {
+   "artist": "Superbus",
+   "date": "2027-07-30T16:00:00",
+   "noTime": false,
+   "venue": "Place Nova Friburgo",
+   "city": "Estavayer-le-Lac",
+   "cc": "CH",
+   "lat": 46.85185,
+   "lng": 6.83957,
+   "links": [
+    {
+     "src": "Ticketmaster",
+     "url": "https://www.ticketmaster.ch/event/estivale-open-air-2027-%7C-friday-tickets/302703142?language=en-us"
+    }
+   ],
+   "key": "superbus|2027-07-30|estavayer le lac",
+   "isNew": true
+  },
+  {
    "artist": "Harry Styles",
    "date": "2027-07-30T20:45:00",
    "noTime": false,
@@ -6989,6 +6881,42 @@
    ],
    "key": "harry styles|2027-08-28|london",
    "isNew": false
+  },
+  {
+   "artist": "Superbus",
+   "date": "2027-08-31T00:00:00",
+   "noTime": true,
+   "venue": "Place Nova Friburgo",
+   "city": "Estavayer-le-Lac",
+   "cc": "CH",
+   "lat": 46.85185,
+   "lng": 6.83957,
+   "links": [
+    {
+     "src": "Ticketmaster",
+     "url": "https://www.ticketmaster.ch/event/estivale-open-air-2027-%7C-4-day-pass-2807--31072027--tickets/1783690589?language=en-us"
+    }
+   ],
+   "key": "superbus|2027-08-31|estavayer le lac",
+   "isNew": true
+  },
+  {
+   "artist": "St. Vincent",
+   "date": "2027-09-11T16:00:00",
+   "noTime": false,
+   "venue": "Wembley Stadium",
+   "city": "London",
+   "cc": "GB",
+   "lat": 51.557807,
+   "lng": -0.279581,
+   "links": [
+    {
+     "src": "Ticketmaster",
+     "url": "https://www.ticketmaster.co.uk/foo-fighters-take-cover-tour-2027-london-11-09-2027/event/2300656C0B252511"
+    }
+   ],
+   "key": "st vincent|2027-09-11|london",
+   "isNew": true
   },
   {
    "artist": "Charlotte Cardin",
