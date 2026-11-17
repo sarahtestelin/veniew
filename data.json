@@ -1,5 +1,5 @@
 {
- "at": 1794839918778,
+ "at": 1794929268893,
  "spotifyAt": 1794577873470,
  "artists": [
   {
@@ -1604,114 +1604,6 @@
   }
  ],
  "events": [
-  {
-   "artist": "Wisp",
-   "date": "2026-11-16T18:30:00",
-   "noTime": false,
-   "venue": "Utilita Arena Cardiff",
-   "city": "Cardiff",
-   "cc": "GB",
-   "lat": 51.478931,
-   "lng": -3.171771,
-   "links": [
-    {
-     "src": "Ticketmaster",
-     "url": "https://www.ticketmaster.co.uk/beabadoobee-the-powerlines-tour-cardiff-16-11-2026/event/360064D6E00CAA4C"
-    }
-   ],
-   "key": "wisp|2026-11-16|cardiff",
-   "isNew": false
-  },
-  {
-   "artist": "Muse",
-   "date": "2026-11-16T18:30:00",
-   "noTime": false,
-   "venue": "The O2",
-   "city": "London",
-   "cc": "GB",
-   "lat": 51.501581,
-   "lng": 0.005519,
-   "links": [
-    {
-     "src": "Ticketmaster",
-     "url": "https://www.ticketmaster.co.uk/muse-the-wow-signal-europa-tour-london-16-11-2026/event/350064CB99518D1D"
-    }
-   ],
-   "key": "muse|2026-11-16|london",
-   "isNew": false
-  },
-  {
-   "artist": "The Fray",
-   "date": "2026-11-16T19:00:00",
-   "noTime": false,
-   "venue": "Eventim Apollo",
-   "city": "London",
-   "cc": "GB",
-   "lat": 51.490693,
-   "lng": -0.224423,
-   "links": [
-    {
-     "src": "Ticketmaster",
-     "url": "https://www.ticketmaster.co.uk/the-fray-london-16-11-2026/event/3600646DC20269C0"
-    }
-   ],
-   "key": "the fray|2026-11-16|london",
-   "isNew": false
-  },
-  {
-   "artist": "ridgeclub",
-   "date": "2026-11-16T19:30:00",
-   "noTime": false,
-   "venue": "St Pancras Old Church",
-   "city": "London",
-   "cc": "GB",
-   "lat": 51.5352,
-   "lng": -0.131441,
-   "links": [
-    {
-     "src": "Ticketmaster",
-     "url": "https://www.ticketmaster.co.uk/ridgeclub-london-16-11-2026/event/1F00652AA02F29BA"
-    }
-   ],
-   "key": "ridgeclub|2026-11-16|london",
-   "isNew": false
-  },
-  {
-   "artist": "Pitbull",
-   "date": "2026-11-16T20:00:00",
-   "noTime": false,
-   "venue": "",
-   "city": "Dortmund",
-   "cc": "DE",
-   "lat": 51.49688,
-   "lng": 7.4567,
-   "links": [
-    {
-     "src": "Ticketmaster",
-     "url": "https://www.ticketmaster.de/event/pitbull-im-back-tickets/1060783160?language=en-us"
-    }
-   ],
-   "key": "pitbull|2026-11-16|dortmund",
-   "isNew": false
-  },
-  {
-   "artist": "Placebo",
-   "date": "2026-11-16T20:00:00",
-   "noTime": false,
-   "venue": "Uber Arena",
-   "city": "Berlin",
-   "cc": "DE",
-   "lat": 52.50573,
-   "lng": 13.44314,
-   "links": [
-    {
-     "src": "Ticketmaster",
-     "url": "https://www.ticketmaster.de/event/placebo-30th-anniversary-tour-%7C-premium-packages-tickets/233228993?language=en-us"
-    }
-   ],
-   "key": "placebo|2026-11-16|berlin",
-   "isNew": false
-  },
   {
    "artist": "Wisp",
    "date": "2026-11-17T18:30:00",
@@ -6177,6 +6069,24 @@
    "isNew": false
   },
   {
+   "artist": "Bastille",
+   "date": "2027-06-22T17:00:00",
+   "noTime": false,
+   "venue": "Canon's Marsh Amphitheatre",
+   "city": "Bristol",
+   "cc": "GB",
+   "lat": 51.448621,
+   "lng": -2.60085,
+   "links": [
+    {
+     "src": "Ticketmaster",
+     "url": "https://www.ticketmaster.co.uk/bristol-sounds-bastille-bristol-22-06-2027/event/1F00656CF5498FDE"
+    }
+   ],
+   "key": "bastille|2027-06-22|bristol",
+   "isNew": true
+  },
+  {
    "artist": "sombr",
    "date": "2027-06-22T18:30:00",
    "noTime": false,
@@ -6718,7 +6628,7 @@
     }
    ],
    "key": "superbus|2027-07-30|estavayer le lac",
-   "isNew": true
+   "isNew": false
   },
   {
    "artist": "Harry Styles",
@@ -6898,7 +6808,7 @@
     }
    ],
    "key": "superbus|2027-08-31|estavayer le lac",
-   "isNew": true
+   "isNew": false
   },
   {
    "artist": "St. Vincent",
@@ -6916,6 +6826,24 @@
     }
    ],
    "key": "st vincent|2027-09-11|london",
+   "isNew": false
+  },
+  {
+   "artist": "St. Vincent",
+   "date": "2027-09-14T16:00:00",
+   "noTime": false,
+   "venue": "Darlington Arena",
+   "city": "Darlington",
+   "cc": "GB",
+   "lat": 54.50789,
+   "lng": -1.535123,
+   "links": [
+    {
+     "src": "Ticketmaster",
+     "url": "https://www.ticketmaster.co.uk/foo-fighters-take-cover-tour-2027-darlington-14-09-2027/event/3700656AA0DE4A1C"
+    }
+   ],
+   "key": "st vincent|2027-09-14|darlington",
    "isNew": true
   },
   {
