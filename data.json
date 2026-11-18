@@ -1,5 +1,5 @@
 {
- "at": 1794929268893,
+ "at": 1795014083612,
  "spotifyAt": 1794577873470,
  "artists": [
   {
@@ -1604,42 +1604,6 @@
   }
  ],
  "events": [
-  {
-   "artist": "Wisp",
-   "date": "2026-11-17T18:30:00",
-   "noTime": false,
-   "venue": "AO Arena",
-   "city": "Manchester",
-   "cc": "GB",
-   "lat": 53.488164,
-   "lng": -2.244066,
-   "links": [
-    {
-     "src": "Ticketmaster",
-     "url": "https://www.ticketmaster.co.uk/beabadoobee-the-powerlines-tour-manchester-17-11-2026/event/1F0064D2B5DAD24A"
-    }
-   ],
-   "key": "wisp|2026-11-17|manchester",
-   "isNew": false
-  },
-  {
-   "artist": "ridgeclub",
-   "date": "2026-11-17T19:00:00",
-   "noTime": false,
-   "venue": "London The Old Church (Stoke Newington)",
-   "city": "London",
-   "cc": "GB",
-   "lat": 51.56219,
-   "lng": -0.07871,
-   "links": [
-    {
-     "src": "Ticketmaster",
-     "url": "https://www.ticketmaster.co.uk/ridgeclub-london-17-11-2026/event/350065429D167DC4"
-    }
-   ],
-   "key": "ridgeclub|2026-11-17|london",
-   "isNew": false
-  },
   {
    "artist": "Wisp",
    "date": "2026-11-18T18:30:00",
@@ -3514,13 +3478,13 @@
   },
   {
    "artist": "Two Door Cinema Club",
-   "date": "2027-02-07T19:00:00",
+   "date": "2027-02-07T20:00:00",
    "noTime": false,
-   "venue": "Inselpark Arena",
+   "venue": "",
    "city": "Hamburg",
    "cc": "DE",
-   "lat": 53.49572,
-   "lng": 10.00251,
+   "lat": 53.60241,
+   "lng": 9.9992,
    "links": [
     {
      "src": "Ticketmaster",
@@ -6084,7 +6048,7 @@
     }
    ],
    "key": "bastille|2027-06-22|bristol",
-   "isNew": true
+   "isNew": false
   },
   {
    "artist": "sombr",
@@ -6505,6 +6469,24 @@
    "isNew": false
   },
   {
+   "artist": "RAYE",
+   "date": "2027-07-11T13:00:00",
+   "noTime": false,
+   "venue": "Hyde Park",
+   "city": "London",
+   "cc": "GB",
+   "lat": 51.507432,
+   "lng": -0.165708,
+   "links": [
+    {
+     "src": "Ticketmaster",
+     "url": "https://www.ticketmaster.co.uk/amex-presents-bst-hyde-park-raye-london-11-07-2027/event/37006557CC3DC9B2"
+    }
+   ],
+   "key": "raye|2027-07-11|london",
+   "isNew": true
+  },
+  {
    "artist": "alt-J",
    "date": "2027-07-14T18:30:00",
    "noTime": false,
@@ -6844,7 +6826,7 @@
     }
    ],
    "key": "st vincent|2027-09-14|darlington",
-   "isNew": true
+   "isNew": false
   },
   {
    "artist": "Charlotte Cardin",
