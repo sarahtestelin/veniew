@@ -1,6 +1,6 @@
 {
- "at": 1795101024338,
- "spotifyAt": 1794577873470,
+ "at": 1795186295821,
+ "spotifyAt": 1795186199180,
  "artists": [
   {
    "name": "The Neighbourhood",
@@ -16,19 +16,11 @@
   },
   {
    "name": "Bring Me The Horizon",
-   "score": 88
-  },
-  {
-   "name": "Lady Gaga",
-   "score": 76
+   "score": 89
   },
   {
    "name": "Henry Morris",
-   "score": 74
-  },
-  {
-   "name": "Rihanna",
-   "score": 74
+   "score": 78
   },
   {
    "name": "Lana Del Rey",
@@ -39,16 +31,20 @@
    "score": 67
   },
   {
+   "name": "Lady Gaga",
+   "score": 67
+  },
+  {
    "name": "The Weeknd",
-   "score": 65
+   "score": 66
+  },
+  {
+   "name": "Rihanna",
+   "score": 63
   },
   {
    "name": "Isabel LaRosa",
    "score": 59
-  },
-  {
-   "name": "Presley Regier",
-   "score": 56
   },
   {
    "name": "PLVTINUM",
@@ -56,31 +52,27 @@
   },
   {
    "name": "Arctic Monkeys",
-   "score": 52
+   "score": 54
   },
   {
    "name": "Catch Your Breath",
    "score": 51
   },
   {
-   "name": "Britney Spears",
+   "name": "Chris Grey",
    "score": 50
   },
   {
-   "name": "Chris Grey",
+   "name": "Ella Boh",
    "score": 49
   },
   {
-   "name": "Ella Boh",
-   "score": 47
+   "name": "Presley Regier",
+   "score": 48
   },
   {
    "name": "Pierce The Veil",
-   "score": 46
-  },
-  {
-   "name": "London Grammar",
-   "score": 46
+   "score": 47
   },
   {
    "name": "Tame Impala",
@@ -88,7 +80,7 @@
   },
   {
    "name": "Linkin Park",
-   "score": 44
+   "score": 45
   },
   {
    "name": "Ari Abdul",
@@ -99,19 +91,31 @@
    "score": 40
   },
   {
+   "name": "Britney Spears",
+   "score": 39
+  },
+  {
    "name": "Kanye West",
    "score": 38
+  },
+  {
+   "name": "Fall Out Boy",
+   "score": 37
   },
   {
    "name": "Dutch Melrose",
    "score": 37
   },
   {
-   "name": "Ariana Grande",
-   "score": 35
+   "name": "Panic! At The Disco",
+   "score": 36
   },
   {
-   "name": "Fall Out Boy",
+   "name": "London Grammar",
+   "score": 36
+  },
+  {
+   "name": "Ariana Grande",
    "score": 35
   },
   {
@@ -119,12 +123,12 @@
    "score": 35
   },
   {
-   "name": "d4vd",
+   "name": "David Guetta",
    "score": 34
   },
   {
-   "name": "David Guetta",
-   "score": 33
+   "name": "d4vd",
+   "score": 34
   },
   {
    "name": "Hamza",
@@ -132,14 +136,14 @@
   },
   {
    "name": "Hozier",
-   "score": 32
+   "score": 33
   },
   {
-   "name": "Eve",
-   "score": 32
+   "name": "Jutes",
+   "score": 30
   },
   {
-   "name": "Damso",
+   "name": "Motionless In White",
    "score": 28
   },
   {
@@ -147,7 +151,7 @@
    "score": 28
   },
   {
-   "name": "Motionless In White",
+   "name": "Damso",
    "score": 28
   },
   {
@@ -155,24 +159,24 @@
    "score": 27
   },
   {
-   "name": "Panic! At The Disco",
-   "score": 26
-  },
-  {
-   "name": "Jutes",
-   "score": 25
-  },
-  {
    "name": "Haiden Henderson",
    "score": 25
+  },
+  {
+   "name": "Asal",
+   "score": 24
   },
   {
    "name": "Three Days Grace",
    "score": 24
   },
   {
-   "name": "Asal",
-   "score": 24
+   "name": "Kae",
+   "score": 23
+  },
+  {
+   "name": "ThxSoMch",
+   "score": 23
   },
   {
    "name": "Maroon 5",
@@ -183,11 +187,7 @@
    "score": 23
   },
   {
-   "name": "ThxSoMch",
-   "score": 23
-  },
-  {
-   "name": "Bad Omens",
+   "name": "Eve",
    "score": 23
   },
   {
@@ -204,14 +204,14 @@
   },
   {
    "name": "Justin Timberlake",
-   "score": 23
-  },
-  {
-   "name": "Kae",
    "score": 22
   },
   {
    "name": "Pitbull",
+   "score": 22
+  },
+  {
+   "name": "Golden Cats",
    "score": 22
   },
   {
@@ -224,18 +224,14 @@
   },
   {
    "name": "Nekfeu",
-   "score": 21
+   "score": 20
   },
   {
    "name": "Billie Eilish",
    "score": 20
   },
   {
-   "name": "ADÉLA",
-   "score": 19
-  },
-  {
-   "name": "Tatsuya Kitani",
+   "name": "Twenty One Pilots",
    "score": 19
   },
   {
@@ -244,10 +240,6 @@
   },
   {
    "name": "Bruno Mars",
-   "score": 19
-  },
-  {
-   "name": "Calvin Harris",
    "score": 18
   },
   {
@@ -255,12 +247,16 @@
    "score": 18
   },
   {
+   "name": "Calvin Harris",
+   "score": 18
+  },
+  {
    "name": "Jfarrari",
    "score": 17
   },
   {
-   "name": "Twenty One Pilots",
-   "score": 17
+   "name": "Spiritbox",
+   "score": 16
   },
   {
    "name": "Olly Alexander (Years & Years)",
@@ -283,14 +279,6 @@
    "score": 16
   },
   {
-   "name": "Paramore",
-   "score": 16
-  },
-  {
-   "name": "Golden Cats",
-   "score": 16
-  },
-  {
    "name": "Charli xcx",
    "score": 15
   },
@@ -299,7 +287,7 @@
    "score": 15
   },
   {
-   "name": "satine",
+   "name": "Bad Omens",
    "score": 14
   },
   {
@@ -312,7 +300,7 @@
   },
   {
    "name": "Night Tapes",
-   "score": 13
+   "score": 14
   },
   {
    "name": "Ex Habit",
@@ -335,6 +323,14 @@
    "score": 13
   },
   {
+   "name": "Tatsuya Kitani",
+   "score": 13
+  },
+  {
+   "name": "VANÈS",
+   "score": 12
+  },
+  {
    "name": "Sean Paul",
    "score": 12
   },
@@ -344,10 +340,6 @@
   },
   {
    "name": "Tayc",
-   "score": 12
-  },
-  {
-   "name": "VANÈS",
    "score": 12
   },
   {
@@ -388,10 +380,6 @@
   },
   {
    "name": "VICE MONRÖE",
-   "score": 11
-  },
-  {
-   "name": "Wind Walkers",
    "score": 11
   },
   {
@@ -463,10 +451,6 @@
    "score": 9
   },
   {
-   "name": "Black Eyed Peas",
-   "score": 9
-  },
-  {
    "name": "Wiz Khalifa",
    "score": 9
   },
@@ -475,7 +459,15 @@
    "score": 9
   },
   {
+   "name": "ADÉLA",
+   "score": 9
+  },
+  {
    "name": "Jesse®",
+   "score": 8
+  },
+  {
+   "name": "Paramore",
    "score": 8
   },
   {
@@ -504,6 +496,10 @@
   },
   {
    "name": "Troye Sivan",
+   "score": 8
+  },
+  {
+   "name": "Black Eyed Peas",
    "score": 8
   },
   {
@@ -640,10 +636,6 @@
   },
   {
    "name": "Morning Silk",
-   "score": 6
-  },
-  {
-   "name": "Spiritbox",
    "score": 6
   },
   {
@@ -1251,6 +1243,10 @@
    "score": 4
   },
   {
+   "name": "satine",
+   "score": 4
+  },
+  {
    "name": "Stephen Dawes",
    "score": 4
   },
@@ -1601,45 +1597,13 @@
   {
    "name": "BB Brunes",
    "score": 3
+  },
+  {
+   "name": "Mozart Opera Rock",
+   "score": 3
   }
  ],
  "events": [
-  {
-   "artist": "The Fray",
-   "date": "2026-11-19T19:00:00",
-   "noTime": false,
-   "venue": "Manchester Academy",
-   "city": "Manchester",
-   "cc": "GB",
-   "lat": 53.464386,
-   "lng": -2.232225,
-   "links": [
-    {
-     "src": "Ticketmaster",
-     "url": "https://www.ticketmaster.co.uk/the-fray-manchester-19-11-2026/event/1F00646DE69682DE"
-    }
-   ],
-   "key": "the fray|2026-11-19|manchester",
-   "isNew": false
-  },
-  {
-   "artist": "Pitbull",
-   "date": "2026-11-19T20:00:00",
-   "noTime": false,
-   "venue": "",
-   "city": "Stuttgart",
-   "cc": "DE",
-   "lat": 48.7937,
-   "lng": 9.22654,
-   "links": [
-    {
-     "src": "Ticketmaster",
-     "url": "https://www.ticketmaster.de/event/pitbull-im-back-tickets/848801881?language=en-us"
-    }
-   ],
-   "key": "pitbull|2026-11-19|stuttgart",
-   "isNew": false
-  },
   {
    "artist": "Amber Run",
    "date": "2026-11-20T18:30:00",
@@ -2973,24 +2937,6 @@
    "isNew": false
   },
   {
-   "artist": "Wind Walkers",
-   "date": "2027-01-15T19:00:00",
-   "noTime": false,
-   "venue": "Y Plas, Cardiff Students Union",
-   "city": "Cardiff",
-   "cc": "GB",
-   "lat": 51.48842026,
-   "lng": -3.17746157,
-   "links": [
-    {
-     "src": "Ticketmaster",
-     "url": "https://www.universe.com/events/wage-war-tickets-4TL7JY?ref=ticketmaster"
-    }
-   ],
-   "key": "wind walkers|2027-01-15|cardiff",
-   "isNew": false
-  },
-  {
    "artist": "ADÉLA",
    "date": "2027-01-16T19:00:00",
    "noTime": false,
@@ -3006,24 +2952,6 @@
     }
    ],
    "key": "adela|2027-01-16|manchester",
-   "isNew": false
-  },
-  {
-   "artist": "Wind Walkers",
-   "date": "2027-01-16T19:00:00",
-   "noTime": false,
-   "venue": "O2 Forum Kentish Town",
-   "city": "London",
-   "cc": "GB",
-   "lat": 51.552039,
-   "lng": -0.14193,
-   "links": [
-    {
-     "src": "Ticketmaster",
-     "url": "https://www.ticketmaster.co.uk/wage-war-london-16-01-2027/event/3E0064B5EA5A5A6B"
-    }
-   ],
-   "key": "wind walkers|2027-01-16|london",
    "isNew": false
   },
   {
@@ -3060,24 +2988,6 @@
     }
    ],
    "key": "adela|2027-01-17|glasgow",
-   "isNew": false
-  },
-  {
-   "artist": "Wind Walkers",
-   "date": "2027-01-17T19:00:00",
-   "noTime": false,
-   "venue": "O2 Ritz Manchester",
-   "city": "Manchester",
-   "cc": "GB",
-   "lat": 53.474423,
-   "lng": -2.243098,
-   "links": [
-    {
-     "src": "Ticketmaster",
-     "url": "https://www.ticketmaster.co.uk/wage-war-manchester-17-01-2027/event/3E0064B4C00E576B"
-    }
-   ],
-   "key": "wind walkers|2027-01-17|manchester",
    "isNew": false
   },
   {
@@ -3132,24 +3042,6 @@
     }
    ],
    "key": "adela|2027-01-20|london",
-   "isNew": false
-  },
-  {
-   "artist": "Wind Walkers",
-   "date": "2027-01-20T19:00:00",
-   "noTime": false,
-   "venue": "O2 Institute Birmingham",
-   "city": "Birmingham",
-   "cc": "GB",
-   "lat": 52.475756,
-   "lng": -1.887562,
-   "links": [
-    {
-     "src": "Ticketmaster",
-     "url": "https://www.ticketmaster.co.uk/wage-war-birmingham-20-01-2027/event/3E0064B5A5433232"
-    }
-   ],
-   "key": "wind walkers|2027-01-20|birmingham",
    "isNew": false
   },
   {
@@ -3333,6 +3225,24 @@
    "isNew": false
   },
   {
+   "artist": "Odetari",
+   "date": "2027-02-02T19:30:00",
+   "noTime": false,
+   "venue": "Melkweg",
+   "city": "Amsterdam",
+   "cc": "NL",
+   "lat": 52.36483,
+   "lng": 4.88127,
+   "links": [
+    {
+     "src": "Ticketmaster",
+     "url": "https://www.ticketmaster.nl/event/odetari-tickets/611640972?language=en-us"
+    }
+   ],
+   "key": "odetari|2027-02-02|amsterdam",
+   "isNew": true
+  },
+  {
    "artist": "ADÉLA",
    "date": "2027-02-02T20:00:00",
    "noTime": false,
@@ -3385,6 +3295,42 @@
    ],
    "key": "two door cinema club|2027-02-08|berlin",
    "isNew": false
+  },
+  {
+   "artist": "Odetari",
+   "date": "2027-02-11T19:00:00",
+   "noTime": false,
+   "venue": "Electric Ballroom",
+   "city": "London",
+   "cc": "GB",
+   "lat": 51.5397,
+   "lng": -0.142995,
+   "links": [
+    {
+     "src": "Ticketmaster",
+     "url": "https://www.ticketmaster.co.uk/odetari-phazon-varia-london-11-02-2027/event/1F006572A8F75B7D"
+    }
+   ],
+   "key": "odetari|2027-02-11|london",
+   "isNew": true
+  },
+  {
+   "artist": "Odetari",
+   "date": "2027-02-12T20:00:00",
+   "noTime": false,
+   "venue": "Dynamo Saal",
+   "city": "Zürich",
+   "cc": "CH",
+   "lat": 47.38341,
+   "lng": 8.53939,
+   "links": [
+    {
+     "src": "Ticketmaster",
+     "url": "https://www.ticketmaster.ch/event/odetari-tickets/1782179869?language=en-us"
+    }
+   ],
+   "key": "odetari|2027-02-12|zurich",
+   "isNew": true
   },
   {
    "artist": "Charli xcx",
@@ -5925,6 +5871,24 @@
    "isNew": false
   },
   {
+   "artist": "ADÉLA",
+   "date": "2027-06-22T18:00:00",
+   "noTime": false,
+   "venue": "Custom House Square Belfast",
+   "city": "Belfast",
+   "cc": "GB",
+   "lat": 54.60185975,
+   "lng": -5.923208,
+   "links": [
+    {
+     "src": "Ticketmaster",
+     "url": "https://www.ticketmaster.ie/adela-belfast-22-06-2027/event/38006572E4E222A2"
+    }
+   ],
+   "key": "adela|2027-06-22|belfast",
+   "isNew": true
+  },
+  {
    "artist": "sombr",
    "date": "2027-06-22T18:30:00",
    "noTime": false,
@@ -6593,6 +6557,42 @@
    ],
    "key": "feist|2027-08-02|madrid",
    "isNew": false
+  },
+  {
+   "artist": "Two Door Cinema Club",
+   "date": "2027-08-06T18:00:00",
+   "noTime": false,
+   "venue": "Scarborough Open Air Theatre",
+   "city": "Scarborough",
+   "cc": "GB",
+   "lat": 54.293195,
+   "lng": -0.412086,
+   "links": [
+    {
+     "src": "Ticketmaster",
+     "url": "https://www.ticketmaster.co.uk/two-door-cinema-club-with-guests-scarborough-06-08-2027/event/35006565E141C67D"
+    }
+   ],
+   "key": "two door cinema club|2027-08-06|scarborough",
+   "isNew": true
+  },
+  {
+   "artist": "Two Door Cinema Club",
+   "date": "2027-08-07T18:00:00",
+   "noTime": false,
+   "venue": "The Piece Hall",
+   "city": "Halifax",
+   "cc": "GB",
+   "lat": 53.721432,
+   "lng": -1.85657,
+   "links": [
+    {
+     "src": "Ticketmaster",
+     "url": "https://www.ticketmaster.co.uk/two-door-cinema-club-with-special-halifax-07-08-2027/event/350065488F5024F7"
+    }
+   ],
+   "key": "two door cinema club|2027-08-07|halifax",
+   "isNew": true
   },
   {
    "artist": "Harry Styles",
