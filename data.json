@@ -1,5 +1,5 @@
 {
- "at": 1795186295821,
+ "at": 1795270062887,
  "spotifyAt": 1795186199180,
  "artists": [
   {
@@ -1605,78 +1605,6 @@
  ],
  "events": [
   {
-   "artist": "Amber Run",
-   "date": "2026-11-20T18:30:00",
-   "noTime": false,
-   "venue": "The O2",
-   "city": "London",
-   "cc": "GB",
-   "lat": 51.501581,
-   "lng": 0.005519,
-   "links": [
-    {
-     "src": "Ticketmaster",
-     "url": "https://www.ticketmaster.co.uk/myles-smith-my-mess-my-heart-london-20-11-2026/event/35006472C924554D"
-    }
-   ],
-   "key": "amber run|2026-11-20|london",
-   "isNew": false
-  },
-  {
-   "artist": "Julia Wolf",
-   "date": "2026-11-20T19:00:00",
-   "noTime": false,
-   "venue": "Stylus",
-   "city": "Leeds",
-   "cc": "GB",
-   "lat": 53.807958,
-   "lng": -1.553329,
-   "links": [
-    {
-     "src": "Ticketmaster",
-     "url": "https://www.universe.com/events/julia-wolf-tickets-0VHKWQ?ref=ticketmaster"
-    }
-   ],
-   "key": "julia wolf|2026-11-20|leeds",
-   "isNew": false
-  },
-  {
-   "artist": "John Newman",
-   "date": "2026-11-20T19:30:00",
-   "noTime": false,
-   "venue": "bp pulse LIVE",
-   "city": "Birmingham",
-   "cc": "GB",
-   "lat": 52.453057,
-   "lng": -1.720073,
-   "links": [
-    {
-     "src": "Ticketmaster",
-     "url": "https://www.ticketmaster.co.uk/hits-radio-live-birmingham-2026-birmingham-20-11-2026/event/230063738E3512B9"
-    }
-   ],
-   "key": "john newman|2026-11-20|birmingham",
-   "isNew": false
-  },
-  {
-   "artist": "Jason Derulo",
-   "date": "2026-11-20T23:00:00",
-   "noTime": false,
-   "venue": "Club Republic",
-   "city": "Leicester",
-   "cc": "GB",
-   "lat": 52.639525,
-   "lng": -1.134024,
-   "links": [
-    {
-     "src": "Ticketmaster",
-     "url": "https://www.ticketmaster.co.uk/pure-rnb-presents-jason-derulo-leicester-20-11-2026/event/370065568EE3405B"
-    }
-   ],
-   "key": "jason derulo|2026-11-20|leicester",
-   "isNew": false
-  },
-  {
    "artist": "Placebo",
    "date": "2026-11-21T19:30:00",
    "noTime": false,
@@ -1767,6 +1695,24 @@
    "isNew": false
   },
   {
+   "artist": "VOILÀ",
+   "date": "2026-11-23T18:00:00",
+   "noTime": false,
+   "venue": "Glasgow Garage",
+   "city": "Glasgow",
+   "cc": "GB",
+   "lat": 55.866296,
+   "lng": -4.268862,
+   "links": [
+    {
+     "src": "Ticketmaster",
+     "url": "https://www.ticketweb.uk/event/voil-not-a-toy-the-garage-tickets/14923513?REFERRAL_ID=tmfeed"
+    }
+   ],
+   "key": "voila|2026-11-23|glasgow",
+   "isNew": false
+  },
+  {
    "artist": "sace6",
    "date": "2026-11-23T19:00:00",
    "noTime": false,
@@ -1800,24 +1746,6 @@
     }
    ],
    "key": "julia wolf|2026-11-23|manchester",
-   "isNew": false
-  },
-  {
-   "artist": "VOILÀ",
-   "date": "2026-11-23T19:00:00",
-   "noTime": false,
-   "venue": "Glasgow Garage",
-   "city": "Glasgow",
-   "cc": "GB",
-   "lat": 55.866296,
-   "lng": -4.268862,
-   "links": [
-    {
-     "src": "Ticketmaster",
-     "url": "https://www.ticketweb.uk/event/voil-not-a-toy-the-garage-tickets/14923513?REFERRAL_ID=tmfeed"
-    }
-   ],
-   "key": "voila|2026-11-23|glasgow",
    "isNew": false
   },
   {
@@ -3240,7 +3168,7 @@
     }
    ],
    "key": "odetari|2027-02-02|amsterdam",
-   "isNew": true
+   "isNew": false
   },
   {
    "artist": "ADÉLA",
@@ -3312,7 +3240,7 @@
     }
    ],
    "key": "odetari|2027-02-11|london",
-   "isNew": true
+   "isNew": false
   },
   {
    "artist": "Odetari",
@@ -3330,7 +3258,7 @@
     }
    ],
    "key": "odetari|2027-02-12|zurich",
-   "isNew": true
+   "isNew": false
   },
   {
    "artist": "Charli xcx",
@@ -5886,7 +5814,7 @@
     }
    ],
    "key": "adela|2027-06-22|belfast",
-   "isNew": true
+   "isNew": false
   },
   {
    "artist": "sombr",
@@ -6143,6 +6071,24 @@
    ],
    "key": "david guetta|2027-07-03|arras",
    "isNew": false
+  },
+  {
+   "artist": "Billie Eilish",
+   "date": "2027-07-03T13:00:00",
+   "noTime": false,
+   "venue": "Hyde Park",
+   "city": "London",
+   "cc": "GB",
+   "lat": 51.507432,
+   "lng": -0.165708,
+   "links": [
+    {
+     "src": "Ticketmaster",
+     "url": "https://www.ticketmaster.co.uk/amex-presents-bst-hyde-park-ultimate-london-03-07-2027/event/37006573CA9B9C16"
+    }
+   ],
+   "key": "billie eilish|2027-07-03|london",
+   "isNew": true
   },
   {
    "artist": "Harry Styles",
@@ -6574,7 +6520,7 @@
     }
    ],
    "key": "two door cinema club|2027-08-06|scarborough",
-   "isNew": true
+   "isNew": false
   },
   {
    "artist": "Two Door Cinema Club",
@@ -6592,7 +6538,7 @@
     }
    ],
    "key": "two door cinema club|2027-08-07|halifax",
-   "isNew": true
+   "isNew": false
   },
   {
    "artist": "Harry Styles",
