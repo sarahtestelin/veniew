@@ -1,5 +1,5 @@
 {
- "at": 1795270062887,
+ "at": 1795356024763,
  "spotifyAt": 1795186199180,
  "artists": [
   {
@@ -1605,42 +1605,6 @@
  ],
  "events": [
   {
-   "artist": "Placebo",
-   "date": "2026-11-21T19:30:00",
-   "noTime": false,
-   "venue": "",
-   "city": "Stuttgart",
-   "cc": "DE",
-   "lat": 48.7937,
-   "lng": 9.22654,
-   "links": [
-    {
-     "src": "Ticketmaster",
-     "url": "https://www.ticketmaster.de/event/placebo-30th-anniversary-tour-tickets/1245973941?language=en-us"
-    }
-   ],
-   "key": "placebo|2026-11-21|stuttgart",
-   "isNew": false
-  },
-  {
-   "artist": "Jason Derulo",
-   "date": "2026-11-21T23:00:00",
-   "noTime": false,
-   "venue": "FUSION LIVERPOOL",
-   "city": "Liverpool",
-   "cc": "GB",
-   "lat": 53.40369704,
-   "lng": -2.98106303,
-   "links": [
-    {
-     "src": "Ticketmaster",
-     "url": "https://www.ticketmaster.co.uk/pure-rnb-presents-jason-derulo-liverpool-21-11-2026/event/370065568F97420F"
-    }
-   ],
-   "key": "jason derulo|2026-11-21|liverpool",
-   "isNew": false
-  },
-  {
    "artist": "sace6",
    "date": "2026-11-22T19:00:00",
    "noTime": false,
@@ -2408,7 +2372,7 @@
    "links": [
     {
      "src": "JamBase",
-     "url": "https://www.google.com/goto?url=CAESqgEBxCJF15YcMPXcpmuJpmHPQMO8IiOer1xee8pB-7l7eu0KY5je8HTcl2P8UyjibKUlwvyMuqGNj4wzZ3Fj54FDFADUmNJe47I_S3Yd8-ZKUwYC_lCQ8ITHh9ggoe427klL6FZTRaFZ9MtnwsiCF-S1spldkbCgAJKzerIHL-Gi1wHDTWGJtmIZsZGpBVg4PFMOYtkDFQLWMVu9qQ4GopjRtYmjNHUcGjkxTA&gsessionid=clyqsQAvEV_4i7qk2ObtmjwyMeJwa7m1yKeB2DVE7p0RkDVUNVDaDA"
+     "url": "https://www.google.com/goto?url=CAESqgEBxCJF1wjr8SIZCRfmQdGjTIA9392gBiiNpxXuRnO2x-9na8hZ9EfjGaC_VwGgn04E1VBWSIs4vuig23zxeFZDUr9qBmD-NCb21dHz4Q61wbDGU4yuD5qUaUxXGEJG72TGfVnbUz_3iBsl0myuuaKWkCLYwJKmS1ZpG2o3x5mIJXcl37RB51zDNPSaiPBmE6nv5bkJJmIp03Goxi8mshXHEVaZqb5jyn2E1Q&gsessionid=idjKOZOFW26Rc2NlX2hKjzaG9uLz29iKroW7M3hL9r6yqECTQDwJUg"
     }
    ],
    "key": "david guetta|2026-12-06|saint denis",
@@ -3686,7 +3650,7 @@
    "links": [
     {
      "src": "JamBase",
-     "url": "https://www.google.com/goto?url=CAESpAEBxCJF11cZylFvCM9878RqxbJJQVGs3AIKQJXVQqfDimqptCiPS_Hr0kuMMJ8cyngY1QlCJPeXeKzeKIEXMeo6yJbhh3GSh_1IEJfJYd9A_yVtI9TImO4eJt_-KbuOWr6r0jOMLPT6ZAcq5eymx3-UUJKgRP9vIccgwN1lNPcjcww8FmE1LjhYeQaFVge_KCjUohpmyA43F21MToBgOHklbXllNg&gsessionid=G4RGikzCLREgUWK_8nvh8-2llrhqIDc_lP5plHaXPU-FPCkm1kF6iQ"
+     "url": "https://www.google.com/goto?url=CAESowEBxCJF15huWDkXwLPtMjfqRNABdS-7xCmFbYE5nPWJ7n3NSjOI3eZyi1Ad2ZyAmKOKSarBQ0AGOjtVCI4K_S_e_NK4ct63Xp1Awa-gA_FSasxXOrQh4C0SHUfBP3xnyrpAdsWcLPcsvhTAd1RyNWXQbRlHuYLAazf4xmpDx-zpHxdr-38CgWJEwW4ooiQ7OEaoJGY_t-ToGL7c5TnbY0S6lgP2&gsessionid=HF1QA079GtWGxvZVR-GS15bRZHr6-0v9CW65R6Eq5hl-OSApJtKSDw"
     }
    ],
    "key": "nessa barrett|2027-03-09|paris",
@@ -5072,7 +5036,7 @@
    "links": [
     {
      "src": "JamBase",
-     "url": "https://www.google.com/goto?url=CAESowEBxCJF16yDeoalXEoDdiHS1c4t-o333NQG-6Su7hxs_2g8N1nNi6gVuDoxVrPG4IB0OO10-3wiHkMA9A37fnGLHzxUZtkYQYg0rMhU6rZPQm3sXM4yA01ubf6wgW4oll6d_guQtQWxNlIdbSYykuj-Jv6FRNPZUWW2CcX5Ikz0870ytagJCdeYfez-SOzC9JYYtnkqJER-BNLSXGx4B6w_I3zR&gsessionid=clyqsQAvEV_4i7qk2ObtmjwyMeJwa7m1yKeB2DVE7p0RkDVUNVDaDA"
+     "url": "https://www.google.com/goto?url=CAESowEBxCJF1zM5rnmodxGKmBDwsnMPkzrPdJjue9khX32YY2TZlRS4KKIZk-CLmvZ0Bts53bDwz_G-RS0SQOdRq_04gQzndd8ecM1Ya3G428x_aKeeoYH52wDHqkVH1DlyPSTh31hX9oE1vnSazyO5WUS1PTWPzdDg1dbH9NXlCgNhADuFR8tmHZ44hMjX_fi94k9d9jqxjTH_1MfOuVb14fWbpR6m&gsessionid=idjKOZOFW26Rc2NlX2hKjzaG9uLz29iKroW7M3hL9r6yqECTQDwJUg"
     }
    ],
    "key": "david guetta|2027-06-06|london",
@@ -5943,6 +5907,24 @@
    "isNew": false
   },
   {
+   "artist": "David Guetta",
+   "date": "2027-06-27T00:00:00",
+   "noTime": true,
+   "venue": "",
+   "city": "",
+   "cc": "FR",
+   "lat": null,
+   "lng": null,
+   "links": [
+    {
+     "src": "Ticketmaster.fr",
+     "url": "https://www.ticketmaster.fr/fr/resultat?ipSearch=david+guetta"
+    }
+   ],
+   "key": "david guetta|2027-06-27|",
+   "isNew": true
+  },
+  {
    "artist": "Muse",
    "date": "2027-06-27T13:00:00",
    "noTime": false,
@@ -6062,11 +6044,11 @@
    "links": [
     {
      "src": "JamBase",
-     "url": "https://www.google.com/goto?url=CAESogEBxCJF1yb43QAdPxP3ZTL9ED1-NhKWj3-s4-fXx50X-89QKqIeEgitPpaRtFMfrDQdea2K2AIFJvLdvlcMa-gXS4e7i3iKYjdlt8ZpiXOi0JlG9h06G4lUzpsZ8efpLP7ZlzktsHvYj1IsOFm2wpvGA6ptsS6nQMqcVK09xf3gLFOIZfJyFrJCDHntT89JBDoJvCaiRC9GlghmVK1r149u-mQ&gsessionid=clyqsQAvEV_4i7qk2ObtmjwyMeJwa7m1yKeB2DVE7p0RkDVUNVDaDA"
+     "url": "https://www.google.com/goto?url=CAESogEBxCJF13l1tflHp-a8037HagylDRlsnqI4-eO5Te_5GPD_Gi34t_8tC4yxP2kLo1P3l7hOCbWMyQAPlDSFyE27R0IZyw2d7WojFN3DJvrHoVXzmneoaMITmbp9QOHSs-hW9DwhfUNBmQbSWaZMJzXyd_-_VXLZSiNRpXl9bCbJcLpOFFEz-pt8BiSlo_uOEcGCJhB5-mXlqTfLENF99dAcBcQ&gsessionid=idjKOZOFW26Rc2NlX2hKjzaG9uLz29iKroW7M3hL9r6yqECTQDwJUg"
     },
     {
      "src": "Bandsintown",
-     "url": "https://www.google.com/goto?url=CAESwwEBxCJF14wouYRuaYtIub0nG02qUjWQCyhHdUk_0v9Udr8FTrHjgSUrHKVskyMg5qcy6QApVmDQV4zJRZcNJrp9-nSJ6AkCTxB5Sy-UyYWDY0XkDg2qqrMJqWl7EyiMs2-YsQ_b7hBzHahAMLpFdCOy_EL6TxO3TnqNVucLJVu3AIUymiH_cyYwkKCcqJV8aVPZeX-8t2J7EDmCcZz3a4SdqGUVWuLebLla3auxBaBQANnRtwJilJrXYl0NdhtXHltnDBc&gsessionid=clyqsQAvEV_4i7qk2ObtmjwyMeJwa7m1yKeB2DVE7p0RkDVUNVDaDA"
+     "url": "https://www.google.com/goto?url=CAESwwEBxCJF1yLavZLxUGinYbL1k4sDHPA2tJiw6ITR93vezxpZYHZh3Vi0vOldaX0aBkk7o0IY-9kER25BipsHPb7m0eiMXDh_B_ZCbN_DTyz44rwyt1W0-jz2Q5Xnmk-xVZuzlIYz5BtNQHajFJLaiwAj_6XsOvBf0bQ5HLJaeHCH4GhIDYhaqb83-Mq_QfQuc_HyXcsFp6yH4vIEW-OJl1-Lx14JD8aEEpYMqz40wDApi8eHLS2R877fBJ_r7bbe_6LXg_A&gsessionid=idjKOZOFW26Rc2NlX2hKjzaG9uLz29iKroW7M3hL9r6yqECTQDwJUg"
     }
    ],
    "key": "david guetta|2027-07-03|arras",
@@ -6088,7 +6070,7 @@
     }
    ],
    "key": "billie eilish|2027-07-03|london",
-   "isNew": true
+   "isNew": false
   },
   {
    "artist": "Harry Styles",
@@ -6214,24 +6196,6 @@
     }
    ],
    "key": "raye|2027-07-10|london",
-   "isNew": false
-  },
-  {
-   "artist": "David Guetta",
-   "date": "2027-07-10T17:00:00",
-   "noTime": false,
-   "venue": "Flugplatz Neustadt-Glewe",
-   "city": "Neustadt-Glewe",
-   "cc": "DE",
-   "lat": null,
-   "lng": null,
-   "links": [
-    {
-     "src": "Bandsintown",
-     "url": "https://www.google.com/goto?url=CAESwwEBxCJF1xskXqIXGAL_NET3voH7lejsteWL4JyZ9GP-NEX27y8xi9Q6hsy2GJfOKEGbd1e5gAVNRSS2MoSdVgeG2hpmpeGkDtdTGJ0ipwhdp6VaUYmYVI8s3CvyuKVmGDJY3f_1miVBcPM8JsA3biEtmoQDV165pCHRK88VP1BWxtMyisX0XrXZLKwaPoKR92C9yUQIywp75RIIaHt5omoTjvod1wt_Dn2UM1Bl-bHl2Fx2PEikztXt3T60Jp8akrS11h8&gsessionid=clyqsQAvEV_4i7qk2ObtmjwyMeJwa7m1yKeB2DVE7p0RkDVUNVDaDA"
-    }
-   ],
-   "key": "david guetta|2027-07-10|neustadt glewe",
    "isNew": false
   },
   {
@@ -6723,7 +6687,7 @@
  ],
  "serp": {
   "v": 3,
-  "at": 1794749105324,
+  "at": 1795356024746,
   "events": [
    {
     "artist": "Nessa Barrett",
@@ -6737,7 +6701,7 @@
     "links": [
      {
       "src": "JamBase",
-      "url": "https://www.google.com/goto?url=CAESpAEBxCJF11cZylFvCM9878RqxbJJQVGs3AIKQJXVQqfDimqptCiPS_Hr0kuMMJ8cyngY1QlCJPeXeKzeKIEXMeo6yJbhh3GSh_1IEJfJYd9A_yVtI9TImO4eJt_-KbuOWr6r0jOMLPT6ZAcq5eymx3-UUJKgRP9vIccgwN1lNPcjcww8FmE1LjhYeQaFVge_KCjUohpmyA43F21MToBgOHklbXllNg&gsessionid=G4RGikzCLREgUWK_8nvh8-2llrhqIDc_lP5plHaXPU-FPCkm1kF6iQ"
+      "url": "https://www.google.com/goto?url=CAESowEBxCJF15huWDkXwLPtMjfqRNABdS-7xCmFbYE5nPWJ7n3NSjOI3eZyi1Ad2ZyAmKOKSarBQ0AGOjtVCI4K_S_e_NK4ct63Xp1Awa-gA_FSasxXOrQh4C0SHUfBP3xnyrpAdsWcLPcsvhTAd1RyNWXQbRlHuYLAazf4xmpDx-zpHxdr-38CgWJEwW4ooiQ7OEaoJGY_t-ToGL7c5TnbY0S6lgP2&gsessionid=HF1QA079GtWGxvZVR-GS15bRZHr6-0v9CW65R6Eq5hl-OSApJtKSDw"
      }
     ]
    },
@@ -6753,7 +6717,23 @@
     "links": [
      {
       "src": "JamBase",
-      "url": "https://www.google.com/goto?url=CAESqgEBxCJF15YcMPXcpmuJpmHPQMO8IiOer1xee8pB-7l7eu0KY5je8HTcl2P8UyjibKUlwvyMuqGNj4wzZ3Fj54FDFADUmNJe47I_S3Yd8-ZKUwYC_lCQ8ITHh9ggoe427klL6FZTRaFZ9MtnwsiCF-S1spldkbCgAJKzerIHL-Gi1wHDTWGJtmIZsZGpBVg4PFMOYtkDFQLWMVu9qQ4GopjRtYmjNHUcGjkxTA&gsessionid=clyqsQAvEV_4i7qk2ObtmjwyMeJwa7m1yKeB2DVE7p0RkDVUNVDaDA"
+      "url": "https://www.google.com/goto?url=CAESqgEBxCJF1wjr8SIZCRfmQdGjTIA9392gBiiNpxXuRnO2x-9na8hZ9EfjGaC_VwGgn04E1VBWSIs4vuig23zxeFZDUr9qBmD-NCb21dHz4Q61wbDGU4yuD5qUaUxXGEJG72TGfVnbUz_3iBsl0myuuaKWkCLYwJKmS1ZpG2o3x5mIJXcl37RB51zDNPSaiPBmE6nv5bkJJmIp03Goxi8mshXHEVaZqb5jyn2E1Q&gsessionid=idjKOZOFW26Rc2NlX2hKjzaG9uLz29iKroW7M3hL9r6yqECTQDwJUg"
+     }
+    ]
+   },
+   {
+    "artist": "David Guetta",
+    "date": "2027-01-22T16:00:00",
+    "noTime": false,
+    "venue": "Grand Prix Plaza",
+    "city": "Las Vegas",
+    "cc": "NV",
+    "lat": null,
+    "lng": null,
+    "links": [
+     {
+      "src": "JamBase",
+      "url": "https://www.google.com/goto?url=CAESpwEBxCJF14N7F08iUwtjQY6gwL27i01hUd0ZUojQQgnbAAnE6JQDS9Q_TjTMt5SKXpR0W0RuXMrJjzqNyKmljQ2ZpAdohMyqL9GDdV_KjRA9pLgjjeKUD3R4RFRp_NRDv4pF0Lu5LOwyu8KWquwWakCELKAWgh-wt984nwFhZER9s62TZBtrPtYMQf491YuTfb7UetSR8k_vy5z0QK5iZVXM-ePQV-NCMg&gsessionid=idjKOZOFW26Rc2NlX2hKjzaG9uLz29iKroW7M3hL9r6yqECTQDwJUg"
      }
     ]
    },
@@ -6769,7 +6749,7 @@
     "links": [
      {
       "src": "JamBase",
-      "url": "https://www.google.com/goto?url=CAESowEBxCJF16yDeoalXEoDdiHS1c4t-o333NQG-6Su7hxs_2g8N1nNi6gVuDoxVrPG4IB0OO10-3wiHkMA9A37fnGLHzxUZtkYQYg0rMhU6rZPQm3sXM4yA01ubf6wgW4oll6d_guQtQWxNlIdbSYykuj-Jv6FRNPZUWW2CcX5Ikz0870ytagJCdeYfez-SOzC9JYYtnkqJER-BNLSXGx4B6w_I3zR&gsessionid=clyqsQAvEV_4i7qk2ObtmjwyMeJwa7m1yKeB2DVE7p0RkDVUNVDaDA"
+      "url": "https://www.google.com/goto?url=CAESowEBxCJF1zM5rnmodxGKmBDwsnMPkzrPdJjue9khX32YY2TZlRS4KKIZk-CLmvZ0Bts53bDwz_G-RS0SQOdRq_04gQzndd8ecM1Ya3G428x_aKeeoYH52wDHqkVH1DlyPSTh31hX9oE1vnSazyO5WUS1PTWPzdDg1dbH9NXlCgNhADuFR8tmHZ44hMjX_fi94k9d9jqxjTH_1MfOuVb14fWbpR6m&gsessionid=idjKOZOFW26Rc2NlX2hKjzaG9uLz29iKroW7M3hL9r6yqECTQDwJUg"
      }
     ]
    },
@@ -6785,11 +6765,11 @@
     "links": [
      {
       "src": "JamBase",
-      "url": "https://www.google.com/goto?url=CAESogEBxCJF1yb43QAdPxP3ZTL9ED1-NhKWj3-s4-fXx50X-89QKqIeEgitPpaRtFMfrDQdea2K2AIFJvLdvlcMa-gXS4e7i3iKYjdlt8ZpiXOi0JlG9h06G4lUzpsZ8efpLP7ZlzktsHvYj1IsOFm2wpvGA6ptsS6nQMqcVK09xf3gLFOIZfJyFrJCDHntT89JBDoJvCaiRC9GlghmVK1r149u-mQ&gsessionid=clyqsQAvEV_4i7qk2ObtmjwyMeJwa7m1yKeB2DVE7p0RkDVUNVDaDA"
+      "url": "https://www.google.com/goto?url=CAESogEBxCJF13l1tflHp-a8037HagylDRlsnqI4-eO5Te_5GPD_Gi34t_8tC4yxP2kLo1P3l7hOCbWMyQAPlDSFyE27R0IZyw2d7WojFN3DJvrHoVXzmneoaMITmbp9QOHSs-hW9DwhfUNBmQbSWaZMJzXyd_-_VXLZSiNRpXl9bCbJcLpOFFEz-pt8BiSlo_uOEcGCJhB5-mXlqTfLENF99dAcBcQ&gsessionid=idjKOZOFW26Rc2NlX2hKjzaG9uLz29iKroW7M3hL9r6yqECTQDwJUg"
      },
      {
       "src": "Bandsintown",
-      "url": "https://www.google.com/goto?url=CAESwwEBxCJF14wouYRuaYtIub0nG02qUjWQCyhHdUk_0v9Udr8FTrHjgSUrHKVskyMg5qcy6QApVmDQV4zJRZcNJrp9-nSJ6AkCTxB5Sy-UyYWDY0XkDg2qqrMJqWl7EyiMs2-YsQ_b7hBzHahAMLpFdCOy_EL6TxO3TnqNVucLJVu3AIUymiH_cyYwkKCcqJV8aVPZeX-8t2J7EDmCcZz3a4SdqGUVWuLebLla3auxBaBQANnRtwJilJrXYl0NdhtXHltnDBc&gsessionid=clyqsQAvEV_4i7qk2ObtmjwyMeJwa7m1yKeB2DVE7p0RkDVUNVDaDA"
+      "url": "https://www.google.com/goto?url=CAESwwEBxCJF1yLavZLxUGinYbL1k4sDHPA2tJiw6ITR93vezxpZYHZh3Vi0vOldaX0aBkk7o0IY-9kER25BipsHPb7m0eiMXDh_B_ZCbN_DTyz44rwyt1W0-jz2Q5Xnmk-xVZuzlIYz5BtNQHajFJLaiwAj_6XsOvBf0bQ5HLJaeHCH4GhIDYhaqb83-Mq_QfQuc_HyXcsFp6yH4vIEW-OJl1-Lx14JD8aEEpYMqz40wDApi8eHLS2R877fBJ_r7bbe_6LXg_A&gsessionid=idjKOZOFW26Rc2NlX2hKjzaG9uLz29iKroW7M3hL9r6yqECTQDwJUg"
      }
     ]
    },
@@ -6805,23 +6785,23 @@
     "links": [
      {
       "src": "Bandsintown",
-      "url": "https://www.google.com/goto?url=CAESwwEBxCJF14wouYRuaYtIub0nG02qUjWQCyhHdUk_0v9Udr8FTrHjgSUrHKVskyMg5qcy6QApVmDQV4zJRZcNJrp9-nSJ6AkCTxB5Sy-UyYWDY0XkDg2qqrMJqWl7EyiMs2-YsQ_b7hBzHahAMLpFdCOy_EL6TxO3TnqNVucLJVu3AIUymiH_cyYwkKCcqJV8aVPZeX-8t2J7EDmCcZz3a4SdqGUVWuLebLla3auxBaBQANnRtwJilJrXYl0NdhtXHltnDBc&gsessionid=clyqsQAvEV_4i7qk2ObtmjwyMeJwa7m1yKeB2DVE7p0RkDVUNVDaDA"
+      "url": "https://www.google.com/goto?url=CAESwwEBxCJF1yLavZLxUGinYbL1k4sDHPA2tJiw6ITR93vezxpZYHZh3Vi0vOldaX0aBkk7o0IY-9kER25BipsHPb7m0eiMXDh_B_ZCbN_DTyz44rwyt1W0-jz2Q5Xnmk-xVZuzlIYz5BtNQHajFJLaiwAj_6XsOvBf0bQ5HLJaeHCH4GhIDYhaqb83-Mq_QfQuc_HyXcsFp6yH4vIEW-OJl1-Lx14JD8aEEpYMqz40wDApi8eHLS2R877fBJ_r7bbe_6LXg_A&gsessionid=idjKOZOFW26Rc2NlX2hKjzaG9uLz29iKroW7M3hL9r6yqECTQDwJUg"
      }
     ]
    },
    {
     "artist": "David Guetta",
-    "date": "2027-07-10T17:00:00",
-    "noTime": false,
-    "venue": "Flugplatz Neustadt-Glewe",
-    "city": "Neustadt-Glewe",
-    "cc": "DE",
+    "date": "2027-06-27T00:00:00",
+    "noTime": true,
+    "venue": "",
+    "city": "",
+    "cc": "FR",
     "lat": null,
     "lng": null,
     "links": [
      {
-      "src": "Bandsintown",
-      "url": "https://www.google.com/goto?url=CAESwwEBxCJF1xskXqIXGAL_NET3voH7lejsteWL4JyZ9GP-NEX27y8xi9Q6hsy2GJfOKEGbd1e5gAVNRSS2MoSdVgeG2hpmpeGkDtdTGJ0ipwhdp6VaUYmYVI8s3CvyuKVmGDJY3f_1miVBcPM8JsA3biEtmoQDV165pCHRK88VP1BWxtMyisX0XrXZLKwaPoKR92C9yUQIywp75RIIaHt5omoTjvod1wt_Dn2UM1Bl-bHl2Fx2PEikztXt3T60Jp8akrS11h8&gsessionid=clyqsQAvEV_4i7qk2ObtmjwyMeJwa7m1yKeB2DVE7p0RkDVUNVDaDA"
+      "src": "Ticketmaster.fr",
+      "url": "https://www.ticketmaster.fr/fr/resultat?ipSearch=david+guetta"
      }
     ]
    }
