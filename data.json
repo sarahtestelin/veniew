@@ -1,5 +1,5 @@
 {
- "at": 1795356024763,
+ "at": 1795454141388,
  "spotifyAt": 1795186199180,
  "artists": [
   {
@@ -1605,60 +1605,6 @@
  ],
  "events": [
   {
-   "artist": "sace6",
-   "date": "2026-11-22T19:00:00",
-   "noTime": false,
-   "venue": "Cathouse",
-   "city": "Glasgow",
-   "cc": "GB",
-   "lat": 55.859184,
-   "lng": -4.257325,
-   "links": [
-    {
-     "src": "Ticketmaster",
-     "url": "https://www.ticketmaster.co.uk/sace6-glasgow-22-11-2026/event/36006464D75B9296"
-    }
-   ],
-   "key": "sace6|2026-11-22|glasgow",
-   "isNew": false
-  },
-  {
-   "artist": "Julia Wolf",
-   "date": "2026-11-22T19:00:00",
-   "noTime": false,
-   "venue": "O2 Institute Birmingham",
-   "city": "Birmingham",
-   "cc": "GB",
-   "lat": 52.475756,
-   "lng": -1.887562,
-   "links": [
-    {
-     "src": "Ticketmaster",
-     "url": "https://www.ticketmaster.co.uk/julia-wolf-birmingham-22-11-2026/event/3E00647FC0A37017"
-    }
-   ],
-   "key": "julia wolf|2026-11-22|birmingham",
-   "isNew": false
-  },
-  {
-   "artist": "Tayc",
-   "date": "2026-11-22T20:00:00",
-   "noTime": false,
-   "venue": "",
-   "city": "Amsterdam",
-   "cc": "NL",
-   "lat": 52.31236,
-   "lng": 4.94415,
-   "links": [
-    {
-     "src": "Ticketmaster",
-     "url": "https://www.ticketmaster.nl/event/tayc--afas-live-amsterdam-tickets/390304566?language=en-us"
-    }
-   ],
-   "key": "tayc|2026-11-22|amsterdam",
-   "isNew": false
-  },
-  {
    "artist": "VOILÀ",
    "date": "2026-11-23T18:00:00",
    "noTime": false,
@@ -2092,7 +2038,7 @@
   },
   {
    "artist": "Muse",
-   "date": "2026-11-29T20:00:00",
+   "date": "2026-11-29T19:30:00",
    "noTime": false,
    "venue": "Ziggo Dome",
    "city": "Amsterdam",
@@ -2127,6 +2073,24 @@
    "isNew": false
   },
   {
+   "artist": "Muse",
+   "date": "2026-11-30T19:30:00",
+   "noTime": false,
+   "venue": "Ziggo Dome",
+   "city": "Amsterdam",
+   "cc": "NL",
+   "lat": 52.31395,
+   "lng": 4.93837,
+   "links": [
+    {
+     "src": "Ticketmaster",
+     "url": "https://www.ticketmaster.nl/event/muse-the-wow-signal-europa-tour-tickets/1900870058?language=en-us"
+    }
+   ],
+   "key": "muse|2026-11-30|amsterdam",
+   "isNew": false
+  },
+  {
    "artist": "sace6",
    "date": "2026-11-30T20:00:00",
    "noTime": false,
@@ -2142,24 +2106,6 @@
     }
    ],
    "key": "sace6|2026-11-30|cologne",
-   "isNew": false
-  },
-  {
-   "artist": "Muse",
-   "date": "2026-11-30T20:00:00",
-   "noTime": false,
-   "venue": "Ziggo Dome",
-   "city": "Amsterdam",
-   "cc": "NL",
-   "lat": 52.31395,
-   "lng": 4.93837,
-   "links": [
-    {
-     "src": "Ticketmaster",
-     "url": "https://www.ticketmaster.nl/event/muse-the-wow-signal-europa-tour-tickets/1900870058?language=en-us"
-    }
-   ],
-   "key": "muse|2026-11-30|amsterdam",
    "isNew": false
   },
   {
@@ -5511,6 +5457,42 @@
    "isNew": false
   },
   {
+   "artist": "sace6",
+   "date": "2027-06-15T19:00:00",
+   "noTime": false,
+   "venue": "Electric Ballroom",
+   "city": "London",
+   "cc": "GB",
+   "lat": 51.5397,
+   "lng": -0.142995,
+   "links": [
+    {
+     "src": "Ticketmaster",
+     "url": "https://www.universe.com/events/sace6-tickets-YLWBM4?ref=ticketmaster"
+    }
+   ],
+   "key": "sace6|2027-06-15|london",
+   "isNew": true
+  },
+  {
+   "artist": "Olly Murs",
+   "date": "2027-06-16T17:00:00",
+   "noTime": false,
+   "venue": "Hampton Court",
+   "city": "London",
+   "cc": "GB",
+   "lat": 51.403813,
+   "lng": -0.33767,
+   "links": [
+    {
+     "src": "Ticketmaster",
+     "url": "https://www.ticketmaster.co.uk/hampton-court-palace-festival-presents-olly-london-16-06-2027/event/1F0065749E606A0D"
+    }
+   ],
+   "key": "olly murs|2027-06-16|london",
+   "isNew": true
+  },
+  {
    "artist": "5 Seconds of Summer",
    "date": "2027-06-17T00:00:00",
    "noTime": true,
@@ -5799,6 +5781,24 @@
    "isNew": false
   },
   {
+   "artist": "Pierce The Veil",
+   "date": "2027-06-22T20:00:00",
+   "noTime": false,
+   "venue": "",
+   "city": "Cologne",
+   "cc": "DE",
+   "lat": 50.96949,
+   "lng": 7.01777,
+   "links": [
+    {
+     "src": "Ticketmaster",
+     "url": "https://www.ticketmaster.de/event/pierce-the-veil-europe-2027-tickets/1459535225?language=en-us"
+    }
+   ],
+   "key": "pierce the veil|2027-06-22|cologne",
+   "isNew": true
+  },
+  {
    "artist": "Muse",
    "date": "2027-06-23T17:00:00",
    "noTime": false,
@@ -5815,6 +5815,24 @@
    ],
    "key": "muse|2027-06-23|cardiff",
    "isNew": false
+  },
+  {
+   "artist": "Pierce The Veil",
+   "date": "2027-06-23T20:00:00",
+   "noTime": false,
+   "venue": "Tempodrom",
+   "city": "Berlin",
+   "cc": "DE",
+   "lat": 52.50152,
+   "lng": 13.38175,
+   "links": [
+    {
+     "src": "Ticketmaster",
+     "url": "https://www.ticketmaster.de/event/pierce-the-veil-europe-2027-tickets/48710852?language=en-us"
+    }
+   ],
+   "key": "pierce the veil|2027-06-23|berlin",
+   "isNew": true
   },
   {
    "artist": "sombr",
@@ -5922,7 +5940,7 @@
     }
    ],
    "key": "david guetta|2027-06-27|",
-   "isNew": true
+   "isNew": false
   },
   {
    "artist": "Muse",
@@ -6013,6 +6031,24 @@
    ],
    "key": "alt j|2027-07-02|manchester",
    "isNew": false
+  },
+  {
+   "artist": "Olly Murs",
+   "date": "2027-07-02T18:00:00",
+   "noTime": false,
+   "venue": "Custom House Square Belfast",
+   "city": "Belfast",
+   "cc": "GB",
+   "lat": 54.60185975,
+   "lng": -5.923208,
+   "links": [
+    {
+     "src": "Ticketmaster",
+     "url": "https://www.ticketmaster.ie/olly-murs-belfast-02-07-2027/event/3800656D7CF60E4E"
+    }
+   ],
+   "key": "olly murs|2027-07-02|belfast",
+   "isNew": true
   },
   {
    "artist": "Harry Styles",
