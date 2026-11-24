@@ -1,5 +1,5 @@
 {
- "at": 1795454141388,
+ "at": 1795539355354,
  "spotifyAt": 1795186199180,
  "artists": [
   {
@@ -1604,78 +1604,6 @@
   }
  ],
  "events": [
-  {
-   "artist": "VOILÀ",
-   "date": "2026-11-23T18:00:00",
-   "noTime": false,
-   "venue": "Glasgow Garage",
-   "city": "Glasgow",
-   "cc": "GB",
-   "lat": 55.866296,
-   "lng": -4.268862,
-   "links": [
-    {
-     "src": "Ticketmaster",
-     "url": "https://www.ticketweb.uk/event/voil-not-a-toy-the-garage-tickets/14923513?REFERRAL_ID=tmfeed"
-    }
-   ],
-   "key": "voila|2026-11-23|glasgow",
-   "isNew": false
-  },
-  {
-   "artist": "sace6",
-   "date": "2026-11-23T19:00:00",
-   "noTime": false,
-   "venue": "Manchester Gorilla",
-   "city": "Manchester",
-   "cc": "GB",
-   "lat": 53.473982,
-   "lng": -2.243351,
-   "links": [
-    {
-     "src": "Ticketmaster",
-     "url": "https://www.ticketmaster.co.uk/sace6-manchester-23-11-2026/event/1F00646108809713"
-    }
-   ],
-   "key": "sace6|2026-11-23|manchester",
-   "isNew": false
-  },
-  {
-   "artist": "Julia Wolf",
-   "date": "2026-11-23T19:00:00",
-   "noTime": false,
-   "venue": "O2 Ritz Manchester",
-   "city": "Manchester",
-   "cc": "GB",
-   "lat": 53.474423,
-   "lng": -2.243098,
-   "links": [
-    {
-     "src": "Ticketmaster",
-     "url": "https://www.ticketmaster.co.uk/julia-wolf-manchester-23-11-2026/event/3E00648AB2F140F9"
-    }
-   ],
-   "key": "julia wolf|2026-11-23|manchester",
-   "isNew": false
-  },
-  {
-   "artist": "The Pretty Reckless",
-   "date": "2026-11-23T20:00:00",
-   "noTime": false,
-   "venue": "",
-   "city": "Amsterdam",
-   "cc": "NL",
-   "lat": 52.31236,
-   "lng": 4.94415,
-   "links": [
-    {
-     "src": "Ticketmaster",
-     "url": "https://www.ticketmaster.nl/event/the-pretty-reckless-dear-god-tour-tickets/1380854702?language=en-us"
-    }
-   ],
-   "key": "the pretty reckless|2026-11-23|amsterdam",
-   "isNew": false
-  },
   {
    "artist": "Julia Wolf",
    "date": "2026-11-24T19:00:00",
@@ -3981,6 +3909,24 @@
    "isNew": false
   },
   {
+   "artist": "Steve Lacy",
+   "date": "2027-04-26T18:30:00",
+   "noTime": false,
+   "venue": "The O2",
+   "city": "London",
+   "cc": "GB",
+   "lat": 51.501581,
+   "lng": 0.005519,
+   "links": [
+    {
+     "src": "Ticketmaster",
+     "url": "https://www.ticketmaster.co.uk/steve-lacy-london-26-04-2027/event/3500657430D885DD"
+    }
+   ],
+   "key": "steve lacy|2027-04-26|london",
+   "isNew": true
+  },
+  {
    "artist": "Ravyn Lenae",
    "date": "2027-05-01T19:00:00",
    "noTime": false,
@@ -5472,7 +5418,7 @@
     }
    ],
    "key": "sace6|2027-06-15|london",
-   "isNew": true
+   "isNew": false
   },
   {
    "artist": "Olly Murs",
@@ -5490,7 +5436,7 @@
     }
    ],
    "key": "olly murs|2027-06-16|london",
-   "isNew": true
+   "isNew": false
   },
   {
    "artist": "5 Seconds of Summer",
@@ -5796,7 +5742,7 @@
     }
    ],
    "key": "pierce the veil|2027-06-22|cologne",
-   "isNew": true
+   "isNew": false
   },
   {
    "artist": "Muse",
@@ -5832,7 +5778,7 @@
     }
    ],
    "key": "pierce the veil|2027-06-23|berlin",
-   "isNew": true
+   "isNew": false
   },
   {
    "artist": "sombr",
@@ -6048,7 +5994,7 @@
     }
    ],
    "key": "olly murs|2027-07-02|belfast",
-   "isNew": true
+   "isNew": false
   },
   {
    "artist": "Harry Styles",
@@ -6516,7 +6462,7 @@
    "links": [
     {
      "src": "Ticketmaster",
-     "url": "https://www.ticketmaster.co.uk/two-door-cinema-club-with-guests-scarborough-06-08-2027/event/35006565E141C67D"
+     "url": "https://www.ticketmaster.co.uk/two-door-cinema-club-with-guest-scarborough-06-08-2027/event/35006565E141C67D"
     }
    ],
    "key": "two door cinema club|2027-08-06|scarborough",
