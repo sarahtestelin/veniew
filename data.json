@@ -1,5 +1,5 @@
 {
- "at": 1795539355354,
+ "at": 1795625088596,
  "spotifyAt": 1795186199180,
  "artists": [
   {
@@ -1604,96 +1604,6 @@
   }
  ],
  "events": [
-  {
-   "artist": "Julia Wolf",
-   "date": "2026-11-24T19:00:00",
-   "noTime": false,
-   "venue": "KOKO",
-   "city": "London",
-   "cc": "GB",
-   "lat": 51.535029,
-   "lng": -0.139335,
-   "links": [
-    {
-     "src": "Ticketmaster",
-     "url": "https://www.ticketmaster.co.uk/julia-wolf-london-24-11-2026/event/1F00647FC56C3BEC"
-    }
-   ],
-   "key": "julia wolf|2026-11-24|london",
-   "isNew": false
-  },
-  {
-   "artist": "VOILÀ",
-   "date": "2026-11-24T19:00:00",
-   "noTime": false,
-   "venue": "Manchester Academy 2",
-   "city": "Manchester",
-   "cc": "GB",
-   "lat": 53.464386,
-   "lng": -2.232225,
-   "links": [
-    {
-     "src": "Ticketmaster",
-     "url": "https://www.ticketmaster.co.uk/voila-manchester-24-11-2026/event/1F0064C2DB25A82D"
-    }
-   ],
-   "key": "voila|2026-11-24|manchester",
-   "isNew": false
-  },
-  {
-   "artist": "Myla",
-   "date": "2026-11-24T19:30:00",
-   "noTime": false,
-   "venue": "The Courtyard Theatre",
-   "city": "London",
-   "cc": "GB",
-   "lat": 51.5278863,
-   "lng": -0.0833887,
-   "links": [
-    {
-     "src": "Ticketmaster",
-     "url": "https://www.ticketmaster.co.uk/myla-london-24-11-2026/event/35006515DA75B34C"
-    }
-   ],
-   "key": "myla|2026-11-24|london",
-   "isNew": false
-  },
-  {
-   "artist": "sace6",
-   "date": "2026-11-24T19:30:00",
-   "noTime": false,
-   "venue": "The Garage",
-   "city": "London",
-   "cc": "GB",
-   "lat": 51.546708,
-   "lng": -0.103855,
-   "links": [
-    {
-     "src": "Ticketmaster",
-     "url": "https://www.ticketmaster.co.uk/sace6-london-24-11-2026/event/1F006488BBF12FEB"
-    }
-   ],
-   "key": "sace6|2026-11-24|london",
-   "isNew": false
-  },
-  {
-   "artist": "Muse",
-   "date": "2026-11-24T19:30:00",
-   "noTime": false,
-   "venue": "",
-   "city": "Düsseldorf",
-   "cc": "DE",
-   "lat": 51.27169,
-   "lng": 6.81147,
-   "links": [
-    {
-     "src": "Ticketmaster",
-     "url": "https://www.ticketmaster.de/event/muse-the-wow-signal-europa-tour-tickets/738280896?language=en-us"
-    }
-   ],
-   "key": "muse|2026-11-24|dusseldorf",
-   "isNew": false
-  },
   {
    "artist": "Muse",
    "date": "2026-11-25T19:30:00",
@@ -3873,6 +3783,78 @@
    "isNew": false
   },
   {
+   "artist": "Chase Atlantic",
+   "date": "2027-04-15T20:00:00",
+   "noTime": false,
+   "venue": "Olympiahalle",
+   "city": "Munich",
+   "cc": "DE",
+   "lat": 48.17388,
+   "lng": 11.54549,
+   "links": [
+    {
+     "src": "Ticketmaster",
+     "url": "https://www.ticketmaster.de/event/chase-atlantic--dont-look-down-tour-tickets/1755489104?language=en-us"
+    }
+   ],
+   "key": "chase atlantic|2027-04-15|munich",
+   "isNew": true
+  },
+  {
+   "artist": "Isabel LaRosa",
+   "date": "2027-04-15T20:00:00",
+   "noTime": false,
+   "venue": "Olympiahalle",
+   "city": "Munich",
+   "cc": "DE",
+   "lat": 48.17388,
+   "lng": 11.54549,
+   "links": [
+    {
+     "src": "Ticketmaster",
+     "url": "https://www.ticketmaster.de/event/chase-atlantic--dont-look-down-tour-tickets/1755489104?language=en-us"
+    }
+   ],
+   "key": "isabel larosa|2027-04-15|munich",
+   "isNew": true
+  },
+  {
+   "artist": "Chase Atlantic",
+   "date": "2027-04-16T20:00:00",
+   "noTime": false,
+   "venue": "",
+   "city": "Cologne",
+   "cc": "DE",
+   "lat": 50.93855,
+   "lng": 6.97988,
+   "links": [
+    {
+     "src": "Ticketmaster",
+     "url": "https://www.ticketmaster.de/event/chase-atlantic--dont-look-down-tour-tickets/351310848?language=en-us"
+    }
+   ],
+   "key": "chase atlantic|2027-04-16|cologne",
+   "isNew": true
+  },
+  {
+   "artist": "Isabel LaRosa",
+   "date": "2027-04-16T20:00:00",
+   "noTime": false,
+   "venue": "",
+   "city": "Cologne",
+   "cc": "DE",
+   "lat": 50.93855,
+   "lng": 6.97988,
+   "links": [
+    {
+     "src": "Ticketmaster",
+     "url": "https://www.ticketmaster.de/event/chase-atlantic--dont-look-down-tour-tickets/351310848?language=en-us"
+    }
+   ],
+   "key": "isabel larosa|2027-04-16|cologne",
+   "isNew": true
+  },
+  {
    "artist": "Olivia Rodrigo",
    "date": "2027-04-19T18:00:00",
    "noTime": false,
@@ -3909,6 +3891,78 @@
    "isNew": false
   },
   {
+   "artist": "Chase Atlantic",
+   "date": "2027-04-22T20:00:00",
+   "noTime": false,
+   "venue": "Uber Arena",
+   "city": "Berlin",
+   "cc": "DE",
+   "lat": 52.50573,
+   "lng": 13.44314,
+   "links": [
+    {
+     "src": "Ticketmaster",
+     "url": "https://www.ticketmaster.de/event/chase-atlantic--dont-look-down-tour-tickets/2069742265?language=en-us"
+    }
+   ],
+   "key": "chase atlantic|2027-04-22|berlin",
+   "isNew": true
+  },
+  {
+   "artist": "Isabel LaRosa",
+   "date": "2027-04-22T20:00:00",
+   "noTime": false,
+   "venue": "Uber Arena",
+   "city": "Berlin",
+   "cc": "DE",
+   "lat": 52.50573,
+   "lng": 13.44314,
+   "links": [
+    {
+     "src": "Ticketmaster",
+     "url": "https://www.ticketmaster.de/event/chase-atlantic--dont-look-down-tour-tickets/2069742265?language=en-us"
+    }
+   ],
+   "key": "isabel larosa|2027-04-22|berlin",
+   "isNew": true
+  },
+  {
+   "artist": "Chase Atlantic",
+   "date": "2027-04-23T20:00:00",
+   "noTime": false,
+   "venue": "",
+   "city": "Frankfurt am Main",
+   "cc": "DE",
+   "lat": 50.11233,
+   "lng": 8.65073,
+   "links": [
+    {
+     "src": "Ticketmaster",
+     "url": "https://www.ticketmaster.de/event/chase-atlantic--dont-look-down-tour-tickets/1660765268?language=en-us"
+    }
+   ],
+   "key": "chase atlantic|2027-04-23|frankfurt am main",
+   "isNew": true
+  },
+  {
+   "artist": "Isabel LaRosa",
+   "date": "2027-04-23T20:00:00",
+   "noTime": false,
+   "venue": "",
+   "city": "Frankfurt am Main",
+   "cc": "DE",
+   "lat": 50.11233,
+   "lng": 8.65073,
+   "links": [
+    {
+     "src": "Ticketmaster",
+     "url": "https://www.ticketmaster.de/event/chase-atlantic--dont-look-down-tour-tickets/1660765268?language=en-us"
+    }
+   ],
+   "key": "isabel larosa|2027-04-23|frankfurt am main",
+   "isNew": true
+  },
+  {
    "artist": "Steve Lacy",
    "date": "2027-04-26T18:30:00",
    "noTime": false,
@@ -3924,6 +3978,42 @@
     }
    ],
    "key": "steve lacy|2027-04-26|london",
+   "isNew": false
+  },
+  {
+   "artist": "Chase Atlantic",
+   "date": "2027-04-26T20:00:00",
+   "noTime": false,
+   "venue": "Barclays Arena",
+   "city": "Hamburg",
+   "cc": "DE",
+   "lat": 53.58894,
+   "lng": 9.899,
+   "links": [
+    {
+     "src": "Ticketmaster",
+     "url": "https://www.ticketmaster.de/event/chase-atlantic--dont-look-down-tour-tickets/1274856160?language=en-us"
+    }
+   ],
+   "key": "chase atlantic|2027-04-26|hamburg",
+   "isNew": true
+  },
+  {
+   "artist": "Isabel LaRosa",
+   "date": "2027-04-26T20:00:00",
+   "noTime": false,
+   "venue": "Barclays Arena",
+   "city": "Hamburg",
+   "cc": "DE",
+   "lat": 53.58894,
+   "lng": 9.899,
+   "links": [
+    {
+     "src": "Ticketmaster",
+     "url": "https://www.ticketmaster.de/event/chase-atlantic--dont-look-down-tour-tickets/1274856160?language=en-us"
+    }
+   ],
+   "key": "isabel larosa|2027-04-26|hamburg",
    "isNew": true
   },
   {
@@ -3979,6 +4069,42 @@
    ],
    "key": "olivia rodrigo|2027-05-01|barcelona",
    "isNew": false
+  },
+  {
+   "artist": "Chase Atlantic",
+   "date": "2027-05-02T20:00:00",
+   "noTime": false,
+   "venue": "Hallenstadion",
+   "city": "Zürich",
+   "cc": "CH",
+   "lat": 47.41161,
+   "lng": 8.55166,
+   "links": [
+    {
+     "src": "Ticketmaster",
+     "url": "https://www.ticketmaster.ch/event/chase-atlantic--dont-look-down-tour-tickets/566976013?language=en-us"
+    }
+   ],
+   "key": "chase atlantic|2027-05-02|zurich",
+   "isNew": true
+  },
+  {
+   "artist": "Isabel LaRosa",
+   "date": "2027-05-02T20:00:00",
+   "noTime": false,
+   "venue": "Hallenstadion",
+   "city": "Zürich",
+   "cc": "CH",
+   "lat": 47.41161,
+   "lng": 8.55166,
+   "links": [
+    {
+     "src": "Ticketmaster",
+     "url": "https://www.ticketmaster.ch/event/chase-atlantic--dont-look-down-tour-tickets/566976013?language=en-us"
+    }
+   ],
+   "key": "isabel larosa|2027-05-02|zurich",
+   "isNew": true
   },
   {
    "artist": "Olivia Rodrigo",
@@ -4053,6 +4179,42 @@
    "isNew": false
   },
   {
+   "artist": "Chase Atlantic",
+   "date": "2027-05-05T20:00:00",
+   "noTime": false,
+   "venue": "Ziggo Dome",
+   "city": "Amsterdam",
+   "cc": "NL",
+   "lat": 52.31395,
+   "lng": 4.93837,
+   "links": [
+    {
+     "src": "Ticketmaster",
+     "url": "https://www.ticketmaster.nl/event/chase-atlantic--dont-look-down-tour-tickets/989546312?language=en-us"
+    }
+   ],
+   "key": "chase atlantic|2027-05-05|amsterdam",
+   "isNew": true
+  },
+  {
+   "artist": "Isabel LaRosa",
+   "date": "2027-05-05T20:00:00",
+   "noTime": false,
+   "venue": "Ziggo Dome",
+   "city": "Amsterdam",
+   "cc": "NL",
+   "lat": 52.31395,
+   "lng": 4.93837,
+   "links": [
+    {
+     "src": "Ticketmaster",
+     "url": "https://www.ticketmaster.nl/event/chase-atlantic--dont-look-down-tour-tickets/989546312?language=en-us"
+    }
+   ],
+   "key": "isabel larosa|2027-05-05|amsterdam",
+   "isNew": true
+  },
+  {
    "artist": "Olivia Rodrigo",
    "date": "2027-05-05T20:15:00",
    "noTime": false,
@@ -4069,6 +4231,42 @@
    ],
    "key": "olivia rodrigo|2027-05-05|barcelona",
    "isNew": false
+  },
+  {
+   "artist": "Chase Atlantic",
+   "date": "2027-05-06T18:30:00",
+   "noTime": false,
+   "venue": "AFAS Dome",
+   "city": "Merksem (Antwerpen)",
+   "cc": "BE",
+   "lat": 51.23024,
+   "lng": 4.44176,
+   "links": [
+    {
+     "src": "Ticketmaster",
+     "url": "https://www.ticketmaster.be/event/chase-atlantic--dont-look-down-tour-tickets/1023491974"
+    }
+   ],
+   "key": "chase atlantic|2027-05-06|merksem antwerpen",
+   "isNew": true
+  },
+  {
+   "artist": "Isabel LaRosa",
+   "date": "2027-05-06T18:30:00",
+   "noTime": false,
+   "venue": "AFAS Dome",
+   "city": "Merksem (Antwerpen)",
+   "cc": "BE",
+   "lat": 51.23024,
+   "lng": 4.44176,
+   "links": [
+    {
+     "src": "Ticketmaster",
+     "url": "https://www.ticketmaster.be/event/chase-atlantic--dont-look-down-tour-tickets/1023491974"
+    }
+   ],
+   "key": "isabel larosa|2027-05-06|merksem antwerpen",
+   "isNew": true
   },
   {
    "artist": "Olivia Rodrigo",
@@ -4179,6 +4377,42 @@
    "isNew": false
   },
   {
+   "artist": "Chase Atlantic",
+   "date": "2027-05-10T18:30:00",
+   "noTime": false,
+   "venue": "OVO Hydro",
+   "city": "Glasgow",
+   "cc": "GB",
+   "lat": 55.86087,
+   "lng": -4.288154,
+   "links": [
+    {
+     "src": "Ticketmaster",
+     "url": "https://www.ticketmaster.co.uk/venue-premium-chase-atlantic-dont-look-glasgow-10-05-2027/event/36006579C5F8960F"
+    }
+   ],
+   "key": "chase atlantic|2027-05-10|glasgow",
+   "isNew": true
+  },
+  {
+   "artist": "Isabel LaRosa",
+   "date": "2027-05-10T18:30:00",
+   "noTime": false,
+   "venue": "OVO Hydro",
+   "city": "Glasgow",
+   "cc": "GB",
+   "lat": 55.86087,
+   "lng": -4.288154,
+   "links": [
+    {
+     "src": "Ticketmaster",
+     "url": "https://www.ticketmaster.co.uk/chase-atlantic-dont-look-down-tour-glasgow-10-05-2027/event/3600657990243C4A"
+    }
+   ],
+   "key": "isabel larosa|2027-05-10|glasgow",
+   "isNew": true
+  },
+  {
    "artist": "Charlotte Cardin",
    "date": "2027-05-10T20:00:00",
    "noTime": false,
@@ -4197,6 +4431,78 @@
    "isNew": false
   },
   {
+   "artist": "Chase Atlantic",
+   "date": "2027-05-11T12:00:00",
+   "noTime": false,
+   "venue": "Utilita Arena Birmingham",
+   "city": "Birmingham",
+   "cc": "GB",
+   "lat": 52.479932,
+   "lng": -1.914924,
+   "links": [
+    {
+     "src": "Ticketmaster",
+     "url": "https://www.ticketmaster.co.uk/chase-atlantic-dont-look-down-tour-birmingham-11-05-2027/event/230065789D7B0CA3"
+    }
+   ],
+   "key": "chase atlantic|2027-05-11|birmingham",
+   "isNew": true
+  },
+  {
+   "artist": "Isabel LaRosa",
+   "date": "2027-05-11T12:00:00",
+   "noTime": false,
+   "venue": "Utilita Arena Birmingham",
+   "city": "Birmingham",
+   "cc": "GB",
+   "lat": 52.479932,
+   "lng": -1.914924,
+   "links": [
+    {
+     "src": "Ticketmaster",
+     "url": "https://www.ticketmaster.co.uk/chase-atlantic-dont-look-down-tour-birmingham-11-05-2027/event/230065789D7B0CA3"
+    }
+   ],
+   "key": "isabel larosa|2027-05-11|birmingham",
+   "isNew": true
+  },
+  {
+   "artist": "Chase Atlantic",
+   "date": "2027-05-13T18:30:00",
+   "noTime": false,
+   "venue": "The O2",
+   "city": "London",
+   "cc": "GB",
+   "lat": 51.501581,
+   "lng": 0.005519,
+   "links": [
+    {
+     "src": "Ticketmaster",
+     "url": "https://www.ticketmaster.co.uk/chase-atlantic-dont-look-down-tour-london-13-05-2027/event/35006577F55792D9"
+    }
+   ],
+   "key": "chase atlantic|2027-05-13|london",
+   "isNew": true
+  },
+  {
+   "artist": "Isabel LaRosa",
+   "date": "2027-05-13T18:30:00",
+   "noTime": false,
+   "venue": "The O2",
+   "city": "London",
+   "cc": "GB",
+   "lat": 51.501581,
+   "lng": 0.005519,
+   "links": [
+    {
+     "src": "Ticketmaster",
+     "url": "https://www.ticketmaster.co.uk/chase-atlantic-dont-look-down-tour-london-13-05-2027/event/35006577F55792D9"
+    }
+   ],
+   "key": "isabel larosa|2027-05-13|london",
+   "isNew": true
+  },
+  {
    "artist": "Olly Murs",
    "date": "2027-05-14T18:00:00",
    "noTime": false,
@@ -4213,6 +4519,42 @@
    ],
    "key": "olly murs|2027-05-14|buckinghamshire",
    "isNew": false
+  },
+  {
+   "artist": "Chase Atlantic",
+   "date": "2027-05-14T19:30:00",
+   "noTime": false,
+   "venue": "Co-op Live",
+   "city": "Manchester",
+   "cc": "GB",
+   "lat": 53.48661136,
+   "lng": -2.1995797,
+   "links": [
+    {
+     "src": "Ticketmaster",
+     "url": "https://www.ticketmaster.co.uk/chase-atlantic-dont-look-down-tour-manchester-14-05-2027/event/37006575CE8E8805"
+    }
+   ],
+   "key": "chase atlantic|2027-05-14|manchester",
+   "isNew": true
+  },
+  {
+   "artist": "Isabel LaRosa",
+   "date": "2027-05-14T19:30:00",
+   "noTime": false,
+   "venue": "Co-op Live",
+   "city": "Manchester",
+   "cc": "GB",
+   "lat": 53.48661136,
+   "lng": -2.1995797,
+   "links": [
+    {
+     "src": "Ticketmaster",
+     "url": "https://www.ticketmaster.co.uk/chase-atlantic-dont-look-down-tour-manchester-14-05-2027/event/37006575CE8E8805"
+    }
+   ],
+   "key": "isabel larosa|2027-05-14|manchester",
+   "isNew": true
   },
   {
    "artist": "sombr",
