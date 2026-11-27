@@ -1,6 +1,6 @@
 {
- "at": 1795709947443,
- "spotifyAt": 1795186199180,
+ "at": 1795795418792,
+ "spotifyAt": 1795795322863,
  "artists": [
   {
    "name": "The Neighbourhood",
@@ -8,11 +8,11 @@
   },
   {
    "name": "Nessa Barrett",
-   "score": 152
+   "score": 153
   },
   {
    "name": "Artemas",
-   "score": 141
+   "score": 147
   },
   {
    "name": "Bring Me The Horizon",
@@ -28,23 +28,31 @@
   },
   {
    "name": "Chase Atlantic",
-   "score": 67
-  },
-  {
-   "name": "Lady Gaga",
-   "score": 67
-  },
-  {
-   "name": "The Weeknd",
    "score": 66
   },
   {
+   "name": "Lady Gaga",
+   "score": 66
+  },
+  {
+   "name": "The Weeknd",
+   "score": 65
+  },
+  {
    "name": "Rihanna",
-   "score": 63
+   "score": 62
+  },
+  {
+   "name": "Catch Your Breath",
+   "score": 61
   },
   {
    "name": "Isabel LaRosa",
    "score": 59
+  },
+  {
+   "name": "Presley Regier",
+   "score": 56
   },
   {
    "name": "PLVTINUM",
@@ -55,31 +63,23 @@
    "score": 54
   },
   {
-   "name": "Catch Your Breath",
-   "score": 51
-  },
-  {
-   "name": "Chris Grey",
+   "name": "Ella Boh",
    "score": 50
   },
   {
-   "name": "Ella Boh",
+   "name": "Chris Grey",
    "score": 49
   },
   {
-   "name": "Presley Regier",
-   "score": 48
-  },
-  {
    "name": "Pierce The Veil",
-   "score": 47
+   "score": 49
   },
   {
    "name": "Tame Impala",
    "score": 46
   },
   {
-   "name": "Linkin Park",
+   "name": "London Grammar",
    "score": 45
   },
   {
@@ -87,16 +87,24 @@
    "score": 44
   },
   {
+   "name": "Linkin Park",
+   "score": 43
+  },
+  {
    "name": "Justin Bieber",
    "score": 40
   },
   {
    "name": "Britney Spears",
-   "score": 39
+   "score": 38
+  },
+  {
+   "name": "Panic! At The Disco",
+   "score": 37
   },
   {
    "name": "Kanye West",
-   "score": 38
+   "score": 37
   },
   {
    "name": "Fall Out Boy",
@@ -107,14 +115,6 @@
    "score": 37
   },
   {
-   "name": "Panic! At The Disco",
-   "score": 36
-  },
-  {
-   "name": "London Grammar",
-   "score": 36
-  },
-  {
    "name": "Ariana Grande",
    "score": 35
   },
@@ -123,15 +123,19 @@
    "score": 35
   },
   {
+   "name": "d4vd",
+   "score": 35
+  },
+  {
    "name": "David Guetta",
    "score": 34
   },
   {
-   "name": "d4vd",
-   "score": 34
+   "name": "Hamza",
+   "score": 33
   },
   {
-   "name": "Hamza",
+   "name": "Asal",
    "score": 33
   },
   {
@@ -144,7 +148,11 @@
   },
   {
    "name": "Motionless In White",
-   "score": 28
+   "score": 29
+  },
+  {
+   "name": "Twenty One Pilots",
+   "score": 29
   },
   {
    "name": "Mr.Kitty",
@@ -159,20 +167,12 @@
    "score": 27
   },
   {
-   "name": "Haiden Henderson",
+   "name": "Kae",
    "score": 25
   },
   {
-   "name": "Asal",
-   "score": 24
-  },
-  {
-   "name": "Three Days Grace",
-   "score": 24
-  },
-  {
-   "name": "Kae",
-   "score": 23
+   "name": "Haiden Henderson",
+   "score": 25
   },
   {
    "name": "ThxSoMch",
@@ -180,10 +180,6 @@
   },
   {
    "name": "Maroon 5",
-   "score": 23
-  },
-  {
-   "name": "Beach Weather",
    "score": 23
   },
   {
@@ -199,7 +195,15 @@
    "score": 23
   },
   {
+   "name": "Three Days Grace",
+   "score": 23
+  },
+  {
    "name": "GIMS",
+   "score": 23
+  },
+  {
+   "name": "Golden Cats",
    "score": 23
   },
   {
@@ -207,11 +211,11 @@
    "score": 22
   },
   {
-   "name": "Pitbull",
+   "name": "Beach Weather",
    "score": 22
   },
   {
-   "name": "Golden Cats",
+   "name": "Pitbull",
    "score": 22
   },
   {
@@ -231,28 +235,20 @@
    "score": 20
   },
   {
-   "name": "Twenty One Pilots",
-   "score": 19
-  },
-  {
    "name": "Fauve",
    "score": 19
-  },
-  {
-   "name": "Bruno Mars",
-   "score": 18
   },
   {
    "name": "sombr",
    "score": 18
   },
   {
-   "name": "Calvin Harris",
+   "name": "Bruno Mars",
    "score": 18
   },
   {
-   "name": "Jfarrari",
-   "score": 17
+   "name": "Calvin Harris",
+   "score": 18
   },
   {
    "name": "Spiritbox",
@@ -283,6 +279,10 @@
    "score": 15
   },
   {
+   "name": "The Killers",
+   "score": 15
+  },
+  {
    "name": "Lisp",
    "score": 15
   },
@@ -295,12 +295,12 @@
    "score": 14
   },
   {
-   "name": "The Killers",
+   "name": "akiaura",
    "score": 14
   },
   {
    "name": "Night Tapes",
-   "score": 14
+   "score": 13
   },
   {
    "name": "Ex Habit",
@@ -331,6 +331,14 @@
    "score": 12
   },
   {
+   "name": "Awaken I Am",
+   "score": 12
+  },
+  {
+   "name": "Jfarrari",
+   "score": 12
+  },
+  {
    "name": "Sean Paul",
    "score": 12
   },
@@ -343,15 +351,19 @@
    "score": 12
   },
   {
+   "name": "Konomi Suzuki",
+   "score": 11
+  },
+  {
+   "name": "Colorblind",
+   "score": 11
+  },
+  {
    "name": "noise dept.",
    "score": 11
   },
   {
    "name": "Myla",
-   "score": 11
-  },
-  {
-   "name": "Awaken I Am",
    "score": 11
   },
   {
@@ -415,6 +427,10 @@
    "score": 10
   },
   {
+   "name": "ADÉLA",
+   "score": 9
+  },
+  {
    "name": "Chris Isaak",
    "score": 9
   },
@@ -447,10 +463,6 @@
    "score": 9
   },
   {
-   "name": "akiaura",
-   "score": 9
-  },
-  {
    "name": "Wiz Khalifa",
    "score": 9
   },
@@ -459,11 +471,11 @@
    "score": 9
   },
   {
-   "name": "ADÉLA",
-   "score": 9
+   "name": "Jesse®",
+   "score": 8
   },
   {
-   "name": "Jesse®",
+   "name": "Avenged Sevenfold",
    "score": 8
   },
   {
@@ -523,15 +535,7 @@
    "score": 7
   },
   {
-   "name": "Punctual",
-   "score": 7
-  },
-  {
    "name": "Thomas LaRosa",
-   "score": 7
-  },
-  {
-   "name": "Lolo Zouaï",
    "score": 7
   },
   {
@@ -621,6 +625,10 @@
   {
    "name": "RAYE",
    "score": 7
+  },
+  {
+   "name": "Flyleaf",
+   "score": 6
   },
   {
    "name": "Dexter and The Moonrocks",
@@ -751,10 +759,6 @@
    "score": 6
   },
   {
-   "name": "Flyleaf",
-   "score": 5
-  },
-  {
    "name": "Nirvana",
    "score": 5
   },
@@ -776,6 +780,10 @@
   },
   {
    "name": "Fordo",
+   "score": 5
+  },
+  {
+   "name": "Punctual",
    "score": 5
   },
   {
@@ -836,10 +844,6 @@
   },
   {
    "name": "Beach House",
-   "score": 5
-  },
-  {
-   "name": "Childish Gambino",
    "score": 5
   },
   {
@@ -1007,6 +1011,10 @@
    "score": 4
   },
   {
+   "name": "Lolo Zouaï",
+   "score": 4
+  },
+  {
    "name": "Fyex",
    "score": 4
   },
@@ -1084,6 +1092,10 @@
   },
   {
    "name": "Steve Lacy",
+   "score": 4
+  },
+  {
+   "name": "Childish Gambino",
    "score": 4
   },
   {
@@ -1243,6 +1255,10 @@
    "score": 4
   },
   {
+   "name": "nothhingspecial",
+   "score": 4
+  },
+  {
    "name": "satine",
    "score": 4
   },
@@ -1311,10 +1327,6 @@
    "score": 3
   },
   {
-   "name": "Konomi Suzuki",
-   "score": 3
-  },
-  {
    "name": "Re:ZERO Music",
    "score": 3
   },
@@ -1352,10 +1364,6 @@
   },
   {
    "name": "CH4YN",
-   "score": 3
-  },
-  {
-   "name": "Estelle",
    "score": 3
   },
   {
@@ -1593,107 +1601,9 @@
   {
    "name": "Wyclef Jean",
    "score": 3
-  },
-  {
-   "name": "BB Brunes",
-   "score": 3
-  },
-  {
-   "name": "Mozart Opera Rock",
-   "score": 3
   }
  ],
  "events": [
-  {
-   "artist": "The Pretty Reckless",
-   "date": "2026-11-26T19:00:00",
-   "noTime": false,
-   "venue": "The Prospect Building",
-   "city": "Bristol",
-   "cc": "GB",
-   "lat": 51.44896002,
-   "lng": -2.57363452,
-   "links": [
-    {
-     "src": "Ticketmaster",
-     "url": "https://www.ticketmaster.co.uk/the-pretty-reckless-bristol-26-11-2026/event/3500646CA7643B55"
-    }
-   ],
-   "key": "the pretty reckless|2026-11-26|bristol",
-   "isNew": false
-  },
-  {
-   "artist": "VOILÀ",
-   "date": "2026-11-26T19:00:00",
-   "noTime": false,
-   "venue": "O2 Shepherds Bush Empire",
-   "city": "London",
-   "cc": "GB",
-   "lat": 51.503525,
-   "lng": -0.224435,
-   "links": [
-    {
-     "src": "Ticketmaster",
-     "url": "https://www.ticketmaster.co.uk/voila-london-26-11-2026/event/3E0064BBEA4A6B8B"
-    }
-   ],
-   "key": "voila|2026-11-26|london",
-   "isNew": false
-  },
-  {
-   "artist": "Artemas",
-   "date": "2026-11-26T20:00:00",
-   "noTime": false,
-   "venue": "",
-   "city": "Berlin",
-   "cc": "DE",
-   "lat": 52.48684,
-   "lng": 13.42145,
-   "links": [
-    {
-     "src": "Ticketmaster",
-     "url": "https://www.ticketmaster.de/event/artemas-lovercore-getting-up-to-no-good-tour-tickets/334762825?language=en-us"
-    }
-   ],
-   "key": "artemas|2026-11-26|berlin",
-   "isNew": false
-  },
-  {
-   "artist": "Henry Morris",
-   "date": "2026-11-26T20:00:00",
-   "noTime": false,
-   "venue": "",
-   "city": "Berlin",
-   "cc": "DE",
-   "lat": 52.48684,
-   "lng": 13.42145,
-   "links": [
-    {
-     "src": "Ticketmaster",
-     "url": "https://www.ticketmaster.de/event/artemas-lovercore-getting-up-to-no-good-tour-tickets/334762825?language=en-us"
-    }
-   ],
-   "key": "henry morris|2026-11-26|berlin",
-   "isNew": false
-  },
-  {
-   "artist": "Ella Boh",
-   "date": "2026-11-26T20:00:00",
-   "noTime": false,
-   "venue": "",
-   "city": "Berlin",
-   "cc": "DE",
-   "lat": 52.48684,
-   "lng": 13.42145,
-   "links": [
-    {
-     "src": "Ticketmaster",
-     "url": "https://www.ticketmaster.de/event/artemas-lovercore-getting-up-to-no-good-tour-tickets/334762825?language=en-us"
-    }
-   ],
-   "key": "ella boh|2026-11-26|berlin",
-   "isNew": false
-  },
   {
    "artist": "The Pretty Reckless",
    "date": "2026-11-27T19:00:00",
@@ -2880,7 +2790,7 @@
     }
    ],
    "key": "grandson|2027-02-05|london",
-   "isNew": true
+   "isNew": false
   },
   {
    "artist": "Two Door Cinema Club",
@@ -2970,7 +2880,7 @@
     }
    ],
    "key": "grandson|2027-02-13|birmingham",
-   "isNew": true
+   "isNew": false
   },
   {
    "artist": "Charli xcx",
@@ -3979,6 +3889,24 @@
    ],
    "key": "isabel larosa|2027-04-26|hamburg",
    "isNew": false
+  },
+  {
+   "artist": "Steve Lacy",
+   "date": "2027-04-27T18:30:00",
+   "noTime": false,
+   "venue": "The O2",
+   "city": "London",
+   "cc": "GB",
+   "lat": 51.501581,
+   "lng": 0.005519,
+   "links": [
+    {
+     "src": "Ticketmaster",
+     "url": "https://www.ticketmaster.co.uk/steve-lacy-london-27-04-2027/event/350065743C95902C"
+    }
+   ],
+   "key": "steve lacy|2027-04-27|london",
+   "isNew": true
   },
   {
    "artist": "Ravyn Lenae",
