@@ -1,5 +1,5 @@
 {
- "at": 1795795418792,
+ "at": 1795877961993,
  "spotifyAt": 1795795322863,
  "artists": [
   {
@@ -1604,24 +1604,6 @@
   }
  ],
  "events": [
-  {
-   "artist": "The Pretty Reckless",
-   "date": "2026-11-27T19:00:00",
-   "noTime": false,
-   "venue": "University of Wolverhampton at The Civic Hall",
-   "city": "Wolverhampton",
-   "cc": "GB",
-   "lat": 52.586653,
-   "lng": -2.130802,
-   "links": [
-    {
-     "src": "Ticketmaster",
-     "url": "https://www.ticketmaster.co.uk/the-pretty-reckless-wolverhampton-27-11-2026/event/1F00646CAA6F36E3"
-    }
-   ],
-   "key": "the pretty reckless|2026-11-27|wolverhampton",
-   "isNew": false
-  },
   {
    "artist": "Dayseeker",
    "date": "2026-11-28T18:30:00",
@@ -3906,7 +3888,7 @@
     }
    ],
    "key": "steve lacy|2027-04-27|london",
-   "isNew": true
+   "isNew": false
   },
   {
    "artist": "Ravyn Lenae",
